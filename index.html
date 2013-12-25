@@ -18,7 +18,7 @@
         <h1>The Geekonaut</h1>
         <h2>Floating in cyberspace</h2>
 
-        <section id="downloads">
+        <section id="links">
           <a href="https://github.com/AVGP" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
       </div>
@@ -37,9 +37,14 @@
            GCS d-(+)@ s+: a-- C+++$ UBL+++$ P+@ L++++$ !E W+++$ !N !o !K-- !w !O M-$ !V PS+ PE Y+ PGP !t !5 X+ R tv+ b++ DI D+ G+ e+ h- r++ y+<br>
            ------END GEEK CODE BLOCK------</p>
 
-        <div id="twylah-trending-AVGP-horizontal"></div>
+        <div id="twylah-trending-AVGP-horizontal" style="background-color: white;"></div>
         <script src="http://www.twylah.com/AVGP/widgets/trending?layout=horizontal&div_id=twylah-trending-AVGP-horizontal&widget_caption="></script>
         <noscript><a href="http://www.twylah.com/AVGP" >See @AVGP's trending tweets</a></noscript>
+        
+        <div>
+          <h3>Latest Github activity</h3>
+          <ul id="github_activity"></ul>
+        </div>
       </section>
 
       <section id="whats-this">
@@ -73,9 +78,10 @@
         <h3>Projects</h3>
         <ul>
           <li><a href="http://www.w3.org/community/remotedom/">Remote DOM W3C group</a></li>
+          <li><a href="https://github.com/centralway/grunt-phonegap-build">grunt-phonegap-build</a></li>
+          <li><a href="https://github.com/martin-naumann/stackmin">Stackmin</a></li>
+          <li><a href="https://chrome.google.com/webstore/detail/zen-pad/gmlhlgiakpebmhfjhplgacpbacebghbd?hl=en">Zen Pad</a></li>
           <li><a href="http://codegra.de">Codegrade</a></li>
-          <li>Firefox OS</li>
-          <li><a href="https://github.com/mozilla/appmaker">Mozilla Appmaker</a></li>
         </ul>
       </section>
       
@@ -83,7 +89,6 @@
         <h3>In the pipeline</h3>
         <p>Crazy ideas, basic prototypes and stuff that is just in my head yet lies beyond this point...</p>
         <ul>
-          <li>Freakazoid - a ChaosMoney-ish tool for failure testing infrastructure</li>
           <li>Instant Prototyping - prototype hybrid apps in real time using web sockets and magic</li>
           <li>A comprehensive DOM manipulation benchmark</li>
           <li>Omni - a multimodal web interface concept</li>
@@ -91,5 +96,37 @@
         </ul>
       </section>
     </div>
+          <script type="javascript">
+            var xhr = new XMLHttpRequest();
+            xhr.open("get", "https://api.github.com/users/avgp/events", true);
+            xhr.send();
+            var events = JSON.parse(xhr.responseText);
+            var list = document.getElementById("github_activity");
+            for(var i=0; i<events.length; i++) {
+              var action = null;
+              switch(events[i].type) {
+                case "CommitCommentEvent":
+                  action = "Commented a commit in"
+                  break;
+                case "CreateEvent":
+                  action = "Created";
+                  break;
+                case "DeleteEvent":
+                  action = "Deleted";
+                  break;
+                case "ForkEvent":
+                  action = "Forked"
+                  break;
+                case "PushEvent":
+                  action = "Pushed to";
+                  break;
+                case "ReleaseEvent":
+                  action = "Created a new release for";
+                  break;
+              }
+              if(action !== null) list.innerHTML += "<li>" + action + " " + events[i].repo.name + "</li>";
+            }
+          </script>
+    
   </body>
 </html>
