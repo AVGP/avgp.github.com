@@ -96,11 +96,17 @@
         </ul>
       </section>
     </div>
-          <script type="javascript">
+          <script type="text/javascript">
             var xhr = new XMLHttpRequest();
-            xhr.open("get", "https://api.github.com/users/avgp/events", true);
+            xhr.open("get", "https://api.github.com/users/avgp/events", false);
             xhr.send();
-            var events = JSON.parse(xhr.responseText);
+            
+            var events = [];
+            try {
+              events = JSON.parse(xhr.responseText);
+            } catch(e) {
+              console.log(e, xhr.responseText);
+            }
             var list = document.getElementById("github_activity");
             for(var i=0; i<events.length; i++) {
               var action = null;
@@ -124,7 +130,7 @@
                   action = "Created a new release for";
                   break;
               }
-              if(action !== null) list.innerHTML += "<li>" + action + " " + events[i].repo.name + "</li>";
+              if(action !== null) list.innerHTML += "<li>" + action + " <a href=\"https://github.com/" + events[i].repo.name + "\">" + events[i].repo.name + "</a></li>";
             }
           </script>
     
