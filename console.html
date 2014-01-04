@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>guest@geekonaut.de &gt;</title>
+        <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+        <link href='stylesheets/terminal.css' rel='stylesheet' type='text/css'>
+
+        <script src="javascripts/marked.js"></script>
+        <script src="javascripts/terminal.js"></script>
+    </head>
+    <body>
+        <div id="terminal">
+            <p>
+                <span class="prompt">guest@geekonaut.de &gt; </span>
+                <span contenteditable="true" class="input"> </span>
+            </p>
+        </div>
+        <script>
+            terminal.init(document.getElementById("terminal"));
+        </script>
+    </body>
+</html>
