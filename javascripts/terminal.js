@@ -39,6 +39,13 @@ var terminal = (function(elem) {
       xhr.open("get", "content/" + args[1], false);
       xhr.send();
       var output = "<div>";
+      
+      if(xhr.status != 200) {
+          output += "<p style=\"color: red\">That can't be displayed :(</p>" +
+                    "<p>Hint: Use the full filename, e.g. \"home.md\".</p></div>"
+          return output;
+      }
+      
       output += marked(xhr.responseText);
       output += "</div>";
 
