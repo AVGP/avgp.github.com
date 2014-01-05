@@ -11,14 +11,30 @@
     <body>
         <div id="terminal">
             <p>Logging in... <span style="color:#0f0">success</span></p>
-            <p>Welcome to geekonaut.de! Type "help" to get started...</p>
+            <noscript>
+                <p style="color: red; font-weight: bold">Error detected: No Javascript.</p>
+                <p>Entering read-only mode... <span style="color:#0f0">success</span></p>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="showcase.html">Showcase</a></li>
+                    <li><a href="tools.html">Tools</a></li>
+                    <li><a href="projects.html">Projects</a></li>                    
+                    <li><a href="slides.html">Slide decks</a></li>
+                    <li><a href="videos.html">Videos</a></li>
+                </ul>
+            </noscript>
+            
+            <p class="hidden">Welcome to geekonaut.de! Type "help" to get started...</p>
             <br>
-            <p>
+            <p class="hidden">
                 <span class="prompt">guest@geekonaut.de &gt; </span>
                 <span contenteditable="true" class="input"> </span>
             </p>
         </div>
         <script>
+            Array.prototype.forEach.call(document.querySelectorAll(".hidden"), function(elem) {
+                elem.classList.remove("hidden");
+            });
             terminal.init(document.getElementById("terminal"));
         </script>
     </body>
