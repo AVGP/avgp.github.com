@@ -18,7 +18,7 @@ a, a:visited {
     height:      100%;
 }
 
-.input {
+#terminal .input {
     height:         1em;
     min-width:      1em;
     outline-color:  black;
