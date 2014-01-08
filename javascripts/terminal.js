@@ -97,7 +97,7 @@ var terminal = (function(elem) {
             
             updateHistory(prompt.textContent.replace(/^\s+|\s+$/g, "")); 
             
-            var input = prompt.textContent.split(" ");
+            var input = prompt.textContent.replace(/^\s+|\s+$/g, "").split(" ");
             if(input[0] && input[0] in commands) {
                 runCommand(elem, input[0], input);
             }
