@@ -95,7 +95,7 @@ var terminal = (function(elem) {
             var prompt = event.target;
             if(event.keyCode != 13) return false;
             
-            updateHistory(prompt.textContent); 
+            updateHistory(prompt.textContent.replace(/^\s+|\s+$/g, "")); 
             
             var input = prompt.textContent.split(" ");
             if(input[0] && input[0] in commands) {
