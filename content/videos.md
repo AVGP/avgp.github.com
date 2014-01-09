@@ -1,5 +1,10 @@
 # Videos
 
+## The future is hybrid... or is it?
+Future of web apps 2013, London
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/-gbOwv8RrqA" frameborder="0" allowfullscreen></iframe>
+
 ## Responsive user experiences
 LXJS 2013, Lisbon
 
