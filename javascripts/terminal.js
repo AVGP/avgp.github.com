@@ -14,12 +14,13 @@ var terminal = (function(elem) {
                "<p>Here is what you can do:</p>" +
                "<ul>" +
                "<li><strong>ls</strong> - lists the available content files</li>" +
-               "<li><strong>more FILE</strong> - shows the content of FILE</li>"
+               "<li><strong>more FILE</strong> - shows the content of FILE</li>" +
+               "<li><strong>exit</strong> - exits to the homepage</li>"
                "</ul>";
     };
 
     commands.exit = function() {
-        return "<p>I'm sorry, Dave. I'm afraid I can't do that.</p>"
+        window.location.href = "index.html";
     };
 
     commands.ls = function(args) {
