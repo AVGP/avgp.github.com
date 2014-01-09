@@ -16,7 +16,7 @@ var terminal = (function(elem) {
                "<li><strong>ls</strong> - lists the available content files</li>" +
                "<li><strong>more FILE</strong> - shows the content of FILE</li>" +
                "<li><strong>exit</strong> - exits to the homepage</li>"
-               "</ul>";
+               "</ul><p>Pro tip: There's a telnet listening on 2342, too. :)</p>";
     };
 
     commands.exit = function() {
