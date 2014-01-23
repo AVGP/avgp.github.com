@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Web component compatibility test</title>
+    <style>
+      td, th {
+        border: thin solid;
+      }
+    
+      td {
+        font-weight: bold;
+      }
+    
+      .yay {
+        color: green;
+      }
+      
+      .meh {
+        color: #883;
+      }
+      
+      .nope {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+  <h1>Web component test</h1>
+  <section>
+    <article>
+    <h2>What is tested</h2>
+      <p>This page tries to test for support of the following web standard proposals related to web components:</p>
+      <ol>
+        <li>Template element</li>
+        <li>Shadow DOM</li>
+        <li>Custom elements</li>
+      </ol>
+    </article>
+    
+    <article>
+      <h2>Contributions, errors and feedback</h2>
+      <p>The test's source code is hosted on Github and pull requests or issues are highly appreciated, if you spot a problem with the test results.</p>
+    </article>
+  </section>
+  
+  <section>
+    <article>
+      <h2>Test results</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Templates</th>
+            <th>Shadow DOM</th>
+            <th>Custom Elements</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td id="templates">Loading...</td>
+            <td id="shadow">Loading...</td>
+            <td id="elements">Loading...</td>
+          </tr>
+        </tbody>
+      </table>
+    </article>
+  </section>
+  
+  <template id="t"></template>
+  <x-foo></x-foo>
+  
+  <script>
+    //Shadow DOM test
+    var shadowResult = document.getElementById("shadow");
+    if(document.body.createShadowRoot) {
+      shadowResult.textContent = "Supported";
+      shadowResult.classList.add("yay");
+    } else if(document.body.webkitCreateShadowRoot) {
+      shadowResult.textContent = "Prefixed";
+      shadowResult.classList.add("meh");
+    } else {
+      shadowResult.textContent = "Not supported";
+      shadowResult.classList.add("nope");
+    }
+    
+    
+    //Template test
+    var templateResult = document.getElementById("templates");
+    if(document.getElementById("t") instanceof HTMLTemplateElement && document.getElementById("t").content) {
+      templateResult.textContent = "Supported";
+      templateResult.classList.add("yay");
+    } else {
+      templateResult.textContent = "Not supported";
+      templateResult.classList.add("nope");
+    }
+    
+    
+    // Custom elements test
+    var elemResult = document.getElementById("elements");
+    if(document.registerElement) {
+      elemResult.textContent = "Partial";
+      elemResult.classList.add("meh");
+      
+      var proto = Object.create(HTMLElement.prototype);
+      proto.attachedCallback = function() {
+        elemResult.textContent = "Supported";
+        elemResult.classList.add("yay");
+        elemResult.classList.remove("meh");
+      };
+      
+      var XFoo = document.registerElement("x-foo", {prototype: proto});
+    } else if(document.webkitRegisterElement) {
+      elemResult.textContent = "Partial";
+      elemResult.classList.add("meh");
+    } else {
+      elemResult.textContent = "Not supported";
+      elemResult.classList.add("nope");
+    }
+    
+  </script>
+  
+  </body>
+</html>
