@@ -96,7 +96,7 @@ var terminal = (function(elem) {
     };
 
     var autoCompleteInput = function(input) {
-        var cmds        = self.commands,
+        var cmds        = commands,
             re          = new RegExp("^" + input, "ig"),
             suggestions = [];
         console.log("*" + input + "*", cmds);
