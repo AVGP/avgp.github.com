@@ -47,13 +47,14 @@ var flipAhead = function(wnd) {
   self.handle = function(event) {
     if(event.type != "touchstart"  && event.type != "touchend" && 
        event.type != "touchcancel" && event.type != "touchleave") return;
-    event.preventDefault(true);
 
     if((event.type == "touchstart" && event.touches.length < 2)) return;
     if((event.type == "touchstart" && event.touches.length > 2)) {
       gestureStartCoords = [];
       return;
     }
+
+    event.preventDefault(true);
 
     if(event.type == "touchstart") {
       for(var i=0;i<event.touches.length;i++) {
