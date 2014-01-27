@@ -27,6 +27,12 @@ Works with Ruby gems and Node modules.
 
 [Github repository](https://github.com/martin-naumann/all-your-licenses)
 
+## flipAhead.js
+Javascript library that allows page navigation by two finger swipe, 
+similar and compatible with [Internet Explorer flip ahead browsing](http://msdn.microsoft.com/en-us/library/ie/jj883726.aspx).
+
+[Github repository](https://github.com/avgp/flipAhead.js)
+
 ## Blogdown
 A proof-of-concept markdown-based blogging application using Firebase for data storage.
 
