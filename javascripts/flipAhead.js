@@ -45,9 +45,6 @@ var flipAhead = function(wnd) {
   };
   
   self.handle = function(event) {
-
-    document.body.innerHTML += gestureStartCoords.length + "&nbsp;";
-
     if(event.type != "touchstart"  && event.type != "touchend" && 
        event.type != "touchcancel" && event.type != "touchleave") return;
     event.preventDefault(true);
