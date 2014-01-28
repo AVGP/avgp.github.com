@@ -27,6 +27,11 @@ Works with Ruby gems and Node modules.
 
 [Github repository](https://github.com/martin-naumann/all-your-licenses)
 
+## Yeah Metrics
+Push your code quality metrics to [keen.io](http://www.keen.io) using [the reporters](https://github.com/avgp/yeah-metrics-reporters) and visualize them as a simple dashboard.
+
+[Github repository](https://github.com/avgp/yeah-metrics)
+
 ## flipAhead.js
 Javascript library that allows page navigation by two finger swipe, 
 similar and compatible with [Internet Explorer flip ahead browsing](http://msdn.microsoft.com/en-us/library/ie/jj883726.aspx).
@@ -38,11 +43,6 @@ A proof-of-concept markdown-based blogging application using Firebase for data s
 
 [See it in action](http://avgp.github.io/blogdown)
 [Github repository](https://github.com/avgp/blogdown)
-
-## Yeah Metrics
-Push your code quality metrics to [keen.io](http://www.keen.io) using [the reporters](https://github.com/avgp/yeah-metrics-reporters) and visualize them as a simple dashboard.
-
-[Github repository](https://github.com/avgp/yeah-metrics)
 
 ## Selenize
 Web app for importing Git repositories and running Selenium tests via phpUnit on a dedicated server.
