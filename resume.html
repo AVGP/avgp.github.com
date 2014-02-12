@@ -4,9 +4,247 @@
     <meta charset='utf-8'>
     <meta name="author" content="Martin Naumann">
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <style>
+      @media screen {
+        body {
+          margin: 0;
+          padding: 0;
+          background: #151515 url("../images/bkg.png") 0 0;
+          color: #eaeaea;
+          font: 16px;
+          line-height: 1.5;
+          font-family: Helvetica, Arial, sans-serif;
+        }
+        
+        /* General & 'Reset' Stuff */
+        
+        .container {
+          width: 90%;
+          max-width: 600px;
+          margin: 0 auto;
+        }
+        
+        section {
+          display: block;
+          margin: 0 0 20px 0;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+          margin: 0 0 20px;
+        }
+        
+        h3 {
+          margin-bottom: 0.25em;
+        }
+        
+        li {
+          line-height: 1.4 ;
+        }
+        
+        /* Header, <header>
+           header   - container
+           h1       - project name
+           h2       - project description
+        */
+        
+        header {
+          background: rgba(0, 0, 0, 0.1);
+          width: 100%;
+          border-bottom: 1px dashed #b5e853;
+          padding: 20px 0;
+          margin: 0 0 40px 0;
+        }
+        
+        header h1 {
+          font-size: 30px;
+          line-height: 1.5;
+          margin: 0 0 0 -40px;
+          font-weight: bold;
+          font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+          color: #b5e853;
+          text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+                       0 0 5px rgba(181, 232, 83, 0.1),
+                       0 0 10px rgba(181, 232, 83, 0.1);
+          letter-spacing: -1px;
+          -webkit-font-smoothing: antialiased;
+        }
+        
+        header h1:before {
+          content: "./ ";
+          font-size: 24px;
+        }
+        
+        header h2 {
+          font-size: 18px;
+          font-weight: 300;
+          color: #959595;
+        }
+        
+        /* Main Content
+        */
+        
+        #main_content {
+          width: 100%;
+          -webkit-font-smoothing: antialiased;
+        }
+        section img {
+          max-width: 100%
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+          font-weight: normal;
+          font-family: Helvetica, Arial, sans-serif;
+          color: #b5e853;
+          letter-spacing: -0.03em;
+          text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+                       0 0 5px rgba(181, 232, 83, 0.1),
+                       0 0 10px rgba(181, 232, 83, 0.1);
+        }
+        
+        #main_content h1 {
+          font-size: 30px;
+        }
+        
+        #main_content h2 {
+          font-size: 24px;
+        }
+        
+        #main_content h3 {
+          font-size: 18px;
+        }
+        
+        #main_content h4 {
+          font-size: 14px;
+        }
+        
+        #main_content h5 {
+          font-size: 12px;
+          text-transform: uppercase;
+          margin: 0 0 5px 0;
+        }
+        
+        #main_content h6 {
+          font-size: 12px;
+          text-transform: uppercase;
+          color: #999;
+          margin: 0 0 5px 0;
+        }
+        
+        dt {
+          font-style: italic;
+          font-weight: bold;
+        }
+        
+        ul li {
+          list-style: none;
+        }
+        
+        article {
+          margin-top: 2em;
+        }
+        
+        section ul li:before {
+          content: ">>";
+          font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+          font-size: 13px;
+          color: #b5e853;
+          margin-left: -37px;
+          margin-right: 21px;
+          line-height: 16px;
+        }
+        
+        p {
+          margin-top: 0;
+        }
+        
+        table {
+          width: 100%;
+          margin: 0 0 20px 0;
+        }
+        
+        th {
+          text-align: left;
+          border-bottom: 1px dashed #b5e853;
+          padding: 5px 10px;
+        }
+        
+        td {
+          padding: 5px 10px;
+        }
+        
+        hr {
+          height: 0;
+          border: 0;
+          border-bottom: 1px dashed #b5e853;
+          color: #b5e853;
+        }
+        
+        /* Links
+           a, a:hover, a:visited
+        */
+        
+        a {
+          color: #63c0f5;
+          text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+        }
+        
+        a.active {
+          color: #88ffaa;
+        }
+        
+        /* Clearfix */
+        
+        .cf:before, .cf:after {
+          content:"";
+          display:table;
+        }
+        
+        .cf:after {
+          clear:both;
+        }
+        
+        .cf {
+          zoom:1;
+        }
+
+        /* Floats */
+        
+        .floatLeft  { float: left; }
+        .floatRight { float: right; }
+        
+        /* the timeline */
+        
+        .timeline {
+          list-style: none;
+          border-left: 1px solid #ccee88;
+        }
+        
+        .timeline li:before {
+          position: relative;
+
+          width:  10px;
+          height: 10px;
+          left:  -10px;
+
+          background-color: #b5e853;
+          border: 1px #b5e853 solid;
+          border-radius: 10px;
+
+          content: "";
+
+          display: inline-block;
+        }
+        
+        .timespan {
+          position: relative;
+          left: -200px;
+          top: -4.5em;
+          width: 150px;
+          text-align: right;
+        }
+      }
+      
+    </style>
 
     <title>Martin Naumann::Resume</title>
   </head>
@@ -17,28 +255,18 @@
         <h1>The Geekonaut</h1>
         <h2>Resume</h2>
 
-        <nav>
-          <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="showcase.html">Showcase</a></li>
-            <li><a href="tools.html">Tools</a></li>
-            <li><a href="projects.html" class="active">Projects</a></li>
-            <li><a href="slides.html">Slide decks</a></li>
-            <li><a href="videos.html">Videos</a></li>
-            <li><a href="console.html">Terminal</a></li>
-          </ul>
-        </nav>
-
         <section id="links">
-          <a href="https://github.com/AVGP" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <a href="https://github.com/AVGP" class="btn btn-github"><span class="icon"></span>GitHub profile</a>
           <a href="https://ox86.tumblr.com" class="btn">Blog</a>
         </section>
       </div>
     </header>
 
+
     <div class="container">
       <section id="main_content">
-        <aside class="vcard">
+        <article class="vcard">
+          <h2>Quick intro</h2>
           <table>
             <tr>
               <td>Name</td>
@@ -54,7 +282,7 @@
             </tr>
             <tr>
               <td>Role</td>
-              <td class="role">Generic IT engineering problem solver</td>
+              <td class="role">Problem &#9658; Solution wizard</td>
             </tr>
             <tr>
               <td>Organization</td>
@@ -65,8 +293,90 @@
               <td><a href="https://twitter.com/avgp" class="url">@<span class="nickname">avgp</span> on Twitter</a> | <a class="url" href="http://ch.linkedin.com/in/martinnaumann1">LinkedIn</a> | <a href="https://www.google.com/+MartinN1?rel=author">Google+</a></td>
             </tr>
           </table>
-        </aside>
+        </article>
+        <article>
+          <h2>About me</h2>
+          <p>I am a highly-motivated jack of all trades, ready to go wherever needed to make the project fly.</p>
+          <p>I am willing to adapt and learn as well as exchange experience and share knowledge. I enjoy being challenged as much as I enjoy facilitating others to extend their horizont by adding fresh perspectives and pragmatic approaches to their skillset.</p>
+          <p>I am not a 9-to-5er, but a passionate team member taking ownership of my projects - I enjoy to help shaping the environment around me, instead of passively following.</p>
+        </article>
         
+        <article>
+          <h2>My values</h2>
+          <p>This is what I base my decisions and solutions on. This is how I measure myself.</p>
+          <ul>
+            <li>Flexibility</li>
+            <li>Responsibility</li>
+            <li>Trust</li>
+            <li>Collaboration</li>
+            <li>Sustainability</li>
+          </ul>
+        </article>
+        
+        <article>
+          <h2>What I <em>dislike</em></h2>
+          <p>If you tick those boxes, we're not a good fit :(</p>
+          <ul>
+            <li>Processes and tools instead of people and interactions</li>
+            <li>Contract negotiation instead of customer collaboration</li>
+            <li>Control instead of trust</li>
+            <li>Resistance to change</li>
+          </ul>
+        </article>
+        
+        <article>
+          <h2>Previous career</h2>
+          <p>Where I come from, what I have learnt and done</p>
+          <ul class="timeline">
+            <li class="vcard">
+              <h3 class="role">Technical Leader <abbr title="Research and Development">R&amp;D</abbr> / Banking <abbr title="Application Programming Interface">API</abbr> evangelist</h3>
+              <div><span class="org">Centralway</span>, <span class="locality">Zurich</span>
+              <div class="timespan">05/12 - today (current job)</div>
+            </li>
+
+            <li class="vcard">
+              <h3 class="role">Software engineer Web / System administrator</h3>
+              <div><span class="org">HR Matching AG</span>, <span class="locality">Lausanne</span></div>
+              <div class="timespan">2011 - 04/12</div>
+            </li>
+
+            <li class="vcard">
+              <h3 class="role">Software engineer Web / CTO assistant</h3>
+              <div><span class="org">Jobzippers</span>, <span class="locality">Lausanne</span></div>
+              <div class="timespan">11/2010 - 2011</div>
+            </li>
+
+            <li class="vcard">
+              <h3 class="role">Software engineer Embedded C/C++</h3>
+              <div><span class="org">Fraunhofer IOSB AST</span>, <span class="locality">Ilmenau</span></div>
+              <div class="timespan">06/2010 - 05/2011</div>
+            </li>
+
+            <li class="vcard">
+              <h3 class="role">CEO</h3>
+              <div><span class="org">MaNaWare IT Solutions UG</span>, <span class="locality">Ilmenau</span></div>
+              <div class="timespan">09/2009 - 09/2010</div>
+            </li>
+
+            <li class="vcard">
+              <h3 class="role">Junior web developer</h3>
+              <div><span class="org">Goolive Deutschland GmbH</span>, <span class="locality">Hannover</span></div>
+              <div class="timespan">07/2008 - 02/2009</div>
+            </li>
+
+            <li class="vcard">
+              <h3 class="role">One man IT department</h3>
+              <div><span class="org">Saeurefliesner e.V.</span>, <span class="locality">Burgwedel</span></div>
+              <div class="timespan">06/2005 - 06/2008</div>
+            </li>
+          </ul>
+        </article>
+        
+        <article>
+          <h2>Technologies I work/worked with</h2>
+          <p>My ever-changing toolbox</p>
+          
+        </article>
       </section>
     </div>
   </body>
