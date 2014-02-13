@@ -4,6 +4,8 @@
     <meta charset='utf-8'>
     <meta name="author" content="Martin Naumann">
 
+    <meta name="viewport" content="width=device-width">
+
     <style>
       @media screen {
         body {
@@ -48,6 +50,7 @@
         */
         
         header {
+          background: #000;
           background: rgba(0, 0, 0, 0.1);
           width: 100%;
           border-bottom: 1px dashed #b5e853;
@@ -158,7 +161,6 @@
         }
         
         table {
-          width: 100%;
           margin: 0 0 20px 0;
         }
         
@@ -225,6 +227,8 @@
           width:  10px;
           height: 10px;
           left:  -10px;
+          top:   -10px
+          ;
 
           background-color: #b5e853;
           border: 1px #b5e853 solid;
@@ -238,10 +242,53 @@
         .timespan {
           position: relative;
           left: -200px;
-          top: -4.5em;
+          top: -5.25em;
           width: 150px;
           text-align: right;
         }
+        
+        .col33 {
+          float: left;
+          box-sizing: border-box;
+          width: 30%;
+          margin-left: 1.5%;
+          margin-right: 1.5%;
+        }
+      }
+      
+      @media screen and (max-width: 920px) {
+        
+        .floatRight, .floatLeft {
+          float: none;
+        }
+        
+        .timespan {
+          left: -30px;
+          width: auto;
+          text-align: left;
+          display: inline;
+        }
+        
+        .timeline li {
+          margin-bottom: 15px;
+        }
+        
+        .col33 {
+          width: 40%;
+        }
+        
+      }
+      
+      @media print {
+        .timeline {
+          list-style: none;
+        }
+        
+        a, a:visited, a:hover {
+          color: black;
+          text-decoration: none;
+        }
+        
       }
       
     </style>
@@ -266,6 +313,7 @@
     <div class="container">
       <section id="main_content">
         <article class="vcard">
+          <aside class="floatRight"><img class="photo" alt="Portrait of Martin Naumann" src="https://lh3.googleusercontent.com/8ANmXUt8mQ8jnnDrIrw2N3mYZp5nYXOR1ELWq5HxMt-SFkT8wb7523FjRLcmJZE3rYBeT9wxEPQ" width="250"></aside>        
           <h2>Quick intro</h2>
           <table>
             <tr>
@@ -329,19 +377,18 @@
           <p>Where I come from, what I have learnt and done</p>
           <ul class="timeline">
             <li class="vcard">
-              <h3 class="role">Technical Leader <abbr title="Research and Development">R&amp;D</abbr> / Banking <abbr title="Application Programming Interface">API</abbr> evangelist</h3>
-              <div><span class="org">Centralway</span>, <span class="locality">Zurich</span>
-              <div class="timespan">05/12 - today (current job)</div>
-            </li>
+              <h3 class="role">Technical Leader <abbr title="Research and development">R&amp;D</abbr></h3>
+              <div><span class="org">Centralway</span>, <span class="locality">Zurich</span></div>
+              <div class="timespan">05/2012 - today</div>
 
             <li class="vcard">
-              <h3 class="role">Software engineer Web / System administrator</h3>
+              <h3 class="role">Software engineer Web</h3>
               <div><span class="org">HR Matching AG</span>, <span class="locality">Lausanne</span></div>
-              <div class="timespan">2011 - 04/12</div>
+              <div class="timespan">2011 - 04/2012</div>
             </li>
 
             <li class="vcard">
-              <h3 class="role">Software engineer Web / CTO assistant</h3>
+              <h3 class="role">System administrator</h3>
               <div><span class="org">Jobzippers</span>, <span class="locality">Lausanne</span></div>
               <div class="timespan">11/2010 - 2011</div>
             </li>
@@ -373,9 +420,162 @@
         </article>
         
         <article>
-          <h2>Technologies I work/worked with</h2>
+          <h2>Appendix: Things I work/worked with</h2>
           <p>My ever-changing toolbox</p>
           
+          <div class="cf">
+            <div class="col33">
+              <h3>Programming languages</h3>
+              <ul>
+                <li>Javascript</li>
+                <li>Ruby</li>
+                <li>C/C++/C#</li>
+                <li>Java</li>
+                <li>PHP</li>
+                <li>Python</li>
+                <li>Go</li>
+                <li>Groovy</li>
+                <li>ActionScript 2/3</li>
+              </ul>
+            </div>          
+            <div class="col33">
+              <h3>Cloud platforms</h3>
+              <ul>
+                <li>AWS (EC2, ELB, S3)</li>
+                <li>CloudStack</li>
+                <li>OpenStack</li>
+                <li>CloudFoundry</li>
+              </ul>
+            </div>  
+            <div class="col33">
+              <h3>(Para-)Virtualization</h3>
+              <ul>
+                <li>VMWare</li>
+                <li>KVM</li>
+                <li>Xen</li>
+                <li>LXC / Docker</li>
+                <li>OpenVZ</li>
+                <li>Linux vServer</li>
+                <li>User mode linux</li>
+                <li>VirtualBox</li>
+              </ul>
+            </div>  
+          </div>
+          
+          <div class="cf">
+            <div class="col33">
+              <h3>Frameworks</h3>
+              <ul>
+                <li>Symfony</li>
+                <li>Vaadin / GWT</li>
+                <li>Groovy on grails</li>
+                <li>Ruby on rails</li>
+                <li>Express.js / Connect.js</li>
+                <li>Koa.js</li>
+                <li>Meteor.js</li>
+                <li>Padrino</li>
+                <li>Sinatra</li>
+                <li>Angular.js</li>
+                <li>Kendo</li>
+              </ul>
+            </div>
+            
+            <div class="col33">
+              <h3>Test Frameworks</h3>
+              <ul>
+                <li>JUnit</li>
+                <li>Jasmine</li>
+                <li>QUnit</li>
+                <li>RSpec</li>
+                <li>Cucumber</li>
+                <li>PHPUnit</li>
+                <li>Behat</li>
+                <li>Selenium</li>
+                <li>Casper.js</li>
+              </ul>
+            </div>
+            
+            <div class="col33">
+              <h3>CI environments</h3>
+              <ul>
+                <li>Jenkins</li>
+                <li>Travis</li>
+                <li>Circle</li>
+                <li>Drone.io</li>
+              </ul>
+            </div>
+          </div>
+          <div class="cf">
+            <div class="col33">
+              <h3>Platforms</h3>
+              <ul>
+                <li>The web (HTML5, CSS, Javascript) + hybrid web (Apache Cordova)</li>
+                <li>Windows (incl. kernel space)</li>
+                <li>Linux (incl. kernel space in 2.6.x)</li>
+                <li>Android</li>
+              </ul>
+            </div>
+          
+            <div class="col33">
+              <h3>Provisioners</h3>
+              <ul>
+                <li>Puppet</li>
+                <li>Chef</li>
+                <li>Saltstack</li>
+              </ul>
+            </div>
+          
+            <div class="col33">
+              <h3>Messaging systems</h3>
+              <ul>
+                <li>RabbitMQ</li>
+                <li>ActiveMQ</li>
+                <li>ZeroMQ</li>
+              </ul>
+            </div>
+          </div>
+          
+          <div class="cf">
+            <div class="col33">
+              <h3>Databases</h3>
+              <ul>
+                <li>MySQL</li>
+                <li>Postgres</li>
+                <li>Oracle</li>
+                <li>MSSQL</li>
+                <li>Mongo</li>
+                <li>Redis</li>
+                <li>neo4j</li>
+              </ul>
+            </div>
+          
+            <div class="col33">
+              <h3>Version Control Systems</h3>
+              <ul>
+                <li>Git</li>
+                <li>Subversion</li>
+                <li>Mercurial</li>
+              </ul>
+            </div>
+            
+            <div class="col33">
+              <h3>Build tools</h3>
+              <ul>
+                <li>Make</li>
+                <li>Ant</li>
+                <li>Maven</li>
+                <li>grunt / gulp</li>
+              </ul>
+            </div>
+          </div>
+          <div class="cf">
+            <h3>Methodologies</h3>
+            <ul>
+              <li>Scrum</li>
+              <li>XP</li>
+              <li>Kanban</li>
+            </ul>
+          </div>
         </article>
       </section>
     </div>
