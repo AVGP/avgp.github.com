@@ -247,12 +247,18 @@
           text-align: right;
         }
         
-        .col33 {
+        .col {
           float: left;
           box-sizing: border-box;
           width: 30%;
           margin-left: 1.5%;
           margin-right: 1.5%;
+        }
+      }
+      
+      @media screen and (min-width: 920px) {
+        .col:nth-child(3n) {
+          clear: both;
         }
       }
       
@@ -273,10 +279,13 @@
           margin-bottom: 15px;
         }
         
-        .col33 {
+        .col {
           width: 40%;
         }
         
+        .col:nth-child(2n+1) {
+          clear: both;
+        }
       }
       
       @media print {
@@ -344,9 +353,9 @@
         </article>
         <article id="aboutme">
           <h2>About me</h2>
-          <p>I am a highly-motivated jack of all trades, ready to go wherever needed to make the project fly.</p>
-          <p>I am willing to adapt and learn as well as exchange experience and share knowledge. I enjoy being challenged as much as I enjoy facilitating others to extend their horizont by adding fresh perspectives and pragmatic approaches to their skillset.</p>
-          <p>I am not a 9-to-5er, but a passionate team member taking ownership of my projects - I enjoy to help shaping the environment around me, instead of passively following.</p>
+          <p>I am a motivated jack of all trades, ready to go wherever needed to make the project fly.</p>
+          <p>I am willing to adapt and learn as well as exchange experience and share knowledge. I enjoy challenges as much as I enjoy working together. I am always open for fresh perspectives and new ideas.</p>
+          <p>I am passionate about what I do. I take ownership of my projects and I prefer being proactive.</p>
         </article>
         
      
@@ -361,17 +370,6 @@
             <li>Collaboration</li>
             <li>Sustainability</li>
           </ul>
-        </article>
-        
-        <article>
-          <h2>How I work</h2>
-          <p>My preferred way of working starts with identifying the actual goals and constraints.
-          Once that is clear, I try to identify potential solution candidates.</p>
-          <p>This works best by building simple prototypes to show the different approaches.<br /> I also try new ideas or technologies at this point.</p>
-          <p>
-            Then it comes to planning and setting concrete milestones - getting ready for implementation.
-            From there, we should be in a continuous development cycle, that goes "Try - Inspect - Adapt".
-          </p>
         </article>
         
         <article id="dislike">
@@ -436,152 +434,148 @@
           <h2>Appendix: Things I work/worked with</h2>
           <p>My ever-changing toolbox</p>
           
-          <div class="cf">
-            <div class="col33">
-              <h3>Programming languages</h3>
-              <ul>
-                <li>Javascript</li>
-                <li>Ruby</li>
-                <li>C/C++/C#</li>
-                <li>Java</li>
-                <li>PHP</li>
-                <li>Python</li>
-                <li>Go</li>
-                <li>Groovy</li>
-                <li>ActionScript 2/3</li>
-              </ul>
-            </div>          
-            <div class="col33">
-              <h3>Cloud platforms</h3>
-              <ul>
-                <li>AWS (EC2, ELB, S3)</li>
-                <li>CloudStack</li>
-                <li>OpenStack</li>
-                <li>CloudFoundry</li>
-              </ul>
-            </div>  
-            <div class="col33">
-              <h3>(Para-)Virtualization</h3>
-              <ul>
-                <li>VMWare</li>
-                <li>KVM</li>
-                <li>Xen</li>
-                <li>LXC / Docker</li>
-                <li>OpenVZ</li>
-                <li>Linux vServer</li>
-                <li>User mode linux</li>
-                <li>VirtualBox</li>
-              </ul>
-            </div>  
+          <div class="col">
+            <h3>Programming languages</h3>
+            <ul>
+              <li>Javascript</li>
+              <li>Ruby</li>
+              <li>C/C++/C#</li>
+              <li>Java</li>
+              <li>PHP</li>
+              <li>Python</li>
+              <li>Go</li>
+              <li>Groovy</li>
+              <li>ActionScript 2/3</li>
+            </ul>
+          </div>        
+          
+          <div class="col">
+            <h3>Cloud platforms</h3>
+            <ul>
+              <li>AWS (EC2, ELB, S3)</li>
+              <li>CloudStack</li>
+              <li>OpenStack</li>
+              <li>CloudFoundry</li>
+            </ul>
+          </div>  
+          
+          <div class="col">
+            <h3>(Para-)Virtualization</h3>
+            <ul>
+              <li>VMWare</li>
+              <li>KVM</li>
+              <li>Xen</li>
+              <li>LXC / Docker</li>
+              <li>OpenVZ</li>
+              <li>Linux vServer</li>
+              <li>User mode linux</li>
+              <li>VirtualBox</li>
+            </ul>
+          </div>  
+
+          <div class="col">
+            <h3>Frameworks</h3>
+            <ul>
+              <li>Symfony</li>
+              <li>Vaadin / GWT</li>
+              <li>Groovy on grails</li>
+              <li>Ruby on rails</li>
+              <li>Express.js / Connect.js</li>
+              <li>Koa.js</li>
+              <li>Meteor.js</li>
+              <li>Padrino</li>
+              <li>Sinatra</li>
+              <li>Angular.js</li>
+              <li>Kendo</li>
+            </ul>
           </div>
           
-          <div class="cf">
-            <div class="col33">
-              <h3>Frameworks</h3>
-              <ul>
-                <li>Symfony</li>
-                <li>Vaadin / GWT</li>
-                <li>Groovy on grails</li>
-                <li>Ruby on rails</li>
-                <li>Express.js / Connect.js</li>
-                <li>Koa.js</li>
-                <li>Meteor.js</li>
-                <li>Padrino</li>
-                <li>Sinatra</li>
-                <li>Angular.js</li>
-                <li>Kendo</li>
-              </ul>
-            </div>
-            
-            <div class="col33">
-              <h3>Test Frameworks</h3>
-              <ul>
-                <li>JUnit</li>
-                <li>Jasmine</li>
-                <li>QUnit</li>
-                <li>RSpec</li>
-                <li>Cucumber</li>
-                <li>PHPUnit</li>
-                <li>Behat</li>
-                <li>Selenium</li>
-                <li>Casper.js</li>
-              </ul>
-            </div>
-            
-            <div class="col33">
-              <h3>CI environments</h3>
-              <ul>
-                <li>Jenkins</li>
-                <li>Travis</li>
-                <li>Circle</li>
-                <li>Drone.io</li>
-              </ul>
-            </div>
-          </div>
-          <div class="cf">
-            <div class="col33">
-              <h3>Platforms</h3>
-              <ul>
-                <li>The web (HTML5, CSS, Javascript) + hybrid web (Apache Cordova)</li>
-                <li>Windows (incl. kernel space)</li>
-                <li>Linux (incl. kernel space in 2.6.x)</li>
-                <li>Android</li>
-              </ul>
-            </div>
-          
-            <div class="col33">
-              <h3>Provisioners</h3>
-              <ul>
-                <li>Puppet</li>
-                <li>Chef</li>
-                <li>Saltstack</li>
-              </ul>
-            </div>
-          
-            <div class="col33">
-              <h3>Messaging systems</h3>
-              <ul>
-                <li>RabbitMQ</li>
-                <li>ActiveMQ</li>
-                <li>ZeroMQ</li>
-              </ul>
-            </div>
+          <div class="col">
+            <h3>Test Frameworks</h3>
+            <ul>
+              <li>JUnit</li>
+              <li>Jasmine</li>
+              <li>QUnit</li>
+              <li>RSpec</li>
+              <li>Cucumber</li>
+              <li>PHPUnit</li>
+              <li>Behat</li>
+              <li>Selenium</li>
+              <li>Casper.js</li>
+            </ul>
           </div>
           
-          <div class="cf">
-            <div class="col33">
-              <h3>Databases</h3>
-              <ul>
-                <li>MySQL</li>
-                <li>Postgres</li>
-                <li>Oracle</li>
-                <li>MSSQL</li>
-                <li>Mongo</li>
-                <li>Redis</li>
-                <li>neo4j</li>
-              </ul>
-            </div>
-          
-            <div class="col33">
-              <h3>Version Control Systems</h3>
-              <ul>
-                <li>Git</li>
-                <li>Subversion</li>
-                <li>Mercurial</li>
-              </ul>
-            </div>
-            
-            <div class="col33">
-              <h3>Build tools</h3>
-              <ul>
-                <li>Make</li>
-                <li>Ant</li>
-                <li>Maven</li>
-                <li>grunt / gulp</li>
-              </ul>
-            </div>
+          <div class="col">
+            <h3>CI environments</h3>
+            <ul>
+              <li>Jenkins</li>
+              <li>Travis</li>
+              <li>Circle</li>
+              <li>Drone.io</li>
+            </ul>
           </div>
-          <div class="cf">
+
+          <div class="col">
+            <h3>Platforms</h3>
+            <ul>
+              <li>The web (HTML5, CSS, Javascript) + hybrid web (Apache Cordova)</li>
+              <li>Windows (incl. kernel space)</li>
+              <li>Linux (incl. kernel space in 2.6.x)</li>
+              <li>Android</li>
+            </ul>
+          </div>
+        
+          <div class="col">
+            <h3>Provisioners</h3>
+            <ul>
+              <li>Puppet</li>
+              <li>Chef</li>
+              <li>Saltstack</li>
+            </ul>
+          </div>
+        
+          <div class="col">
+            <h3>Messaging systems</h3>
+            <ul>
+              <li>RabbitMQ</li>
+              <li>ActiveMQ</li>
+              <li>ZeroMQ</li>
+            </ul>
+          </div>
+
+          <div class="col">
+            <h3>Databases</h3>
+            <ul>
+              <li>MySQL</li>
+              <li>Postgres</li>
+              <li>Oracle</li>
+              <li>MSSQL</li>
+              <li>Mongo</li>
+              <li>Redis</li>
+              <li>neo4j</li>
+            </ul>
+          </div>
+        
+          <div class="col">
+            <h3>Version Control Systems</h3>
+            <ul>
+              <li>Git</li>
+              <li>Subversion</li>
+              <li>Mercurial</li>
+            </ul>
+          </div>
+          
+          <div class="col">
+            <h3>Build tools</h3>
+            <ul>
+              <li>Make</li>
+              <li>Ant</li>
+              <li>Maven</li>
+              <li>grunt / gulp</li>
+            </ul>
+          </div>
+
+          <div class="col">
             <h3>Methodologies</h3>
             <ul>
               <li>Scrum</li>
