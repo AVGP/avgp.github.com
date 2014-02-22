@@ -24,6 +24,8 @@
           width: 90%;
           max-width: 600px;
           margin: 0 auto;
+          border-radius: 5px;
+          background: rgba(0,0,0,0.5);
         }
         
         section {
@@ -51,7 +53,7 @@
         
         header {
           background: #000;
-          background: rgba(0, 0, 0, 0.1);
+          background: url("images/header1.jpg");
           width: 100%;
           border-bottom: 1px dashed #b5e853;
           padding: 20px 0;
@@ -59,6 +61,8 @@
         }
         
         header h1 {
+          border-radius: 5px;
+          background: rgba(0,0,0,0.5);
           font-size: 30px;
           line-height: 1.5;
           margin: 0 0 0 -40px;
@@ -80,7 +84,30 @@
         header h2 {
           font-size: 18px;
           font-weight: 300;
-          color: #959595;
+          color: #aaa;
+        }
+        
+        /* Navigation
+        */
+        nav {
+          background: rgba(181, 232, 83, 0.1);
+        }
+        
+        nav ul {
+          margin: 0;
+          padding: 0.5em;
+        }
+        
+        nav li {
+          display: inline-block;
+          padding: 0.5em;
+          border: 1px solid #79ac17;
+          border-radius: 5px;
+        }
+        
+        nav a {
+          color: #b5e853;
+          text-decoration: none;
         }
         
         /* Main Content
@@ -289,6 +316,8 @@
       }
       
       @media print {
+        nav { display: none; }
+        
         .timeline {
           list-style: none;
         }
@@ -311,9 +340,16 @@
         <h1>The Geekonaut</h1>
         <h2>Resume</h2>
 
-        <section id="links">
-          <a href="https://github.com/AVGP" class="btn btn-github"><span class="icon"></span>GitHub profile</a>
-          <a href="https://ox86.tumblr.com" class="btn">Blog</a>
+        <nav>
+          <ul>
+            <li><a href="#quickintro">Quick Intro</a></li>
+            <li><a href="#aboutme">About me</a></li>
+            <li><a href="#values">Values</a></li>
+            <li><a href="#dislike">Dislike</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#career">Career</a></li>
+            <li><a href="#workedwith">Know How</a></li>
+          </ul>
         </section>
       </div>
     </header>
@@ -386,7 +422,7 @@
           <p>The following list is a list of things I did for the fun of it:</p>
           <hr>
           <p>
-            <a href="https://github.com/AVGP/cloud9hub">Cloud9Hub</a> is a free and open source dashboard for Cloud9 (a browser-based <abbrev title="Integrated Development Environment">IDE</abbrev>.
+            <a href="https://github.com/AVGP/cloud9hub">Cloud9Hub</a> is a free and open source dashboard for Cloud9 (a browser-based <abbrev title="Integrated Development Environment">IDE)</abbrev>.
           </p>
           <hr>
           <p>
@@ -403,7 +439,7 @@
           </p>
           <hr>
           <p>
-            <a href="https://github.com/AVGP/eternity">Eternit<</a> lets you deploy node.js app with a git push.
+            <a href="https://github.com/AVGP/eternity">Eternity</a> lets you deploy node.js app with a git push.
           </p>
         </article>
         
