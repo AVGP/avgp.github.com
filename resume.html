@@ -275,14 +275,15 @@
           text-align: right;
         }
         
-        .col {
-          float: left;
-          box-sizing: border-box;
-          width: 30%;
-          margin-left: 1.5%;
-          margin-right: 1.5%;
-        }
       }
+      
+      .col {
+        float: left;
+        box-sizing: border-box;
+        width: 30%;
+        margin-left: 1.5%;
+        margin-right: 1.5%;
+      }      
       
       @media screen and (min-width: 920px) {
         .col:nth-child(3n) {
@@ -327,7 +328,14 @@
           color: black;
           text-decoration: none;
         }
+
+        .col {
+          width: 40%;
+        }
         
+        .col:nth-child(2n+1) {
+          clear: both;
+        }        
       }
       
     </style>
