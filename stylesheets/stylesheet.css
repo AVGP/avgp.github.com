@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/bkg.png") 0 0;
+  background: #151515;
   color: #eaeaea;
   font: 16px;
   line-height: 1.5;
@@ -56,11 +56,17 @@ nav ul li:after {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  background: url("../images/image.jpg");
+  background-size: cover;
   width: 100%;
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
   margin: 0 0 40px 0;
+}
+
+header .container {
+  background: rgba(0,0,0,0.75);
+  border-radius: 0.5em;
 }
 
 header h1 {
@@ -221,9 +227,7 @@ hr {
   background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
   padding: 8px 18px;
   border-radius: 50px;
-  border: 2px solid rgba(0, 0, 0, 0.7);
-  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
-  border-top: 2px solid rgba(0, 0, 0, 1);
+  border: 2px solid rgba(200, 200, 200, 0.7);
   color: rgba(255, 255, 255, 0.8);
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
