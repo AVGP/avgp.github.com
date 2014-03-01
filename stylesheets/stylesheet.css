@@ -8,7 +8,15 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+[class*="zocial-"]:before {
+  font-family: 'brandico', sans-serif;
+}
+
 /* General & 'Reset' Stuff */
+
+#links {
+  text-align: center;
+}
 
 .container {
   width: 90%;
