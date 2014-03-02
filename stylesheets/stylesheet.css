@@ -11,7 +11,8 @@ body {
 }
 
 [class*="zocial-"]:before {
-  font-family: 'brandico', sans-serif;
+  font-family: 'zocial', sans-serif;
+  margin-right: 5px;
 }
 
 /* General & 'Reset' Stuff */
