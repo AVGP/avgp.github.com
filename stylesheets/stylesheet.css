@@ -78,6 +78,7 @@ header {
 header .container {
   background: rgba(0,0,0,0.75);
   border-radius: 0.5em;
+  padding: 5px;
 }
 
 header h1 {
