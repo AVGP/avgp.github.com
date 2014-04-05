@@ -2,6 +2,16 @@
 
 Some of the apps I built:
 
+## FeedBeat
+
+FeedBeat is a feed reader application for mobile devices - available as web app or Android app.
+It shows your feeds, the latest articles and allows to filter articles by feed.
+
+[Github repository](https://github.com/avgp/Feedbeat)
+[See it in action](http://avgp.github.io/FeedBeat)
+[Get the Android version from Play Store](https://play.google.com/store/apps/details?id=de.geekonaut.feedbeat)
+
+
 ## Zueri2Go
 
 Zueri2Go is a mobile web app that helps you find interesting spots around you (Zurich only).
