@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+
+    <title>The Geekonaut::Tools</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>The Geekonaut</h1>
+        <h2>Floating in cyberspace</h2>
+
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="apps.html">Apps</a></li>
+            <li><a href="speaking.html">Speaking</a></li>
+            <li><a href="writing.html">Writing</a></li>
+            <li><a href="tools.html">Tools</a></li>
+            <li><a href="experiments.html">Experiments</a></li>
+            <li><a href="resume.html">About Me</a></li>
+            <li><a href="console.html">Terminal</a></li>
+          </ul>
+        </nav>
+
+        <section id="links">
+          <a href="https://github.com/AVGP" class="btn"><span class="zocial-github"></span>GitHub</a>
+          <a href="https://www.twitter.com/g33konaut" class="btn"><span class="zocial-twitter"></span>Twitter</a>
+          <a href="https://ox86.tumblr.com" class="btn"><span class="zocial-tumblr"></span>Blog</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content"><h1 id="tools">Tools</h1>
+<p>Over time I built (and am still building) a few handy tools to make things easier for others and me.<br>Here is a collection of the things that people find quite useful:</p>
+<h2 id="cloud9hub">Cloud9Hub</h2>
+<p><a href="http://c9.io">Cloud9</a> is a very useful cloud-based IDE running in your browser and <a href="https://github.com/ajaxorg/cloud9">it&#39;s open source, too</a>.</p>
+<p>Unfortunately not everybody can or wants to have their source code on a third party server and the open source version of Cloud9 lacks multi-workspace support.</p>
+<p><a href="https://github.com/avgp/cloud9hub">Cloud9Hub</a> gives you the possibility to run your own Cloud9 instances on your own infrastructure while providing an authentication and authorization mechanism and support for multiple workspaces.</p>
+<h2 id="grunt-phonegap-build">grunt-phonegap-build</h2>
+<p>A <a href="http://www.gruntjs.com">Grunt</a> task to help you build a <a href="http://www.cordova.io">Cordova</a> app on <a href="http://build.phonegap.com">build.phonegap.com</a>.</p>
+<p>It allows to build your app by either using a public Github repository or by uploading a zip file easily from within your normal build steps.</p>
+<h2 id="eternity">Eternity</h2>
+<p>If you are a fan of Heroku-style deployment (like <a href="https://github.com/progrium/dokku">Dokku</a> provides) and want to easily deploy Node.js applications, you could give <a href="https://github.com/avgp/eternity">eternity</a> a try.</p>
+<p>It uses Dokkus git-receive module and ties it to forever to deploy and manage multiple node.js applications on a single server.</p>
+<h2 id="susi-sup-2-sup-">SuSi<sup>2</sup></h2>
+<p>When you want to create a static website by using a global HTML layout and Markdown, SuSi<sup>2</sup> is for you.</p>
+<p>I found all the available static site generators rather overpowered and complex - lots of dependencies and some are very tightly integrated with a particular build tool, like Gulp or Grunt.  </p>
+<p>SuSi<sup>2</sup> (SuperSimpleSites) has none of that. It has a single dependency, <a href="">Marked</a>, to parse Markdown files and that&#39;s it.</p>
+<p>This website is created by Susi, by the way.</p>
+<h2 id="geckoard-data-pushers">Geckoard Data Pushers</h2>
+<p>Set of script to push data from various sources to <a href="http://www.geckoboard.com">Geckoard</a>.</p>
+<p><a href="https://github.com/martin-naumann/geckoboard-data-pushers">Github repository</a></p>
+<h2 id="all-your-licenses-are-belong-to-us">All your licenses are belong to us</h2>
+<p>Small ruby script to figure out all (or &quot;as many as possible&quot;) licenses of your projects&#39; dependencies.</p>
+<p>Works with Ruby gems and Node modules.</p>
+<p><a href="https://github.com/martin-naumann/all-your-licenses">Github repository</a></p>
+<h2 id="yeah-metrics">Yeah Metrics</h2>
+<p>Push your code quality metrics to <a href="http://www.keen.io">keen.io</a> using <a href="https://github.com/avgp/yeah-metrics-reporters">the reporters</a> and visualize them as a simple dashboard.</p>
+<p><a href="https://github.com/avgp/yeah-metrics">Github repository</a></p>
+<h2 id="flipahead-js">flipAhead.js</h2>
+<p>Javascript library that allows page navigation by two finger swipe,<br>similar and compatible with <a href="http://msdn.microsoft.com/en-us/library/ie/jj883726.aspx">Internet Explorer flip ahead browsing</a>.</p>
+<p><a href="https://github.com/avgp/flipAhead.js">Github repository</a></p>
+<h2 id="selenize-discontinued-">Selenize (discontinued)</h2>
+<p>Web app for importing Git repositories and running Selenium tests via phpUnit on a dedicated server.<br>Uses lxc for isolation.</p>
+<p><a href="https://github.com/avgp/selenize">Github repository</a></p>
+<h2 id="vodca-discontinued-">Vodca (discontinued)</h2>
+<p>VLC-based personal Video-on-demand solution.</p>
+<p><a href="https://github.com/avgp/vodca">Github repository</a></p>
+</section>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-37093471-1', 'geekonaut.de');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>
