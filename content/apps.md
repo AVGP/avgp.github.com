@@ -1,6 +1,16 @@
+<!-- ::Apps -->
 # Apps
 
 Some of the apps I built:
+
+## Pollenkarte
+
+Pollenkarte Zurich is an open data mobile web application, that uses available data to help people with pollen allergy in Zurich avoid areas with high risk of an allergic reaction.
+Most of the functionality (except zooming on the map) is available offline as well.
+
+[Github repository](https://github.com/avgp/kein-stress-mit-pollen)
+[Try the web version](http://avgp.github.io/kein-stress-mit-pollen)
+[Get the Android version from Play Store](https://play.google.com/store/apps/details?id=de.geekonaut.pollenkarte)
 
 ## FeedBeat
 
@@ -11,6 +21,13 @@ It shows your feeds, the latest articles and allows to filter articles by feed.
 [See it in action](http://avgp.github.io/FeedBeat)
 [Get the Android version from Play Store](https://play.google.com/store/apps/details?id=de.geekonaut.feedbeat)
 
+## Zen Pad
+
+Zen Pad is a simple code editor build with HTML 5, CSS and Javascript.
+It runs as a chrome app as of now.
+
+[Github repository](https://github.com/AVGP/zen-pad)
+[Chrome Webstore](https://chrome.google.com/webstore/detail/zen-pad/gmlhlgiakpebmhfjhplgacpbacebghbd?hl=en)
 
 ## Zueri2Go
 
@@ -19,14 +36,6 @@ It shows you nearby playgrounds, vantage points, public restrooms, cafes and res
 
 [Github repository](https://github.com/avgp/zueri2go)
 [See it in action](http://avgp.github.io/Zueri2Go)
-
-## Zen Pad
-
-Zen Pad is a simple code editor build with HTML 5, CSS and Javascript.
-It runs as a chrome app as of now.
-
-[Github repository](https://github.com/AVGP/zen-pad)
-[Chrome Webstore](https://chrome.google.com/webstore/detail/zen-pad/gmlhlgiakpebmhfjhplgacpbacebghbd?hl=en)
 
 ## Stackmin
 
