@@ -5,7 +5,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 29.05 - 20.05 2014 | Bucharest, Romania | I.T.A.K.E | Web apps / Open Data |
 | 30.06 - 02.07 2014 | Cologne, Germany | enterJS | vert.x |
 | 29.09 - 01.10 2014 | Potsdam, Germany | Mobile App Europe | Web &amp; hybrid apps |
 
