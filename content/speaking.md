@@ -6,7 +6,9 @@
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
 | 30.06 - 02.07 2014 | Cologne, Germany | enterJS | vert.x |
+| 26.07 2014 | Bern, Switzerland | Swissjeese | Web components |
 | 29.09 - 01.10 2014 | Potsdam, Germany | Mobile App Europe | Web &amp; hybrid apps |
+| 11.10 2014| Barcelona, Spain | Don't node - BarcelonaJS | MEAN Stack and beyond |
 
 ## User testing without going bankrupt
 The Geek Gathering 2014, Osijek
