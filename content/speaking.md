@@ -10,6 +10,12 @@
 | 29.09 - 01.10 2014 | Potsdam, Germany | Mobile App Europe | Web &amp; hybrid apps |
 | 11.10 2014| Barcelona, Spain | Don't node - BarcelonaJS | MEAN Stack and beyond |
 
+## [German] Verteilte Anwendungen mit Vert.x
+enterJS 2014, Cologne
+
+<iframe src="https://docs.google.com/presentation/d/1-dermKHhV8L7GOR8dXmtryI-xYVjGR67X_c_dniV10o/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<hr>
+
 ## User testing without going bankrupt
 The Geek Gathering 2014, Osijek
 
