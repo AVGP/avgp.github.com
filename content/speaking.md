@@ -5,7 +5,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 30.06 - 02.07 2014 | Cologne, Germany | enterJS | vert.x |
 | 26.07 2014 | Bern, Switzerland | Swissjeese | Web components |
 | 29.09 - 01.10 2014 | Potsdam, Germany | Mobile App Europe | Web &amp; hybrid apps |
 | 11.10 2014| Barcelona, Spain | Don't node - BarcelonaJS | MEAN Stack and beyond |
@@ -14,7 +13,8 @@
 enterJS 2014, Cologne
 
 <iframe src="https://docs.google.com/presentation/d/1-dermKHhV8L7GOR8dXmtryI-xYVjGR67X_c_dniV10o/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<hr>
+
+<hr>  
 
 ## User testing without going bankrupt
 The Geek Gathering 2014, Osijek
@@ -28,6 +28,14 @@ FutureJS 2014, Barcelona
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/_tNj42SCtsY" frameborder="0" allowfullscreen></iframe>
 <iframe src="http://www.slideshare.net/slideshow/embed_code/34241368" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+<hr>  
+
+## Build your own operating system for fun and profit
+Codebits 2014, Lisboa
+
+<iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/V6KDZo6uvAd8yZODZw3F/mov/1&relatedVideos=none" frameborder="0" scrolling="no" width="640" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+<iframe src="https://docs.google.com/presentation/d/1aRsrMnkECOsN76U-PaS-xBaFLmP1MYt0NPuIwrr-2S8/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <hr>
 
