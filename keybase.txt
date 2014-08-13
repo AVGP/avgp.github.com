@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/g33konaut
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://geekonaut.de
+  * I am g33konaut (https://keybase.io/g33konaut) on keybase.
+  * I have a public key with fingerprint C6C5 0090 A5BD DA3A BA52  26DA 78C5 C26F 75B1 EB5E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c6c50090a5bdda3aba5226da78c5c26f75b1eb5e",
+            "host": "keybase.io",
+            "key_id": "78c5c26f75b1eb5e",
+            "uid": "9d38d662f3b1d8ac1ff62df688831100",
+            "username": "g33konaut"
+        },
+        "service": {
+            "hostname": "geekonaut.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1407952423,
+    "expire_in": 157680000,
+    "prev": "711f56e329c55a5ef3bf57972de64e230550f8e373c7a1791473a090244f4ac8",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.3.1
+Comment: https://keybase.io/crypto
+
+yMHoAnicO8LLzMDFuOQ/r4fnJZNHjKcPfCplCH69TL1aKSk/pVLJqlopOxVMpWXm
+pacWFRRl5pUoWSklmyWbGhhYGiSaJqWkJBonJiWaGhmZpSSaWySbJhuZpZmbJhmm
+JpmmKukoZeQXg3QAjUlKLE7Vy8wHigE58ZkpQFEs6kvBEpYpxhYpZmZGacZJhikW
+icmGaWlmRilpZhYWFsaGhgYGIIXFqUV5ibmpQNXpxsbZ+XmJpSVKtTpKQOGyzORU
+kKNBdsOUpKZClOilgGwpKMovyU/OzwHKZJSUFFiBNJZUFoBUlqcmxUPNiE/KzEsB
+ehyooSy1qDgzP0/JyhCoMrkkE2SooYmBuaWpkYmRsY5SakVBZlFqfCZIham5mYUB
+EICsSS0DedPQMM3ULNXYyDLZ1DTRNBXoqzRTc0tzo5RUM5NUI2MDU1ODNItUY3Pj
+ZPNEQ3NLQxNz40Rg8BqZmKSZJCZbKIF8VZiXr2RlAnRmYjrQyOLM9LzEktKiVKXa
+QwdiWBgYuRjYWJlAUcfAxSkAi9B9p9n/uyz/4ro/64Fd5IrK+AOhlWkfu36/bfc/
+yeq/9teskFBDEZsDByTYJxWXxjToK4hZ3FjaoOx4rETj/Nrt/NvF9Roz315PCckJ
+0mW06qw5O/nEZcmj/+Qn8vz+e/dbyJODhX6ThCQOnI0sY+lLOZ0cNyXr5bpIl9wH
+p/mnJsZfWLv7/W6t84e/+VucLdFtt0iN2DRJcstzgcZXdzlqVubkXDW/l7PyqNEx
+9tt7RHiNnVtyhZlT5eQU2v2CwsJfd714rqX1/4jIp0kVD+0/LNxm+lRYzVKxhKtQ
+mE3wyE5j645Ahut/j5976Hejadc0q0ciRoovZgj2cj0ymrxocdj0CR/utyr073p5
+ap7thi1TARcUFZw=
+=L2J0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/g33konaut
+
+==================================================================
