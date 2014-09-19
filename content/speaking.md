@@ -7,10 +7,16 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 27-29.08 2014 | Zurich, Switzerland | Frontend Conf | Real world web components |
 | 29.09 - 01.10 2014 | Potsdam, Germany | Mobile App Europe | Web &amp; hybrid apps |
 | 04.10 2014| Barcelona, Spain | WEnode - BarcelonaJS | MEAN Stack and beyond |
 | 09.10 - 10.10 2014 | Hamburg, Germany | Code.Talks | Unleash the services - wie wir ein monolithisches Ruby-Biest bezwangen |
+
+## Real world web components
+[Frontend Conf 2014](http://2014.frontendconf.ch), Zurich
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/t7ArGTiGN5I" frameborder="0" allowfullscreen></iframe>
+
+[Slides](http://avgp.github.io/fec14-webcomponents/)
 
 ## Web components 101
 [SwissJeese 2014](http://swissjeese.com), Berne
