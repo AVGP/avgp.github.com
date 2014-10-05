@@ -7,14 +7,17 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 29.09 - 01.10 2014 | Potsdam, Germany | Mobile App Europe | Web &amp; hybrid apps |
-| 04.10 2014| Barcelona, Spain | WeNode - BarcelonaJS | MEAN Stack and beyond |
 | 09.10 - 10.10 2014 | Hamburg, Germany | Code.Talks | Unleash the services - wie wir ein monolithisches Ruby-Biest bezwangen |
 
 ## MEAN Stack and beyond
 [WeNode 2014](http://wenode.barcelonajs.org), Barcelona
 
 <iframe src="https://docs.google.com/presentation/d/1K0C8VHHf822fE6V7GZe9t2-RxI3oDdIhSoQ8PxcXhsM/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Web &amp; hybrid apps workshop
+[Mobile App Europ 2014](http://mobileappeurope.com), Potsdam
+
+<iframe src="https://docs.google.com/presentation/d/1fnWqAHFURPeg0i5zyq2XleIgQcrwAd3Ix_DOL9KA6PA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Real world web components
 [Frontend Conf 2014](http://2014.frontendconf.ch), Zurich
