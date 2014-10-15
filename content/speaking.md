@@ -7,7 +7,13 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 09.10 - 10.10 2014 | Hamburg, Germany | Code.Talks | Unleash the services - wie wir ein monolithisches Ruby-Biest bezwangen |
+| 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Becoming an Admiral of the armada: Docker, CoreOS &amp; Fleet |
+| 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Building a mobile-first, no-backend, mobile app |
+
+## Unleash the services (German)
+[Codetalks 2014](http://www.codetalks.de), Hamburg
+
+<iframe src="https://docs.google.com/presentation/d/11-cZA545O3P2qc65RIqmO_Abu3Z_xfvzItTrQHUQvqQ/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## MEAN Stack and beyond
 [WeNode 2014](http://wenode.barcelonajs.org), Barcelona
