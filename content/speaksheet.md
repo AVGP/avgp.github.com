@@ -33,9 +33,10 @@ If that's all alright with you, drop me a message [on twitter](https://twitter.c
 
 ### Speaker Bio & Pictures
 
-<blockquote>
+<blockquote><pre>
 Martin is open source contributor and web evangelist by heart from Zurich with nearly a decade experience from the trenches of software engineering in multiple fields.
-He spends his day thinking about moving the web forward, fixing problems and breaking things for fun&profit.
-</blockquote>
+
+He spends his day moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit.
+</pre></blockquote>
 
 [<img src="images/me_400x400.jpg" width="100">](/images/me_400x400.jpg) [<img src="images/the_one_cropped.jpg" width="100">](/images/the_one_cropped.jpg) [<img src="images/madrid2013.jpg" width="100">](/images/madrid2013.jpg) [<img src="images/lisbon2014.jpg" width="100">](/images/lisbon2014.jpg)
