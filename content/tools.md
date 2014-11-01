@@ -3,6 +3,8 @@
 Over time I built (and am still building) a few handy tools to make things easier for others and me.
 Here is a collection of the things that people find quite useful:
 
+## Collection of web components
+[components.geekonaut.de](http://component.geekonaut.de) is a collection of web components of all kinds.
 
 ## Cloud9Hub
 [Cloud9](http://c9.io) is a very useful cloud-based IDE running in your browser and [it's open source, too](https://github.com/ajaxorg/cloud9).

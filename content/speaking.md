@@ -3,10 +3,12 @@
 
 ## Want me as a speaker?
 [Sure, check out this handy cheatsheet to find out how and get some info for your website](speaksheet.html)
+
 ## Upcoming talks
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
+| 08.11.2014 | Amsterdam, Netherlands | DevFest | Multiplayer games with Google Chromecast |
 | 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Becoming an Admiral of the armada: Docker, CoreOS &amp; Fleet |
 | 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Building a mobile-first, no-backend, mobile app |
 

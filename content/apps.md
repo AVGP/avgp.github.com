@@ -3,6 +3,17 @@
 
 Some of the apps I built:
 
+## SpotWeather
+
+Local weather info with beautiful pictures from your location (matching the weather).
+
+Using the [Flickr](http://www.flickr.com) and [OpenWeatherMap](http://openweathermap.org) APIs bundled as a beautiful fullscreen web app this
+app has a few hundred downloads in the Firefox Marketplace.
+
+[Give it a try](http://avgp.github.io/spotweather)
+[Github repository](http://github.com/avgp/spotweather)
+[Firefox Marketplace](https://marketplace.firefox.com/app/spotweather)
+
 ## TakeMeTo
 
 Swiss public transport - quick &amp; easy.
