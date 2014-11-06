@@ -33,13 +33,15 @@ If that's all alright with you, drop me a message [on twitter](https://twitter.c
 
 ### Speaker Bio & Pictures
 
-<blockquote><pre>
+<blockquote>
 Martin is open source contributor and web evangelist by heart from Zurich
-with a decade experience from the trenches of software engineering in multiple fields.
+with a decade experience from the trenches of software engineering in multiple fields.  
+  
+He works as a software engineer at <a href="http://about.archilogic.com">Archilogic</a> in front- and backend.  
+He devotes his time to moving the web forward, fixing problems, building applications and systems 
+and breaking things for fun &amp; profit.  
 
-He works as a software engineer at <a href="http://about.archilogic.com">Archilogic</a> 
-moving the web forward, fixing problems, building applications and systems 
-and breaking things for fun & profit.
-</pre></blockquote>
+Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.
+</blockquote>
 
 [<img src="images/me_400x400.jpg" width="100">](/images/me_400x400.jpg) [<img src="images/the_one_cropped.jpg" width="100">](/images/the_one_cropped.jpg) [<img src="images/madrid2013.jpg" width="100">](/images/madrid2013.jpg) [<img src="images/lisbon2014.jpg" width="100">](/images/lisbon2014.jpg)
