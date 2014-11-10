@@ -8,9 +8,14 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 08.11.2014 | Amsterdam, Netherlands | DevFest | Multiplayer games with Google Chromecast |
+| 01.02.2015 | Minsk, Belarus | RollingScopes | WebGL workshop |
 | 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Becoming an Admiral of the armada: Docker, CoreOS &amp; Fleet |
 | 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Building a mobile-first, no-backend, mobile app |
+
+## Multiplayer games with Google Chromecast
+[DevFest NL 2014](http://www.devfest.nl), Amsterdam
+
+<iframe src="https://docs.google.com/presentation/d/12TePhU161QsB3iaw8_hvkSpX6NyR_uxRKvRBk3ZFDIM/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Unleash the services (German)
 [Codetalks 2014](http://www.codetalks.de), Hamburg
