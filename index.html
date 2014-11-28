@@ -4,68 +4,6 @@
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-        background: #151515;
-        color: #eaeaea;
-        font: 1em;
-        line-height: 1.5;
-        font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-      }
-      
-      .container {
-        width: 90%;
-        max-width: 600px;
-        margin: 0 auto;
-      }
-      
-      header {
-        background: url("../images/image.jpg");
-        background-size: cover;
-        width: 100%;
-        border-bottom: 1px dashed #b5e853;
-        padding: 20px 0;
-        margin: 0 0 40px 0;
-      }
-      
-      header .container {
-        background: rgba(0,0,0,0.75);
-        border-radius: 0.5em;
-        padding: 5px;
-        
-      }
-      
-      header h1 {
-        font-size: 2em;
-        line-height: 1.5;
-        margin: 0 0 0 0;
-        font-weight: bold;
-        font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-        color: #b5e853;
-        text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-                     0 0 5px rgba(181, 232, 83, 0.1),
-                     0 0 10px rgba(181, 232, 83, 0.1);
-        letter-spacing: -1px;
-        -webkit-font-smoothing: antialiased;
-      }     
-      
-      @media (max-width: 600px) {
-        nav a {
-          display: inline-block;
-          font-size: 1.2em;
-          margin-bottom: 0.25em;
-          width: 120px;
-          text-align: center;
-        }
-        
-        nav a:after {
-          margin-right: 0.25em;
-        }
-      }
-    </style>
-
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
 
     <title>The Geekonaut</title>
@@ -78,7 +16,7 @@
         <h1>The Geekonaut</h1>
         <h2>Floating in cyberspace</h2>
 
-        <nav>
+        <nav id="head_nav">
           <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="apps.html">Apps</a></li>
@@ -110,6 +48,8 @@ GCS d-(+)@ s+: a-- C+++$ UBL+++$ P+@ L++++$ !E W+++$
 b++ DI D+ G+ e+ h- r++ y+
 ------END GEEK CODE BLOCK------
 </code></pre></section>
+      <a href="#" id="menu_link">Menu</a>
+    </div>
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
