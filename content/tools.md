@@ -19,6 +19,8 @@ A [Grunt](http://www.gruntjs.com) task to help you build a [Cordova](http://www.
 
 It allows to build your app by either using a public Github repository or by uploading a zip file easily from within your normal build steps.
 
+## Parilis
+[Parilis](https://github.com/avgp/parilis) is a JSON-RPC API testing tool written in Scala.
 
 ## Eternity
 If you are a fan of Heroku-style deployment (like [Dokku](https://github.com/progrium/dokku) provides) and want to easily deploy Node.js applications, you could give [eternity](https://github.com/avgp/eternity) a try.

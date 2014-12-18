@@ -1,6 +1,8 @@
 <!-- ::Experiments -->
 # Experiments
 
+A List of small experiments can be found on [my exposition site](http://avgp.github.io/exposition].
+
 ## Omni - a multi dialog interface experiment with web components and different input methods
 The Metro interface tried to accomodate touch input and keyboard/mouse input in one interface.
 
