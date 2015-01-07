@@ -9,6 +9,7 @@
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
 | 01.02.2015 | Minsk, Belarus | RollingScopes | WebGL workshop |
+| 13.02.2015 | Amsterdam, Netherlands | NG-NL | Hybrid apps with Ionic and Angular |
 | 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Becoming an Admiral of the armada: Docker, CoreOS &amp; Fleet |
 | 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Building a mobile-first, no-backend, mobile app |
 | 28.04 - 29.04-2014 | London, Great Britain | Future of Web Design | Taking the web to the next dimension |
@@ -50,22 +51,22 @@
 
 <iframe src="https://docs.google.com/presentation/d/1-dermKHhV8L7GOR8dXmtryI-xYVjGR67X_c_dniV10o/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<hr>  
+<hr>
 
 ## User testing without going bankrupt
 [The Geek Gathering 2014](2014.thegeekgathering.org), Osijek
 
 <iframe src="https://docs.google.com/presentation/d/1KIPezHbEsuSPtVVQhAe2bBwkb2PPSRZ940wqtBt3u6I/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<hr>  
+<hr>
 
 ## Web components - a whirlwind tour
 [FutureJS 2014](http://futurejs.org/), Barcelona
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/_tNj42SCtsY" frameborder="0" allowfullscreen></iframe>
-<iframe src="http://www.slideshare.net/slideshow/embed_code/34241368" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<iframe src="http://www.slideshare.net/slideshow/embed_code/34241368" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-<hr>  
+<hr>
 
 ## Build your own operating system for fun and profit
 [Codebits 2014](http://www.codebits.eu), Lisbon
@@ -85,7 +86,7 @@
 ## Mobile web technologies - an overview
 [Jazoon 2013], Zurich
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/27557743" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/27557743" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 <hr>
 
