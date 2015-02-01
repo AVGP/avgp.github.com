@@ -8,12 +8,16 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 01.02.2015 | Minsk, Belarus | RollingScopes | WebGL workshop |
 | 13.02.2015 | Amsterdam, Netherlands | NG-NL | Hybrid apps with Ionic and Angular |
 | 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Becoming an Admiral of the armada: Docker, CoreOS &amp; Fleet |
 | 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Building a mobile-first, no-backend, mobile app |
 | 04.03.2015 | Novi Sad, Serbia | DaFED | User testing without going bankrupt |
 | 28.04 - 29.04-2014 | London, Great Britain | Future of Web Design | Taking the web to the next dimension |
+
+## WebGL and WebVR
+[Rolling Scopes Conf 2014](http://conf.rollingscopes.com), Minsk
+[Slides of the talk](http://rsconf-webgl-talk.bitballoon.com)
+[Slides of the workshop](http://bit.ly/threejs-workshop)
 
 ## Multiplayer games with Google Chromecast
 [DevFest NL 2014](http://www.devfest.nl), Amsterdam
