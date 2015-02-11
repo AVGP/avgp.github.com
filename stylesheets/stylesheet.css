@@ -121,6 +121,10 @@ nav a, nav a:visited {
     flex-flow: row wrap;
   }
 
+  a {
+    padding: 0.2em;
+  }
+
   header {
     width: 100%;
     height: 200px;
