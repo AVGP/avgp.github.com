@@ -4,70 +4,8 @@
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-        background: #151515;
-        color: #eaeaea;
-        font: 1em;
-        line-height: 1.5;
-        font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-      }
-      
-      .container {
-        width: 90%;
-        max-width: 600px;
-        margin: 0 auto;
-      }
-      
-      header {
-        background: url("../images/image.jpg");
-        background-size: cover;
-        width: 100%;
-        border-bottom: 1px dashed #b5e853;
-        padding: 20px 0;
-        margin: 0 0 40px 0;
-      }
-      
-      header .container {
-        background: rgba(0,0,0,0.75);
-        border-radius: 0.5em;
-        padding: 5px;
-        
-      }
-      
-      header h1 {
-        font-size: 2em;
-        line-height: 1.5;
-        margin: 0 0 0 0;
-        font-weight: bold;
-        font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-        color: #b5e853;
-        text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-                     0 0 5px rgba(181, 232, 83, 0.1),
-                     0 0 10px rgba(181, 232, 83, 0.1);
-        letter-spacing: -1px;
-        -webkit-font-smoothing: antialiased;
-      }     
-      
-      @media (max-width: 600px) {
-        nav a {
-          display: inline-block;
-          font-size: 1.2em;
-          margin-bottom: 0.25em;
-          width: 120px;
-          text-align: center;
-        }
-        
-        nav a:after {
-          margin-right: 0.25em;
-        }
-      }
-    </style>
-
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <link rel="stylesheet" href="stylesheets/reset.css">
+    <link rel="stylesheet" href="stylesheets/stylesheet.css">
 
     <title>The Geekonaut::Experiments</title>
   </head>
@@ -75,35 +13,28 @@
   <body>
 
     <header>
-      <div class="container">
-        <div style="clear:both; height:96px">
+        <div id="logo">
             <img src="images/Geekonaut_Logo_transparent_96.png" alt="Geekonaut">
-            <h1>The Geekonaut</h1>
-            <h2>Floating in cyberspace</h2>
         </div>
         <nav>
           <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="apps.html">Apps</a></li>
+            <li><a href="apps.html">Projects</a></li>
             <li><a href="speaking.html">Speaking</a></li>
             <li><a href="writing.html">Writing</a></li>
-            <li><a href="tools.html">Tools</a></li>
             <li><a href="experiments.html">Xperiments</a></li>
             <li><a href="resume.html">About Me</a></li>
             <li><a href="console.html">Terminal</a></li>
+            <li><a href="https://ox86.tumblr.com" class="btn"><span class="brandico-tumblr"></span>Blog</a></li>
+            <li><a href="https://github.com/AVGP" rel="me" class="btn"><span class="brandico-github"></span>GitHub</a></li>
+            <li><a href="https://twitter.com/g33konaut" rel="me" class="btn"><span class="brandico-twitter"></span>Twitter</a></li>
+
           </ul>
         </nav>
-
-        <section id="links">
-          <a href="https://github.com/AVGP" rel="me" class="btn"><span class="zocial-github"></span>GitHub</a>
-          <a href="https://twitter.com/g33konaut" rel="me" class="btn"><span class="zocial-twitter"></span>Twitter</a>
-          <a href="https://ox86.tumblr.com" class="btn"><span class="zocial-tumblr"></span>Blog</a>
-        </section>
       </div>
     </header>
 
-    <div class="container">
-      <section id="main_content"><h1 id="experiments">Experiments</h1>
+    <section id="main_content"><h1 id="experiments">Experiments</h1>
 <p>A List of small experiments can be found on [my exposition site](<a href="http://avgp.github.io/exposition">http://avgp.github.io/exposition</a>].</p>
 <h2 id="omni-a-multi-dialog-interface-experiment-with-web-components-and-different-input-methods">Omni - a multi dialog interface experiment with web components and different input methods</h2>
 <p>The Metro interface tried to accomodate touch input and keyboard/mouse input in one interface.</p>
@@ -117,7 +48,7 @@
 <p><a href="http://avgp.github.io/blogdown">See it in action</a><br><a href="https://github.com/avgp/blogdown">Github repository</a></p>
 </section>
 
-    <script>
+<!--    <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -125,6 +56,6 @@
 
       ga('create', 'UA-37093471-1', 'geekonaut.de');
       ga('send', 'pageview');
-    </script>
+    </script>-->
   </body>
 </html>
