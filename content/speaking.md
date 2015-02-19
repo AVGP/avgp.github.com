@@ -8,16 +8,31 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 13.02.2015 | Amsterdam, Netherlands | NG-NL | Hybrid apps with Ionic and Angular |
-| 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Becoming an Admiral of the armada: Docker, CoreOS &amp; Fleet |
-| 16.02 - 20.02-2014 | Montreal, Canada | Confoo | Building a mobile-first, no-backend, mobile app |
 | 04.03.2015 | Novi Sad, Serbia | DaFED | User testing without going bankrupt |
+| 11. - 14.03.2015 | Bergen, Norway | Booster Conf | WebGL with Three.js (Workshop) |
 | 28.04 - 29.04-2014 | London, Great Britain | Future of Web Design | Taking the web to the next dimension |
 
+## Building a FirefoxOS app
+[Confoo 2015](http://www.confoo.ca), Montreal
+
+<iframe src="http://avgp.github.io/confoo-firefoxos" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Becoming an Admiral of the armada: Docker, CoreOS &amp; Fleet
+[Confoo 2015](http://www.confoo.ca), Montreal
+
+<iframe src="https://docs.google.com/presentation/d/1E86_PhGBH24Kd8MMHW-ipk_39TgmSA0ze5LgvqFnujE/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Hybrid apps with Ionic and Angular
+[NG-NL 2015](http://www.ng-nl.org), Amsterdam
+
+<iframe src="https://docs.google.com/presentation/d/1-1ovYIbjSoNxxM-QdysRVynoWluzS5r80wEK7tZMZpk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## WebGL and WebVR
-[Rolling Scopes Conf 2014](http://conf.rollingscopes.com), Minsk
+[Rolling Scopes Conf 2015](http://conf.rollingscopes.com), Minsk
 [Slides of the talk](http://rsconf-webgl-talk.bitballoon.com)
 [Slides of the workshop](http://bit.ly/threejs-workshop)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bhPyGVp3iA" frameborder="0" allowfullscreen></iframe>
 
 ## Multiplayer games with Google Chromecast
 [DevFest NL 2014](http://www.devfest.nl), Amsterdam
