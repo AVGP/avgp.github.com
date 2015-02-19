@@ -15,7 +15,8 @@
 ## Building a FirefoxOS app
 [Confoo 2015](http://www.confoo.ca), Montreal
 
-<iframe src="http://avgp.github.io/confoo-firefoxos-talk" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[Slides](http://avgp.github.io/confoo-firefox-talk)
+[Demo](http://avgp.github.io/confoo-firefox-talk/demo/index.html)
 
 ## Becoming an Admiral of the armada: Docker, CoreOS &amp; Fleet
 [Confoo 2015](http://www.confoo.ca), Montreal
