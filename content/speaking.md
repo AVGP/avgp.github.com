@@ -10,7 +10,8 @@
 | --- | --- | --- | --- |
 | 04.03.2015 | Novi Sad, Serbia | DaFED | User testing without going bankrupt |
 | 11. - 14.03.2015 | Bergen, Norway | Booster Conf | WebGL with Three.js (Workshop) |
-| 28.04 - 29.04-2014 | London, Great Britain | Future of Web Design | Taking the web to the next dimension |
+| 28.04 - 29.04-2015 | London, United Kingdom | Future of Web Design | Taking the web to the next dimension |
+| 17. - 19.06.2015 | Darmstadt, Germany | Web components: Warum die Zukunft des Web heute beginnt |
 
 ## Building a FirefoxOS app
 [Confoo 2015](http://www.confoo.ca), Montreal
