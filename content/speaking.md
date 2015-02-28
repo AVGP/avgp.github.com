@@ -9,7 +9,7 @@
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
 | 04.03.15 | Novi Sad, Serbia | DaFED | User testing without going bankrupt |
-| 11. - 14.03.15 | Bergen, Norway | Booster Conf | WebGL with Three.js (Workshop) |
+| 13.03.15 | Bergen, Norway | Booster Conf | WebGL with Three.js (Workshop) |
 | 28. - 29.04.15 | London, UK | Future of Web Design | Taking the web to the next dimension |
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
 
