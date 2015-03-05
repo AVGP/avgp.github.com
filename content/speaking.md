@@ -8,10 +8,15 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 04.03.15 | Novi Sad, Serbia | DaFED | User testing without going bankrupt |
 | 13.03.15 | Bergen, Norway | Booster Conf | WebGL with Three.js (Workshop) |
+| 18.04.15 | Lugano, CH | Voxxed Days | Web components - A whirlwind tour |
 | 28. - 29.04.15 | London, UK | Future of Web Design | Taking the web to the next dimension |
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
+
+## User testing without going bankrupt
+[DaFed #30](http://dafed.org/)
+
+[Slides](https://bit.ly/usertesting2015)
 
 ## Building a FirefoxOS app
 [Confoo 2015](http://www.confoo.ca), Montreal
