@@ -8,11 +8,15 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 13.03.15 | Bergen, Norway | Booster Conf | WebGL with Three.js (Workshop) |
 | 18.04.15 | Lugano, CH | Voxxed Days | Web components - A whirlwind tour |
 | 28. - 29.04.15 | London, UK | Future of Web Design | Taking the web to the next dimension |
 | 11.06.15 | Bucharest, Romania | Dev Talks | The web is dead. Long live the web |
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
+
+# WebGL and Three.js workshop
+[Booster Conf](http://www.boosterconf.no), Bergen (Norway)
+
+[Slides](https//bit.ly/booster15-threejs)
 
 ## User testing without going bankrupt
 [DaFed #30](http://dafed.org/)
