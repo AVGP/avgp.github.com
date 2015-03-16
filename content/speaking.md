@@ -10,6 +10,7 @@
 | --- | --- | --- | --- |
 | 18.04.15 | Lugano, CH | Voxxed Days | Web components - A whirlwind tour |
 | 28. - 29.04.15 | London, UK | Future of Web Design | Taking the web to the next dimension |
+| 13. - 14.05.15 | Verona, IT | jsDay 2015 | WebGL with Three.js |
 | 11.06.15 | Bucharest, Romania | Dev Talks | The web is dead. Long live the web |
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
 
