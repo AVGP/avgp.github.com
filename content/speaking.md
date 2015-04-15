@@ -14,6 +14,8 @@
 | 13. - 14.05.15 | Verona, IT | jsDay 2015 | WebGL with Three.js |
 | 11.06.15 | Bucharest, Romania | Dev Talks | The web is dead. Long live the web |
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
+| 22. - 23.06.15 | Barcelona, Spain | MediterraneaJS | TBD |
+| 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | TBD |
 
 # WebGL and Three.js workshop
 [Booster Conf](http://www.boosterconf.no), Bergen (Norway)
