@@ -126,7 +126,7 @@
 <hr>
 
 ## Mobile web technologies - an overview
-[Jazoon 2013], Zurich
+[Jazoon 2013](http://jazoon.com/history/2013/), Zurich
 
 [Slides](http://www.slideshare.net/slideshow/embed_code/27557743)
 
@@ -161,6 +161,6 @@ Webilea #13 2013, Basel
 <hr>
 
 ## Next generation web development with Meteor.js
-(Jazoon 2012)[http://jazoon.com/history/2012/], Zurich
+[Jazoon 2012](http://jazoon.com/history/2012/), Zurich
 
 [Slides](http://www.slideshare.net/slideshow/embed_code/29692972?rel=0)
