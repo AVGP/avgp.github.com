@@ -8,7 +8,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 18.04.15 | Lugano, CH | Voxxed Days | Web components - A whirlwind tour |
 | 24. - 25.04.15 | Montevideo, UY | JSConf UY | WebGL workshop / WebVR talk |
 | 28. - 29.04.15 | London, UK | Future of Web Design | Taking the web to the next dimension |
 | 13. - 14.05.15 | Verona, IT | jsDay 2015 | WebGL with Three.js |
@@ -16,6 +15,11 @@
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
 | 22. - 23.06.15 | Barcelona, Spain | MediterraneaJS | TBD |
 | 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | TBD |
+
+# Web components - a whirlwind tour
+[Voxxed Days 2015](https://voxxeddays.com/ticino15/), Lugano (Switzerland)
+
+[Slides](https://docs.google.com/presentation/d/1v8wk9peDHfh4ePARAgWC8CFrH_AJ5hkju7cdXSUD6EE/embed?start=false&loop=false&delayms=60000)
 
 # WebGL and Three.js workshop
 [Booster Conf](http://www.boosterconf.no), Bergen (Norway)
