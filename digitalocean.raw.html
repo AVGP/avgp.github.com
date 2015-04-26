@@ -1,0 +1,302 @@
+<!doctype html>
+<html>
+<head>
+    <title>Little Martin goes Digital Ocean</title>
+    <meta charset="utf-8">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <style>
+
+        body {
+            font-family: Raleway, sans-serif;
+            margin:  0;
+            padding: 0;
+            line-height: 1.5em;
+        }
+
+        h1, h2 {
+            margin-top: 0;
+            margin-bottom: 0.5em;
+            font-family: Bitter, serif;
+        }
+
+        header {
+            background-color: #0056a4;
+            color: white;
+            text-align: center;
+            padding: 0.5em 0;
+            position: relative;
+        }
+
+        article {
+            background: white;
+            margin: 0 auto;
+            min-width: 15em;
+            max-width: 50em;
+            padding: 1em 3em;
+        }
+
+        .floating {
+            float: right;
+            width: 250px;
+            margin-left: 2em;
+        }
+
+        a {
+          color: #0056a4;
+        }
+
+        nav ul {
+          margin:  0;
+          padding: 0;
+        }
+
+        nav li {
+          display: inline-block;
+        }
+
+        nav a, nav a:visited {
+          color: white;
+          font-weight: bold;
+        }
+
+        nav li:after {
+          content: " | ";
+          margin: 0 0.2em;
+        }
+
+        nav.mobile { display: none; }
+
+        nav.mobile li {
+          display:block;
+          padding: 2em 0;
+          border-bottom: 1px solid #0056a4;
+        }
+
+        nav.mobile li:after {
+          content: "";
+        }
+
+        nav.mobile a, nav.mobile a:visited {
+          color: #0056a4;
+        }
+
+        a.mobile-button, a.mobile-button:visited {
+          top:  1em;
+          left: 1em;
+          width: 4em;
+
+          display: none;
+          color: #0056a4;
+          background: white;
+          padding: 1em;
+          border-radius: 0.2em;
+          margin: 0 auto;
+        }
+
+        @media screen and (max-device-width: 50em) {
+          nav { display: none; }
+          nav.mobile { display: block; }
+          a.mobile-button { display: block; }
+
+          li {
+            padding: 0.5em 0;
+            line-height: 2em;
+          }
+
+          .floating {
+            float: none;
+            display: block;
+            margin: 0 auto;
+          }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Martin's Journey to Digital Ocean</h1>
+        <h2>Or why you totally need to hire me</h2>
+        <a href="#menu" class="mobile-button">Menu</a>
+        <nav>
+          <ul>
+            <li><a href="#tldr">TL;DR</a></li>
+            <li><a href="#prologue">Prologue</a></li>
+            <li><a href="#to-infinity-and-beyond">To Infinity &amp; beyond</a></li>
+            <li><a href="#the-digital-frontier">The digital frontier</a></li>
+            <li><a href="#the-rise-of-devops">The rise of DevOps</a></li>
+            <li><a href="#lets-talk">Let's talk!</a></li>
+          </ul>
+        </nav>
+    </header>
+
+    <article id="home">
+        <section id="tldr">
+            <h2>TL; DR</h2>
+            <p>I won't waste your time, so here's the quick version:</p>
+            <ul>
+                <li><a href="http://ox86.tumblr.com/post/90554410668/easy-scaling-with-docker-haproxy-and-confd">Here's a writing sample</a></li>
+                <li><a href="http://geekonaut.de/speaking">Here's a list of videos of me speaking</a>, I quite like <a href="https://www.youtube.com/watch?v=_tNj42SCtsY">this one</a></li>
+                <li>Some projects I put my heart into are <a href="http://teleports.me">Teleports.me</a> and <a href="http://avgp.github.io/fake-terminal/index.html">this silly thing</a> (currently buggy in Safari, tho) as well as <a href="http://archilogic-ch.github.io/christmas-card">this pretty thing</a></li>
+                <li>
+                    I'm on <a href="https://twitter.com/g33konaut">Twitter</a>,
+                    <a href="https://github.com/AVGP">Github</a> (and back in the day <a href="https://github.com/martin-naumann">with my job email at the time</a>),
+                    <a href="https://coderwall.com/g33konaut">Coderwall</a>,
+                    <a href="https://stackoverflow.com/users/585967/avgp">Stack Overflow</a>,
+                    <a href="https://ch.linkedin.com/in/martinnaumann1">LinkedIn</a> and
+                    <a href="http://lanyrd.com/profile/avgp/">Lanyard</a>
+                </li>
+                <li>I'm fluent in German and English</li>
+                <li>My whole resume can be found <a href="http://geekonaut.de/resume">online over here</a></li>
+                <li>I'd love to join DigitalOcean, because I really admire the value it delivers to the community and the efforts it puts into open source and the web.</li>
+                <li>Please drop me an email at &lt;my firstname&gt; -at- &lt;this domain&gt; - thank you!</li>
+            </ul>
+            <p>If you happen to have a bit more time, read on...</p>
+        </section>
+        <section id="prologue">
+            <h2>Prologue</h2>
+            <img class="floating" src="digitalocean/brick.svg" width="250" height="250" alt="I used modules before it was cool">
+            <p>
+                Born in 1989 I grew up in northern Germany and, skipping <a href="http://www.lego.com/en-us/duplo">Duplo&reg;</a> building blocks, I fell in love with LEGO&reg; straight away.
+                I was the type of child that would get extremely frustrated with manual tinkering or drawing, as the result never quite turned out to be what I had in my mind.
+            </p>
+            <p>
+                These building blocks on the other side gave me a quick way to get predictable results. Of course there were (still the case, but I'm <em>totally</em> no longer playing with LEGO&reg;)
+                constraints in terms of what you could do and what building blocks you had available, but that was fine and I found it challenging, interesting and to foster my
+                creativity.
+            </p>
+            <p>
+              This has been the start of an ongoing journey - always looking for bringing the ability to express ideas to as many people as I can and learning new ways to combine or make building blocks myself.
+            </p>
+        </section>
+        <section id="to-infinity-and-beyond">
+            <h2>To infinity and beyond</h2>
+            <p>
+                It came the day my attention was drawn to a computer. For me the notion of a "computer" came in the shape of a Commodore 64 of a friend.
+                While this thing was by far and long considered deprecated, obsolete hardware in 1998 when I came in contact with it, it was still able to make my eyes shine.
+            </p>
+
+            <img class="floating" src="digitalocean/computer.svg" width="250" height="250" alt="The Computer. My way of expressing thoughts">
+
+            <p>
+                The reason for that was BASIC. For methen, this was a revelation!
+                It was basically an infinite pool of building blocks that I could build much more engaging things with.
+                And from here on, things accelerated quickly.
+            </p>
+
+            <p>
+                Right after the <a href="http://en.wikipedia.org/wiki/Expo_2000">World EXPO came close to my hometown, Hannover</a> I got my first PC.
+                It was <a href="http://images.tecchannel.de/images/tecchannel/bdb/326391/890.jpg">this powerful machine</a> (667 MHz, 128MB RAM) and felt like I could do <strong>anything</strong>!
+            </p>
+            <p>
+                After having played all sorts of games for far longer than one should and getting told off quite a few times by my mother for doing so,
+                I discovered a CD-ROM that had a Basic Dialect ("Blitzbasic") on it.
+            </p>
+            <p>No need to say that I started my luck with figuring out how to build my own games with it.</p>
+        </section>
+
+        <section id="the-digital-frontier">
+            <h2>The digital frontier</h2>
+            <p>
+                I also realised, while being a bit late with getting access to a computer, compared to most others in my school,
+                I was very privileged and extremely grateful for that. A lot of my friends could not afford to have a computer at all.
+                This would play an important role for me from now on.
+            </p>
+            <p>
+                In 2002, I finally could convince my parents to switch our <em>very, very</em> old telephone line to one that supported dial up internet connections.
+                And this was another groundbreaking moment in my life:
+            </p>
+
+            <img class="floating" src="digitalocean/internet.svg" width="250" height="250" alt="The internet; more than just a series of tubes and kittens to me">
+
+            <p>
+                Not only did I suddenly have access to insanely large amounts of information but, more importantly, I could get in touch with other people.
+                No matter where they were (sorta, but from my perspective back then <em>the whole world</em> was within reach to me when I was online.
+                I was reading forums, mailing lists and got hooked on IRC - so many different people, perspectives, aproaches. This was incredible!
+            </p>
+            <p>
+                I then figured out quite quickly, that the web wasn't a medium like TV or Radio.
+                Instead, I could bend and twist things and create my own content quite easily - this was also when I discovered Javascript.
+            </p>
+
+            <p>
+                Unfortunately, back in 2004 getting even a small piece of shared web hosting required to send signed letters and wait for days to get the login credentials back
+                before one was able to get anything done.
+            </p>
+        </section>
+        <section id="the-rise-of-devops">
+          <h2>The rise of DevOps</h2>
+          <p>
+            For me, the transition to a virtual server was a big step forward and it surprisingly only took a day to get one up and running, giving you much more flexibility
+            and freedom to tinker with a wide variety of things.
+          </p>
+
+          <p>
+            I got obsessed with what nowadays would be called "DevOps": Me, primarily developing software (now also part-time after school), maintaining, securing and running
+            the infrastructure. I did the same on my job, as it was the most natural way for me: I <em>obviously</em> have to take care about the environment that I'm running
+            my code in, right?
+          </p>
+          <img class="floating" src="digitalocean/devops.svg" width="250" height="250" alt="Developers and Ops united">
+          <p>
+              Fast forward again to 2012.
+              Meanwhile I was working for what was a Startup Incubator at the time (later transformed into a financial product company).
+              We had to find ways to dynamically allocate computing infrastructure and storage for a variety of projects with different
+              requirements, but one shared, crucial requirement was data safety.
+              So we had our own hardware in a high-security datacenter in Switzerland and run Cloudstack on top of that.
+          </p>
+          <p>
+              This made another problem apparent: You need to install all sorts of software on these machines and make sure that each
+              required service is running smoothly and gets updated when needed.<br>
+              This was when I started working with Vagrant and Puppet.
+          </p>
+          <p>
+              Now I had a viable solution for this particular, constrained environment.
+              But what about all my small side projects? The workshops I was giving at the time?
+              AWS was fine, but I needed something more simple, quicker, that focussed on me as
+              a developer, who's primarily concerned about running code, not administering Policies and
+              shift large amounts of data around?
+          </p>
+          <p>
+              That's when I clicked on a Facebook Ad that promised, in a fun small video, to be exactly that.
+              <strong>Yes, that was Digital Ocean!</strong>
+          </p>
+          <p>
+              Since then, Digital Ocean is the place to go and spin up droplets when I quickly need to tinker with something.
+              Most recent example: I wondered if the distribution of HTTP vs HTTPS shows some geographical patterns that could
+              be related to something else (like pricing, internet speed available at the location, etc.).
+              So I decided to spin up a DO instance and "survey" the entire internet with the help of some IT Security friends of mine.
+          </p>
+          <p>
+              That ended up creating 13 Gigabytes of JSON, stored in a MongoDB on a droplet in Digital Ocean.
+              I still didn't come around processing this data, enriching it with geographical information and mapping it out, but that's next up!
+          </p>
+          <section id="lets-talk">
+            <h2>Let's talk!</h2>
+            <p>
+                When I got aware of your opening for a Developer Evangelist position, it immediately caught my attention.
+                I love to meet fellow developers to exchange ideas and hear about their problems and pain points and help
+                them overcome those.
+                I speak at conferences quite a bit and give workshops on various topics. I'm not a specialised expert, but a
+                "T-shaped" employee with some focus areas (Deployment, QA &amp; testing, Web Development), but eager and able
+                to quickly dive into a new topic and apply the new knowledge to solve problems of all sorts.
+            </p>
+            <p>
+                I would really love to be part of your team and help others leverage the powers you provide them with.
+                Please drop me an email or a tweet and let's have a chat!
+            </p>
+          </section>
+        </section>
+
+        <nav class="mobile" id="menu">
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#tldr">TL;DR</a></li>
+            <li><a href="#prologue">Prologue</a></li>
+            <li><a href="#to-infinity-and-beyond">To Infinity &amp; beyond</a></li>
+            <li><a href="#the-digital-frontier">The digital frontier</a></li>
+            <li><a href="#the-rise-of-devops">The rise of DevOps</a></li>
+            <li><a href="#lets-talk">Let's talk!</a></li>
+          </ul>
+        </nav>
+    </article>
+  <script>!function(){"use strict";function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))c(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(c(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var a=document.createElement("link");a.href=o,a.rel="stylesheet",a.type="text/css",document.getElementsByTagName("head")[0].appendChild(a),document.cookie="font_css_cache"}}function c(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="/digitalocean/font.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();</script>
+</body>
+</html>
