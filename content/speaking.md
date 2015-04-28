@@ -25,7 +25,7 @@
 
 [Slides](https://bit.ly/jsconfuy-threejs)
 
-# Web components - a whirlwind tour
+# Web components - a whirlwind tour 2015 edition
 [Voxxed Days 2015](https://voxxeddays.com/ticino15/), Lugano (Switzerland)
 
 [Slides](https://docs.google.com/presentation/d/1v8wk9peDHfh4ePARAgWC8CFrH_AJ5hkju7cdXSUD6EE/embed?start=false&loop=false&delayms=60000)
@@ -35,7 +35,7 @@
 
 [Slides](https//bit.ly/booster15-threejs)
 
-## User testing without going bankrupt
+## User testing without going bankrupt, 2015 edition
 [DaFed #30](http://dafed.org/)
 
 [Slides](https://bit.ly/usertesting2015)
