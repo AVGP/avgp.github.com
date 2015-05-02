@@ -8,12 +8,16 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 28. - 29.04.15 | London, UK | Future of Web Design | Taking the web to the next dimension |
 | 13. - 14.05.15 | Verona, IT | jsDay 2015 | WebGL with Three.js |
 | 11.06.15 | Bucharest, Romania | Dev Talks | The web is dead. Long live the web |
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
-| 22. - 23.06.15 | Barcelona, Spain | MediterraneaJS | TBD |
-| 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | TBD |
+| 22. - 23.06.15 | Barcelona, Spain | MediterraneaJS | The 3rd dimension of the web - WebGL and WebVR |
+| 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | Firefox OS App Development |
+
+# Taking the web to the next dimension
+[Future of Web Design 2015](https://futureofwebdesign.com/london-2015/), London (UK)
+
+[Slides](http://bit.ly/fowd-3dweb)
 
 # To 3D and beyond: WebGL and WebVR
 [JSConf UY 2015](http://jsconf.uy), Montevideo (Uruguay)
