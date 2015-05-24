@@ -8,11 +8,15 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 13. - 14.05.15 | Verona, IT | jsDay 2015 | WebGL with Three.js |
 | 11.06.15 | Bucharest, Romania | Dev Talks | The web is dead. Long live the web |
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
 | 22. - 23.06.15 | Barcelona, Spain | MediterraneaJS | The 3rd dimension of the web - WebGL and WebVR |
 | 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | Firefox OS App Development |
+
+# Exploring the third dimension with WebGL
+[JSDay 2015](http://2015.jsday.it), Verona (Italy)
+
+[Slides](http://bit.ly/jsday15-3dweb)
 
 # Taking the web to the next dimension
 [Future of Web Design 2015](https://futureofwebdesign.com/london-2015/), London (UK)
@@ -32,6 +36,7 @@
 # Web components - a whirlwind tour 2015 edition
 [Voxxed Days 2015](https://voxxeddays.com/ticino15/), Lugano (Switzerland)
 
+[Video](https://www.parleys.com/tutorial/web-components-a-whirlwind-tour)
 [Slides](https://docs.google.com/presentation/d/1v8wk9peDHfh4ePARAgWC8CFrH_AJ5hkju7cdXSUD6EE/embed?start=false&loop=false&delayms=60000)
 
 # WebGL and Three.js workshop
