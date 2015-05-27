@@ -69,8 +69,8 @@ It shows you nearby playgrounds, vantage points, public restrooms, cafes and res
 
 ## Stackmin
 
-Stackmin is a Cloud**stack** ad**min**istration tool.
-It allows you to list running VMs, start/stop/reboot them or deploy a new one.
+Stackmin was a Cloud**stack** ad**min**istration tool.
+It allowed you to list running VMs, start/stop/reboot them or deploy a new one.
 
 [Github repository](https://github.com/martin-naumann/stackmin)
 [Chrome Webstore](https://chrome.google.com/webstore/detail/stackmin/clmjbcbkfngncegopkcdpggpapdejcne?hl=en)
@@ -87,7 +87,7 @@ Over time I built (and am still building) a few handy tools to make things easie
 Here is a collection of the things that people find quite useful:
 
 ## Collection of web components
-[components.geekonaut.de](http://component.geekonaut.de) is a collection of web components of all kinds.
+[components.geekonaut.de](http://components.geekonaut.de) is a collection of web components of all kinds.
 
 ## Cloud9Hub
 [Cloud9](http://c9.io) is a very useful cloud-based IDE running in your browser and [it's open source, too](https://github.com/ajaxorg/cloud9).

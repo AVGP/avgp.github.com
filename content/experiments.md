@@ -1,16 +1,14 @@
 <!-- ::Experiments -->
 # Experiments
 
-A List of small experiments can be found on [my exposition site](http://avgp.github.io/exposition].
+A List of small experiments can be found on [my exposition site](http://avgp.github.io/exposition).
 
-## Omni - a multi dialog interface experiment with web components and different input methods
-The Metro interface tried to accomodate touch input and keyboard/mouse input in one interface.
+# Zurich 3D
 
-So I wondered: What about creating an [MDI](http://de.wikipedia.org/wiki/Multiple_Document_Interface)-ish interface
-that turns into a touch-friendly interface when used on smaller screen estates.
+Using the digital surface model (Open Data by GIS Zentrum ZH) to create a 3D representation in the browser.
 
-And that's what's Omni about - [take a look here](http://avgp.github.io/Omni) or [peek at the source](https://github.com/avgp/Omni).
-
+[See it in action here](http://avgp.github.io/zurich3d)
+[Code on Github](https://github.com/avgp/zurich3d)
 
 ## Open data visualisation with D3.js
 Using some open data on energy production for Germany and Switzerland, I had a go at D3.js.
