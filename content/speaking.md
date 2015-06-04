@@ -11,7 +11,9 @@
 | 11.06.15 | Bucharest, Romania | Dev Talks | The web is dead. Long live the web |
 | 17. - 19.06.15 | Darmstadt, Germany | enterJS | Web components |
 | 22. - 23.06.15 | Barcelona, Spain | MediterraneaJS | The 3rd dimension of the web - WebGL and WebVR |
+| 16.07.15 | Nürnberg, Germany | Typo3 Developer Day | Web components and Polymer |
 | 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | Firefox OS App Development |
+| 02. - 03.10.15 | Paris, France | Paris Web | WebGL and WebVR: 3D web today and tomorrow |
 
 # Exploring the third dimension with WebGL
 [JSDay 2015](http://2015.jsday.it), Verona (Italy)
