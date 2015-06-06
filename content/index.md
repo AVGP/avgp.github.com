@@ -6,7 +6,7 @@ I [write a blog](http://ox86.tumblr.com), post some tips to [Coderwall](https://
 On this website you can find [a few projects I work on](projects.html), [experiments I play with](experiments.html),
 [an overview of the talks I give](speaking.html) and [some of the writing](writing.html) I do outside of my blog.
 
-![Martin Naumann aka Geekonaut](https://pbs.twimg.com/profile_images/557854072527544320/FcwSt9Wx_200x200.jpeg)
+![Martin Naumann aka Geekonaut](images/sketched_me.png)
 
     -----BEGIN GEEK CODE BLOCK-----
     Version: 3.1
