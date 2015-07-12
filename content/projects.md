@@ -5,11 +5,15 @@
 This page lists a bunch of projects I've been doing or that I am still involved with:
 * [Apps](#apps)
 * [Tools](#tools)
-* [WiP](#wip)
 
 # Apps
 
 Some of the apps I built:
+
+## h2g2three
+
+A WebGL livecoding environment using Three.js.
+[Try it out](http://avgp.github.io/h2g2three) or [check it out](https://github.com/avgp/h2g2three) on Github.
 
 ## SpotWeather
 
@@ -67,14 +71,6 @@ It shows you nearby playgrounds, vantage points, public restrooms, cafes and res
 [Github repository](https://github.com/avgp/zueri2go)
 [See it in action](http://avgp.github.io/Zueri2Go)
 
-## Stackmin
-
-Stackmin was a Cloud**stack** ad**min**istration tool.
-It allowed you to list running VMs, start/stop/reboot them or deploy a new one.
-
-[Github repository](https://github.com/martin-naumann/stackmin)
-[Chrome Webstore](https://chrome.google.com/webstore/detail/stackmin/clmjbcbkfngncegopkcdpggpapdejcne?hl=en)
-
 ## Montagsmaler
 
 Montagsmaler is a HTML5 clone of games like Draw Something.
@@ -89,6 +85,29 @@ Here is a collection of the things that people find quite useful:
 ## Collection of web components
 [components.geekonaut.de](http://components.geekonaut.de) is a collection of web components of all kinds.
 
+## SuSi<sup>2</sup>
+When you want to create a static website by using a global HTML layout and Markdown, SuSi<sup>2</sup> is for you.
+
+I found all the available static site generators rather overpowered and complex - lots of dependencies and some are very tightly integrated with a particular build tool, like Gulp or Grunt.
+
+SuSi<sup>2</sup> (SuperSimpleSites) has none of that. It has a single dependency, [Marked](), to parse Markdown files and that's it.
+
+This website is created by Susi, by the way.
+
+## three-world
+A [browserify](http://browserify.org)-ready wrapper around [Three.js](http://www.threejs.org) that minimizes the amount of boilerplate code needed to build WebGL applications.
+[Github repository](https://github.com/avgp/three-world) [npm module](https://npmjs.org/package/three-world)
+
+## heroku-deploy-archive
+
+[This Heroku plugin](https://github.com/avgp/heroku-deploy-archive) allows to deploy any tarball or zip file to Heroku, as long as it contains a valid application.
+You don't need git, just bundle your app as ZIP or TAR and push!
+
+## forrest
+
+Quickly and easily launch Docker containers and register them with etcd.
+[Github](https://github.com/avgp/forrest)
+
 ## Cloud9Hub
 [Cloud9](http://c9.io) is a very useful cloud-based IDE running in your browser and [it's open source, too](https://github.com/ajaxorg/cloud9).
 
@@ -96,9 +115,10 @@ Unfortunately not everybody can or wants to have their source code on a third pa
 
 [Cloud9Hub](https://github.com/avgp/cloud9hub) gives you the possibility to run your own Cloud9 instances on your own infrastructure while providing an authentication and authorization mechanism and support for multiple workspaces.
 
-## three-world
-A [browserify](http://browserify.org)-ready wrapper around [Three.js](http://www.threejs.org) that minimizes the amount of boilerplate code needed to build WebGL applications.
-[Github repository](https://github.com/avgp/three-world) [npm module](https://npmjs.org/package/three-world)
+## baditicker-api
+
+CORS-enabled HTTP API for the public pool water temperature OpenData data set from Zurich.
+[On Github](http://github.com/avgp/baditicker-api) and [on Heroku](http://baditicker-api.herokuapp.com)
 
 ## grunt-phonegap-build
 A [Grunt](http://www.gruntjs.com) task to help you build a [Cordova](http://www.cordova.io) app on [build.phonegap.com](http://build.phonegap.com).
@@ -113,22 +133,10 @@ If you are a fan of Heroku-style deployment (like [Dokku](https://github.com/pro
 
 It uses Dokkus git-receive module and ties it to forever to deploy and manage multiple node.js applications on a single server.
 
-
-## SuSi<sup>2</sup>
-When you want to create a static website by using a global HTML layout and Markdown, SuSi<sup>2</sup> is for you.
-
-I found all the available static site generators rather overpowered and complex - lots of dependencies and some are very tightly integrated with a particular build tool, like Gulp or Grunt.
-
-SuSi<sup>2</sup> (SuperSimpleSites) has none of that. It has a single dependency, [Marked](), to parse Markdown files and that's it.
-
-This website is created by Susi, by the way.
-
-
 ## Geckoard Data Pushers
 Set of script to push data from various sources to [Geckoard](http://www.geckoboard.com).
 
 [Github repository](https://github.com/martin-naumann/geckoboard-data-pushers)
-
 
 ## All your licenses are belong to us
 Small ruby script to figure out all (or "as many as possible") licenses of your projects' dependencies.
@@ -137,18 +145,24 @@ Works with Ruby gems and Node modules.
 
 [Github repository](https://github.com/martin-naumann/all-your-licenses)
 
-
 ## Yeah Metrics
 Push your code quality metrics to [keen.io](http://www.keen.io) using [the reporters](https://github.com/avgp/yeah-metrics-reporters) and visualize them as a simple dashboard.
 
 [Github repository](https://github.com/avgp/yeah-metrics)
-
 
 ## flipAhead.js
 Javascript library that allows page navigation by two finger swipe,
 similar and compatible with [Internet Explorer flip ahead browsing](http://msdn.microsoft.com/en-us/library/ie/jj883726.aspx).
 
 [Github repository](https://github.com/avgp/flipAhead.js)
+
+## Stackmin (discontinued)
+
+Stackmin was a Cloud**stack** ad**min**istration tool.
+It allowed you to list running VMs, start/stop/reboot them or deploy a new one.
+
+[Github repository](https://github.com/martin-naumann/stackmin)
+[Chrome Webstore](https://chrome.google.com/webstore/detail/stackmin/clmjbcbkfngncegopkcdpggpapdejcne?hl=en)
 
 ## Selenize (discontinued)
 Web app for importing Git repositories and running Selenium tests via phpUnit on a dedicated server.

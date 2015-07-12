@@ -14,6 +14,11 @@
 
 # 2015
 
+## Diving in: WebGL and WebVR
+[ShenJS 2015](http://2015.jsconf.cn/), Shenzhen (China)
+
+[Slides](http://avgp.github.io/shenjs-3d)
+
 ## The third dimension of the web - WebGL and WebVR
 [MediterraneaJS 2015](http://mediterraneajs.eu/), Barcelona (Spain)
 

@@ -43,10 +43,11 @@
 <ul>
 <li><a href="#apps">Apps</a></li>
 <li><a href="#tools">Tools</a></li>
-<li><a href="#wip">WiP</a></li>
 </ul>
 <h1 id="apps">Apps</h1>
 <p>Some of the apps I built:</p>
+<h2 id="h2g2three">h2g2three</h2>
+<p>A WebGL livecoding environment using Three.js.<br><a href="http://avgp.github.io/h2g2three">Try it out</a> or <a href="https://github.com/avgp/h2g2three">check it out</a> on Github.</p>
 <h2 id="spotweather">SpotWeather</h2>
 <p>Local weather info with beautiful pictures from your location (matching the weather).</p>
 <p>Using the <a href="http://www.flickr.com">Flickr</a> and <a href="http://openweathermap.org">OpenWeatherMap</a> APIs bundled as a beautiful fullscreen web app this<br>app has a few hundred downloads in the Firefox Marketplace.</p>
@@ -66,9 +67,6 @@
 <h2 id="zueri2go">Zueri2Go</h2>
 <p>Zueri2Go is a mobile web app that helps you find interesting spots around you (Zurich only).<br>It shows you nearby playgrounds, vantage points, public restrooms, cafes and restaurants.</p>
 <p><a href="https://github.com/avgp/zueri2go">Github repository</a><br><a href="http://avgp.github.io/Zueri2Go">See it in action</a></p>
-<h2 id="stackmin">Stackmin</h2>
-<p>Stackmin was a Cloud<strong>stack</strong> ad<strong>min</strong>istration tool.<br>It allowed you to list running VMs, start/stop/reboot them or deploy a new one.</p>
-<p><a href="https://github.com/martin-naumann/stackmin">Github repository</a><br><a href="https://chrome.google.com/webstore/detail/stackmin/clmjbcbkfngncegopkcdpggpapdejcne?hl=en">Chrome Webstore</a></p>
 <h2 id="montagsmaler">Montagsmaler</h2>
 <p>Montagsmaler is a HTML5 clone of games like Draw Something.<br>It uses websockets and is touchscreen compatible.</p>
 <p><a href="https://github.com/avgp/Montagsmaler">Github repository</a></p>
@@ -76,12 +74,23 @@
 <p>Over time I built (and am still building) a few handy tools to make things easier for others and me.<br>Here is a collection of the things that people find quite useful:</p>
 <h2 id="collection-of-web-components">Collection of web components</h2>
 <p><a href="http://components.geekonaut.de">components.geekonaut.de</a> is a collection of web components of all kinds.</p>
+<h2 id="susi-sup-2-sup-">SuSi<sup>2</sup></h2>
+<p>When you want to create a static website by using a global HTML layout and Markdown, SuSi<sup>2</sup> is for you.</p>
+<p>I found all the available static site generators rather overpowered and complex - lots of dependencies and some are very tightly integrated with a particular build tool, like Gulp or Grunt.</p>
+<p>SuSi<sup>2</sup> (SuperSimpleSites) has none of that. It has a single dependency, <a href="">Marked</a>, to parse Markdown files and that&#39;s it.</p>
+<p>This website is created by Susi, by the way.</p>
+<h2 id="three-world">three-world</h2>
+<p>A <a href="http://browserify.org">browserify</a>-ready wrapper around <a href="http://www.threejs.org">Three.js</a> that minimizes the amount of boilerplate code needed to build WebGL applications.<br><a href="https://github.com/avgp/three-world">Github repository</a> <a href="https://npmjs.org/package/three-world">npm module</a></p>
+<h2 id="heroku-deploy-archive">heroku-deploy-archive</h2>
+<p><a href="https://github.com/avgp/heroku-deploy-archive">This Heroku plugin</a> allows to deploy any tarball or zip file to Heroku, as long as it contains a valid application.<br>You don&#39;t need git, just bundle your app as ZIP or TAR and push!</p>
+<h2 id="forrest">forrest</h2>
+<p>Quickly and easily launch Docker containers and register them with etcd.<br><a href="https://github.com/avgp/forrest">Github</a></p>
 <h2 id="cloud9hub">Cloud9Hub</h2>
 <p><a href="http://c9.io">Cloud9</a> is a very useful cloud-based IDE running in your browser and <a href="https://github.com/ajaxorg/cloud9">it&#39;s open source, too</a>.</p>
 <p>Unfortunately not everybody can or wants to have their source code on a third party server and the open source version of Cloud9 lacks multi-workspace support.</p>
 <p><a href="https://github.com/avgp/cloud9hub">Cloud9Hub</a> gives you the possibility to run your own Cloud9 instances on your own infrastructure while providing an authentication and authorization mechanism and support for multiple workspaces.</p>
-<h2 id="three-world">three-world</h2>
-<p>A <a href="http://browserify.org">browserify</a>-ready wrapper around <a href="http://www.threejs.org">Three.js</a> that minimizes the amount of boilerplate code needed to build WebGL applications.<br><a href="https://github.com/avgp/three-world">Github repository</a> <a href="https://npmjs.org/package/three-world">npm module</a></p>
+<h2 id="baditicker-api">baditicker-api</h2>
+<p>CORS-enabled HTTP API for the public pool water temperature OpenData data set from Zurich.<br><a href="http://github.com/avgp/baditicker-api">On Github</a> and <a href="http://baditicker-api.herokuapp.com">on Heroku</a></p>
 <h2 id="grunt-phonegap-build">grunt-phonegap-build</h2>
 <p>A <a href="http://www.gruntjs.com">Grunt</a> task to help you build a <a href="http://www.cordova.io">Cordova</a> app on <a href="http://build.phonegap.com">build.phonegap.com</a>.</p>
 <p>It allows to build your app by either using a public Github repository or by uploading a zip file easily from within your normal build steps.</p>
@@ -90,11 +99,6 @@
 <h2 id="eternity">Eternity</h2>
 <p>If you are a fan of Heroku-style deployment (like <a href="https://github.com/progrium/dokku">Dokku</a> provides) and want to easily deploy Node.js applications, you could give <a href="https://github.com/avgp/eternity">eternity</a> a try.</p>
 <p>It uses Dokkus git-receive module and ties it to forever to deploy and manage multiple node.js applications on a single server.</p>
-<h2 id="susi-sup-2-sup-">SuSi<sup>2</sup></h2>
-<p>When you want to create a static website by using a global HTML layout and Markdown, SuSi<sup>2</sup> is for you.</p>
-<p>I found all the available static site generators rather overpowered and complex - lots of dependencies and some are very tightly integrated with a particular build tool, like Gulp or Grunt.</p>
-<p>SuSi<sup>2</sup> (SuperSimpleSites) has none of that. It has a single dependency, <a href="">Marked</a>, to parse Markdown files and that&#39;s it.</p>
-<p>This website is created by Susi, by the way.</p>
 <h2 id="geckoard-data-pushers">Geckoard Data Pushers</h2>
 <p>Set of script to push data from various sources to <a href="http://www.geckoboard.com">Geckoard</a>.</p>
 <p><a href="https://github.com/martin-naumann/geckoboard-data-pushers">Github repository</a></p>
@@ -108,6 +112,9 @@
 <h2 id="flipahead-js">flipAhead.js</h2>
 <p>Javascript library that allows page navigation by two finger swipe,<br>similar and compatible with <a href="http://msdn.microsoft.com/en-us/library/ie/jj883726.aspx">Internet Explorer flip ahead browsing</a>.</p>
 <p><a href="https://github.com/avgp/flipAhead.js">Github repository</a></p>
+<h2 id="stackmin-discontinued-">Stackmin (discontinued)</h2>
+<p>Stackmin was a Cloud<strong>stack</strong> ad<strong>min</strong>istration tool.<br>It allowed you to list running VMs, start/stop/reboot them or deploy a new one.</p>
+<p><a href="https://github.com/martin-naumann/stackmin">Github repository</a><br><a href="https://chrome.google.com/webstore/detail/stackmin/clmjbcbkfngncegopkcdpggpapdejcne?hl=en">Chrome Webstore</a></p>
 <h2 id="selenize-discontinued-">Selenize (discontinued)</h2>
 <p>Web app for importing Git repositories and running Selenium tests via phpUnit on a dedicated server.<br>Uses lxc for isolation.</p>
 <p><a href="https://github.com/avgp/selenize">Github repository</a></p>
