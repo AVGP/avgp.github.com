@@ -7,8 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 11. & 12.07.15 | Shenzhen, China | ShenJS | Diving in - WebGL and WebVR |
-| 16.07.15 | Nürnberg, Germany | Typo3 Developer Day | Web components and Polymer |
 | 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | Firefox OS App Development |
 | 02. - 03.10.15 | Paris, France | Paris Web | WebGL and WebVR: 3D web today and tomorrow |
 
