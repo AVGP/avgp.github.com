@@ -9,6 +9,7 @@
 | --- | --- | --- | --- |
 | 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | Firefox OS App Development |
 | 02. - 03.10.15 | Paris, France | Paris Web | WebGL and WebVR: 3D web today and tomorrow |
+| 11. - 13.11.15 | Amsterdam, Netherlands | RocketConf | Web Components - the next generation of frontend development |
 
 # 2015
 
