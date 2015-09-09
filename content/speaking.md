@@ -10,6 +10,7 @@
 | 10.09.15 | Munich, Germany | Munich.js | WebGL and WebVR |
 | 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | Firefox OS App Development |
 | 02. - 03.10.15 | Paris, France | Paris Web | WebGL and WebVR: 3D web today and tomorrow |
+| 02. - 03.11.15 | Berlin, Germany | CodeMotion | If you like it, make a web component from it |
 
 # 2015
 
