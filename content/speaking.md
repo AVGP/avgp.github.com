@@ -7,12 +7,15 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 10.09.15 | Munich, Germany | Munich.js | WebGL and WebVR |
 | 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | Firefox OS App Development |
 | 02. - 03.10.15 | Paris, France | Paris Web | WebGL and WebVR: 3D web today and tomorrow |
-| 02. - 03.11.15 | Berlin, Germany | CodeMotion | If you like it, make a web component from it |
+| 10.10.15 | Amsterdam, Netherlands | Devfest NL | Virtual Reality with WebVR and Google Cardboard |
 
 # 2015
+
+## WebGL and WebVR
+[Munich JS](http://www.meetup.com/MunichJS-User-Group/events/225115317/), Munich (Germany)
+[Slides](http://bit.ly/munichjs-webvr)
 
 ## Diving in: WebGL and WebVR
 [ShenJS 2015](http://2015.jsconf.cn/), Shenzhen (China)
