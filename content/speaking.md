@@ -10,6 +10,7 @@
 | 28. - 29.09.15 | Potsdam, Germany | Mobile App Europe | Firefox OS App Development |
 | 02. - 03.10.15 | Paris, France | Paris Web | WebGL and WebVR: 3D web today and tomorrow |
 | 10.10.15 | Amsterdam, Netherlands | Devfest NL | Virtual Reality with WebVR and Google Cardboard |
+| 12. -13.10.15 | Warsaw, Poland | Falsy Values | 3D on the web: WebGL and WebVR |
 
 # 2015
 
