@@ -7,10 +7,18 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 10.10.15 | Amsterdam, Netherlands | Devfest NL | Virtual Reality with WebVR and Google Cardboard |
-| 12. -13.10.15 | Warsaw, Poland | Falsy Values | 3D on the web: WebGL and WebVR |
+| 24.10.15 | GDG Devfest | Zürich | WebVR with Google Cardboard |
 
 # 2015
+
+## 3D on the web: WebGL and WebVR
+[Falsy Values](http://2015.falsyvalues.com), Warsaw (Poland)
+
+[Slides](http://bit.ly/falsyvalues-3d)
+
+## Virtual Reality with WebVR and Google Cardboard
+[DevfestNL 2015](http://devfest.nl), Amsterdam (Netherlands)
+[Slides](http://bit.ly/devfest-webvr)
 
 ## WebGL workshop
 [Paris Web 2015](http://paris-web.fr), Paris (France)
