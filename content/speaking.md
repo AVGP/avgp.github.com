@@ -8,6 +8,7 @@
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
 | 24.10.15 | GDG Devfest | Zürich | WebVR with Google Cardboard |
+| 17.-19.11.15 | Topconf | Talinn | WebGL workshop |
 
 # 2015
 
