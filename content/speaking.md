@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 24.10.15 | GDG Devfest | Zürich | WebVR with Google Cardboard |
 | 17.-19.11.15 | Topconf | Talinn | WebVR / Scala / Docker |
-| Placeholder | Secret | Secret | Secret |
+| 05. / 06.12.15 | JSconf US | Amelia Island, Florida | Multiplayer WebVR |
 | 11.-15.01.16 | London | NDC-London | Web Components - a whirlwind tour |
 | 25.02.16 | Montreal | Confoo | Polymer |
 | 26.02.16 | Montreal | Confoo | WebGL |
