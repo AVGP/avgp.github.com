@@ -7,35 +7,61 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 24.10.15 | GDG Devfest | Zürich | WebVR with Google Cardboard |
-| 17.-19.11.15 | Topconf | Talinn | WebVR / Scala / Docker |
 | 05. / 06.12.15 | JSconf US | Amelia Island, Florida | Multiplayer WebVR |
 | 11.-15.01.16 | London | NDC-London | Web Components - a whirlwind tour |
 | 25.02.16 | Montreal | Confoo | Polymer |
 | 26.02.16 | Montreal | Confoo | WebGL |
+| 02. / 03.03.16 | Riga | Dev Days | WebGL & WebVR: Take the web to the third dimension |
+| 21. / 22.04.16 | Oxford | RenderConf | The next frontier: 3D and immersion |
 
 # 2015
+
+## Let's go write some Scala!
+[TopConf Tallinn 2015](), Tallinn (Estonia)
+
+[Slides](http://bit.ly/topconf-scala-intro)
+
+## Automated Feature Branch Deployments
+[TopConf Tallinn 2015](), Tallinn (Estonia)
+
+[Slides](http://bit.ly/topconf-godeploy)
+
+## The 3D Web: WebGL and WebVR
+[TopConf Tallinn 2015](), Tallinn (Estonia)
+
+[Slides](http://bit.ly/topconf-3dweb)
+
+## WebVR with Google Cardboard
+[GDG Devfest 2015](http://gdgzh.ch/devfest-2015-postevent/), Zurich (Switzerland)
+
+[Slides](http://bit.ly/gdgzh-webvr)
 
 ## 3D on the web: WebGL and WebVR
 [Falsy Values](http://2015.falsyvalues.com), Warsaw (Poland)
 
 [Slides](http://bit.ly/falsyvalues-3d)
+[Video](https://www.youtube.com/watch?v=98I3_DnAQvo)
 
 ## Virtual Reality with WebVR and Google Cardboard
 [DevfestNL 2015](http://devfest.nl), Amsterdam (Netherlands)
+
 [Slides](http://bit.ly/devfest-webvr)
 
 ## WebGL workshop
 [Paris Web 2015](http://paris-web.fr), Paris (France)
+
 [Slides](http://bit.ly/parisweb-threejs)
 
 ## FirefoxOS workshop
 [Mobile App Europe 2015](http://mobileappeurope.com/), Potsdam (Germany)
+
 [Slides](https://bit.ly/mae15-fxos)
 
 ## WebGL and WebVR
 [Munich JS](http://www.meetup.com/MunichJS-User-Group/events/225115317/), Munich (Germany)
+
 [Slides](http://bit.ly/munichjs-webvr)
+[Video](https://www.youtube.com/watch?v=XGLh27dQD6c)
 
 ## Diving in: WebGL and WebVR
 [ShenJS 2015](http://2015.jsconf.cn/), Shenzhen (China)
@@ -46,6 +72,7 @@
 [MediterraneaJS 2015](http://mediterraneajs.eu/), Barcelona (Spain)
 
 [Slides](http://bit.ly/mdtrnjs-3d)
+[Video](https://vimeo.com/145151268)
 
 ## Web Components (german)
 [enterJS 2015](http://www.enterjs.de/), Darmstadt (Germany)
@@ -71,6 +98,7 @@
 [JSConf UY 2015](http://jsconf.uy), Montevideo (Uruguay)
 
 [Slides](https://bit.ly/jsconfuy-3dweb)
+[Video](https://www.youtube.com/watch?v=C4wL-7-KC2Q)
 
 ## Three.js Workshop
 [JSConf UY 2015](http://jsconf.uy), Montevideo (Uruguay)
