@@ -7,7 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 05. / 06.12.15 | JSconf US | Amelia Island, Florida | Multiplayer WebVR |
 | 11.-15.01.16 | London | NDC-London | Web Components - a whirlwind tour |
 | 02. / 03.02.16 | Linz | TopConf | We're going in: The 3D Web |
 | 25.02.16 | Montreal | Confoo | Polymer |
@@ -17,8 +16,13 @@
 
 # 2015
 
+## Multiplayer WebVR
+[JSConf US Last Call 2015](http://lastcall.jsconf.us/), Amelia Island (US)
+
+[Slides](http://bit.ly/jsconf-multi-vr)
+
 ## Let's go write some Scala!
-[TopConf Tallinn 2015](), Tallinn (Estonia)
+[TopConf Tallinn 2015](http://topconf.com/tallinn-2015/), Tallinn (Estonia)
 
 [Slides](http://bit.ly/topconf-scala-intro)
 
