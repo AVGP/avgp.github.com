@@ -50,4 +50,9 @@ so he decided to use his computering to improve his and other's humaning.
 He loves the open web and open source and helps to make things better with, but not limited to, code.
 </blockquote>
 
-[<img src="images/me_400x400.jpg" width="100">](/images/me_400x400.jpg) [<img src="images/the_one_cropped.jpg" width="100">](/images/the_one_cropped.jpg) [<img src="images/madrid2013.jpg" width="100">](/images/madrid2013.jpg) [<img src="images/lisbon2014.jpg" width="100">](/images/lisbon2014.jpg)
+[<img src="images/me_400x400.jpg" width="100">](/images/me_400x400.jpg)
+[<img src="images/the_one_cropped.jpg" width="100">](/images/the_one_cropped.jpg)
+[<img src="images/madrid2013.jpg" width="100">](/images/madrid2013.jpg)
+[<img src="images/lisbon2014.jpg" width="100">](/images/lisbon2014.jpg)
+[<img src="images/Martin-Naumann-Color.jpg" width="100">](/images/Martin-Naumann-Color.jpg)
+[<img src="images/Martin-Naumann-BW.jpg" width="100">](/images/Martin-Naumann-BW.jpg)
