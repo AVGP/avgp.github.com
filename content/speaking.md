@@ -52,6 +52,12 @@
 
 [Slides](http://bit.ly/devfest-webvr)
 
+## WebGL and WebVR: 3D web today and tomorrow
+[Paris Web 2015](http://paris-web.fr), Paris (France)
+
+[Video](https://vimeo.com/146476185)
+[Slides](avgp.github.io/paris-web-webgl)
+
 ## WebGL workshop
 [Paris Web 2015](http://paris-web.fr), Paris (France)
 
