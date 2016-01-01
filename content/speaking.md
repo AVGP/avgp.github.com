@@ -9,6 +9,7 @@
 | --- | --- | --- | --- |
 | 11.-15.01.16 | London | NDC-London | Web Components - a whirlwind tour |
 | 02. / 03.02.16 | Linz | TopConf | We're going in: The 3D Web |
+| 20. / 21.02.16 | Minsk | RSConf | tba |
 | 25.02.16 | Montreal | Confoo | Polymer |
 | 26.02.16 | Montreal | Confoo | WebGL |
 | 02. / 03.03.16 | Riga | Dev Days | WebGL & WebVR: Take the web to the third dimension |
