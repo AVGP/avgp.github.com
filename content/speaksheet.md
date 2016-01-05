@@ -20,6 +20,8 @@ Please cover my travel and accomodation expenses - it doesn't need to be a busin
 I'm investing time and energy to prep a nice, individual talk for your audience - that takes time and I'd like to focus on that rather than planning and handling my expenses.
 If you can't cover my travel and accomodation, let's talk right upfront about it.
 
+On the topic of speaker expenses, I highly recommend reading [this article](http://pewpewlaser.com/blogs/647) that explains why this is important to me and many others.
+
 ### Have a solid stage setup
 I'll bring my own laptop and presenter.
 
