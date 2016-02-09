@@ -12,6 +12,7 @@
 | 26.02.16 | Montreal | Confoo | WebGL |
 | 02. / 03.03.16 | Riga | Dev Days | WebGL & WebVR: Take the web to the third dimension |
 | 21. / 22.04.16 | Oxford | RenderConf | The next frontier: 3D and immersion |
+| 03.05.16 | Bruges | jsconf Belgium | WebVR
 
 # 2015
 
