@@ -11,8 +11,13 @@
 | 25.02.16 | Montreal | Confoo | Polymer |
 | 26.02.16 | Montreal | Confoo | WebGL |
 | 02. / 03.03.16 | Riga | Dev Days | WebGL & WebVR: Take the web to the third dimension |
+| 18. / 19.03.16 | Rome | CodeMotion | The next frontier: WebGL and WebVR |
+<!--| 10.04.16 | Tel-Aviv | boostJS | WebGL & WebVR | -->
 | 21. / 22.04.16 | Oxford | RenderConf | The next frontier: 3D and immersion |
-| 03.05.16 | Bruges | jsconf Belgium | WebVR
+| 30.04.16 | Lugano | Voxxed Days | TBA |
+| 03.05.16 | Bruges | jsconf Belgium | Multiplayer WebVR |
+<!-- | 09.06.16 | Bucharest | DevTalks | TBA | -->
+| 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer & Web components |
 
 # 2015
 
