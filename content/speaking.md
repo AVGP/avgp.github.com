@@ -7,19 +7,41 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 20. / 21.02.16 | Minsk | RSConf | Computer graphics for Frontenders |
-| 25.02.16 | Montreal | Confoo | Polymer |
-| 26.02.16 | Montreal | Confoo | WebGL |
-| 02. / 03.03.16 | Riga | Dev Days | WebGL & WebVR: Take the web to the third dimension |
 | 18. / 19.03.16 | Rome | CodeMotion | The next frontier: WebGL and WebVR |
 <!--| 10.04.16 | Tel-Aviv | boostJS | WebGL & WebVR | -->
+<!--|17.04.16 | Kiev | Framework Days | TBA | -->
 | 21. / 22.04.16 | Oxford | RenderConf | The next frontier: 3D and immersion |
 | 30.04.16 | Lugano | Voxxed Days | TBA |
 | 03.05.16 | Bruges | jsconf Belgium | Multiplayer WebVR |
+| 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer: Das moderne Webanwendungsframework |
+| 14.06 - 16.06.16 | Darmstadt | enterjs | Web Components – das unbekannte Wesen aus dem Browser |
 <!-- | 09.06.16 | Bucharest | DevTalks | TBA | -->
-| 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer & Web components |
 
 # 2015
+
+# Polymer: A modern way to build web applications
+[Confoo](https://confoo.ca/en/2016/), Montreal
+
+[Slides](https://bit.ly/confoo-polymer)
+
+# Building interactive 3D worlds in the browser with WebGL
+[Confoo](https://confoo.ca/en/2016/), Montreal
+
+[Slides](https://bit.ly/confoo-3dworlds)
+
+<!--
+# (Workshop) Shaders - unlocking the GPU
+[RSConf](http://2016.conf.rollingscopes.com)
+
+[Video](https://www.youtube.com/watch?v=dugISU2d4SM)
+[Slides](https://bit.ly/shaders-unlocked)
+-->
+
+# Computer graphics for Frontenders
+[RSConf](http://2016.conf.rollingscopes.com), Minsk
+
+[Video](https://www.youtube.com/watch?v=ocjCbVe89Kw)
+[Slides](https://bit.ly/rs-pixels)
 
 # We're going in: The 3D Web
 [TopConf Linz](http://topconf.com/linz-2016), Linz

@@ -35,8 +35,18 @@ If that's all alright with you, drop me a message [on twitter](https://twitter.c
 
 ### Speaker Bio & Pictures
 
+Short:
+
 <blockquote>
-<!--
+Martin is pretty decent at humaning and pretty good at computering,
+so he decided to use his computering to improve his and other's humaning.
+
+He loves the open web and open source and helps to make things better with, but not limited to, code.
+</blockquote>
+
+Long:
+
+<blockquote>
 Martin is open source contributor and web evangelist by heart from Zurich
 with a decade experience from the trenches of software engineering in multiple fields.
 
@@ -45,11 +55,6 @@ He devotes his time to moving the web forward, fixing problems, building applica
 and breaking things for fun &amp; profit.
 
 Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.
--->
-Martin is pretty decent at humaning and pretty good at computering,
-so he decided to use his computering to improve his and other's humaning.
-
-He loves the open web and open source and helps to make things better with, but not limited to, code.
 </blockquote>
 
 [<img src="images/me_400x400.jpg" width="100">](/images/me_400x400.jpg) [<img src="images/the_one_cropped.jpg" width="100">](/images/the_one_cropped.jpg) [<img src="images/madrid2013.jpg" width="100">](/images/madrid2013.jpg)
