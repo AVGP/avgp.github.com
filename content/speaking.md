@@ -8,13 +8,13 @@
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
 | 18. / 19.03.16 | Rome | CodeMotion | The next frontier: WebGL and WebVR |
-<!--| 10.04.16 | Tel-Aviv | boostJS | WebGL & WebVR | -->
-<!--|17.04.16 | Kiev | Framework Days | TBA | -->
+| 10.04.16 | Tel-Aviv | boostJS | WebGL & WebVR |
 | 21. / 22.04.16 | Oxford | RenderConf | The next frontier: 3D and immersion |
 | 30.04.16 | Lugano | Voxxed Days | TBA |
 | 03.05.16 | Bruges | jsconf Belgium | Multiplayer WebVR |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer: Das moderne Webanwendungsframework |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Web Components – das unbekannte Wesen aus dem Browser |
+<!-- |17.04.16 | Kiev | Framework Days | TBA | -->
 <!-- | 09.06.16 | Bucharest | DevTalks | TBA | -->
 
 # 2015
