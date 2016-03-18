@@ -7,24 +7,28 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 18. / 19.03.16 | Rome | CodeMotion | The next frontier: WebGL and WebVR |
 | 10.04.16 | Tel-Aviv | boostJS | WebGL & WebVR |
 | 21. / 22.04.16 | Oxford | RenderConf | The next frontier: 3D and immersion |
-| 30.04.16 | Lugano | Voxxed Days | TBA |
+| 30.04.16 | Lugano | Voxxed Days | WebGL and the spatial web experience |
 | 03.05.16 | Bruges | jsconf Belgium | Multiplayer WebVR |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer: Das moderne Webanwendungsframework |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Web Components – das unbekannte Wesen aus dem Browser |
 <!-- |17.04.16 | Kiev | Framework Days | TBA | -->
 <!-- | 09.06.16 | Bucharest | DevTalks | TBA | -->
 
-# 2015
+# 2016
 
-# Polymer: A modern way to build web applications
+## WebGL and WebVR: The next frontier
+[Codemotion Rome](http://rome2016.codemotionworld.com/conference/), Rome
+
+[Slides](https://bit.ly/cm16-rome-3d)
+
+## Polymer: A modern way to build web applications
 [Confoo](https://confoo.ca/en/2016/), Montreal
 
 [Slides](https://bit.ly/confoo-polymer)
 
-# Building interactive 3D worlds in the browser with WebGL
+## Building interactive 3D worlds in the browser with WebGL
 [Confoo](https://confoo.ca/en/2016/), Montreal
 
 [Slides](https://bit.ly/confoo-3dworlds)
@@ -37,21 +41,24 @@
 [Slides](https://bit.ly/shaders-unlocked)
 -->
 
-# Computer graphics for Frontenders
+## Computer graphics for Frontenders
 [RSConf](http://2016.conf.rollingscopes.com), Minsk
 
 [Video](https://www.youtube.com/watch?v=ocjCbVe89Kw)
 [Slides](https://bit.ly/rs-pixels)
 
-# We're going in: The 3D Web
+## We're going in: The 3D Web
 [TopConf Linz](http://topconf.com/linz-2016), Linz
 
 [Slides](http://bit.ly/tclinz-3d)
 
-# Web Components - a whirlwind tour
+## Web Components - a whirlwind tour
 [NDC London](http://ndc-london.com), London
 
+[Video](https://vimeo.com/157411708)
 [Slides](http://bit.ly/ndc16-webcomponents)
+
+# 2015
 
 ## Multiplayer WebVR
 [JSConf US Last Call 2015](http://lastcall.jsconf.us/), Amelia Island (US)
