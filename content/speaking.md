@@ -18,6 +18,11 @@
 
 # 2016
 
+## We're going in: WebGL & WebVR
+[boost(js) Tel-Aviv](http://boostjs.io/)
+
+[Slides](http://bit.ly/boostjs-webgl)
+
 ## WebGL and WebVR: The next frontier
 [Codemotion Rome](http://rome2016.codemotionworld.com/conference/), Rome
 
