@@ -18,7 +18,7 @@
 # 2016
 
 ## We're going in: WebGL & WebVR
-[boost(js) Tel-Aviv](http://boostjs.io/)
+[boost(js)](http://boostjs.io/), Tel-Aviv
 
 [Slides](http://bit.ly/boostjs-webgl)
 
