@@ -7,7 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 10.04.16 | Tel-Aviv | boostJS | WebGL & WebVR |
 |17.04.16 | Kiev | Framework Days | Web rendering performance |
 | 21. / 22.04.16 | Oxford | RenderConf | The next frontier: 3D and immersion |
 | 30.04.16 | Lugano | Voxxed Days | WebGL and the spatial web experience |
