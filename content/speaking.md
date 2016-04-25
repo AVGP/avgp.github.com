@@ -7,15 +7,24 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-|17.04.16 | Kiev | Framework Days | Web rendering performance |
-| 21. / 22.04.16 | Oxford | RenderConf | The next frontier: 3D and immersion |
 | 30.04.16 | Lugano | Voxxed Days | WebGL and the spatial web experience |
 | 03.05.16 | Bruges | jsconf Belgium | Let's dive into a virtual world - together |
-| 09.06.16 | Bucharest | DevTalks | TBA |
+| 09.06.16 | Bucharest | DevTalks | Creating interactive 3D worlds in the browser |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer: Das moderne Webanwendungsframework |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Web Components – das unbekannte Wesen aus dem Browser |
+| 02.07 - 03.07.16 | Odessa | OdessaJS | WebGL, basic computer graphics for frontend devs |
 
 # 2016
+
+## The next frontier: 3D and immersion
+[RenderConf](2016.render-conf.com), Oxford
+
+[Slides](http://bit.ly/renderconf-webgl-webvr)
+
+## Web Rendering Performance
+[Framework Days](frameworksdays.com/event/js-frameworks-day-2016), Kyiv
+
+[Slides](http://bit.ly/fwd16-performance)
 
 ## We're going in: WebGL & WebVR
 [boost(js)](http://boostjs.io/), Tel-Aviv
