@@ -7,7 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 30.04.16 | Lugano | Voxxed Days | WebGL and the spatial web experience |
 | 03.05.16 | Bruges | jsconf Belgium | Let's dive into a virtual world - together |
 | 09.06.16 | Bucharest | DevTalks | Creating interactive 3D worlds in the browser |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer: Das moderne Webanwendungsframework |
@@ -15,6 +14,16 @@
 | 02.07 - 03.07.16 | Odessa | OdessaJS | WebGL, basic computer graphics for frontend devs |
 
 # 2016
+
+## Let's dive into a virtual world - together
+[jsconf Belgium](jsconf.be), Brugge
+
+[Slides](http://bit.ly/jsconfbe-multi-vr)
+
+## WebGL and the spatial web experience
+[Voxxed Days Ticino](voxxeddays.com/ticino16/), Lugano
+
+[Slides](http://bit.ly/vdt16-webgl)
 
 ## The next frontier: 3D and immersion
 [RenderConf](2016.render-conf.com), Oxford
