@@ -7,7 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 03.05.16 | Bruges | jsconf Belgium | Let's dive into a virtual world - together |
 | 09.06.16 | Bucharest | DevTalks | Creating interactive 3D worlds in the browser |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer: Das moderne Webanwendungsframework |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Web Components – das unbekannte Wesen aus dem Browser |
