@@ -22,6 +22,7 @@
 ## WebGL and the spatial web experience
 [Voxxed Days Ticino](voxxeddays.com/ticino16/), Lugano
 
+[Video](https://www.youtube.com/watch?v=E2Ai1X80MlQ)
 [Slides](http://bit.ly/vdt16-webgl)
 
 ## The next frontier: 3D and immersion
