@@ -11,6 +11,8 @@
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer: Das moderne Webanwendungsframework |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Web Components – das unbekannte Wesen aus dem Browser |
 | 02.07 - 03.07.16 | Odessa | OdessaJS | WebGL, basic computer graphics for frontend devs |
+| 21.07.16 | Amsterdam | NLHTML5 | TBA |
+<!-- | 27.08.16 | Vilnius | Frontend Union | Building interactive 3D worlds in the browser with WebGL -->
 
 # 2016
 
@@ -28,17 +30,25 @@
 ## The next frontier: 3D and immersion
 [RenderConf](2016.render-conf.com), Oxford
 
+[Video](https://vimeo.com/album/3953264/video/166790290)
 [Slides](http://bit.ly/renderconf-webgl-webvr)
 
 ## Web Rendering Performance
 [Framework Days](frameworksdays.com/event/js-frameworks-day-2016), Kyiv
 
+[Video](https://www.youtube.com/watch?v=iLnL9H9F8i4)
 [Slides](http://bit.ly/fwd16-performance)
 
 ## We're going in: WebGL & WebVR
 [boost(js)](http://boostjs.io/), Tel-Aviv
 
 [Slides](http://bit.ly/boostjs-webgl)
+
+## Web Components - A whirlwind tour
+[Jazoon](http://jazoon.com/sp2016/)
+
+[Video](https://www.youtube.com/watch?v=LvnlE2uH0vw)
+[Slides](http://bit.ly/jazoon16-webcomponents)
 
 ## WebGL and WebVR: The next frontier
 [Codemotion Rome](http://rome2016.codemotionworld.com/conference/), Rome
@@ -90,6 +100,7 @@
 ## Let's go write some Scala!
 [TopConf Tallinn 2015](http://topconf.com/tallinn-2015/), Tallinn (Estonia)
 
+[Video](https://www.youtube.com/watch?v=T2sskLbr-EE)
 [Slides](http://bit.ly/topconf-scala-intro)
 
 ## Automated Feature Branch Deployments
@@ -100,6 +111,7 @@
 ## The 3D Web: WebGL and WebVR
 [TopConf Tallinn 2015](), Tallinn (Estonia)
 
+[Video](https://www.youtube.com/watch?v=KwDaG62aVM)
 [Slides](http://bit.ly/topconf-3dweb)
 
 ## WebVR with Google Cardboard
@@ -159,6 +171,7 @@
 ## The web is dead. Long live the web
 [DevTalks 2015](http://devtalks.ro/agenda/agenda-bucharest/?city=bucuresti), Bucharest (Romania)
 
+[Video](https://www.youtube.com/watch?v=PyGEGIXSF28)
 [Slides](http://bit.ly/devtalks15-web-rant)
 
 ## Exploring the third dimension with WebGL
