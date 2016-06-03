@@ -11,8 +11,9 @@
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Polymer: Das moderne Webanwendungsframework |
 | 14.06 - 16.06.16 | Darmstadt | enterjs | Web Components – das unbekannte Wesen aus dem Browser |
 | 02.07 - 03.07.16 | Odessa | OdessaJS | WebGL, basic computer graphics for frontend devs |
-| 21.07.16 | Amsterdam | NLHTML5 | TBA |
-<!-- | 27.08.16 | Vilnius | Frontend Union | Building interactive 3D worlds in the browser with WebGL -->
+| 21.07.16 | Amsterdam | NLHTML5 | WebVR in the wild |
+<!-- | 27.08.16 | Vilnius | Frontend Union | Building interactive 3D worlds in the browser with WebGL | -->
+| 28. - 29.11.16 | Munich | jsKongress | Making games with JavaScript and Phaser.io |
 
 # 2016
 

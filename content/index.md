@@ -9,7 +9,7 @@ I [write a blog](http://ox86.tumblr.com), post some tips to [Coderwall](https://
 On this website you can find [a few projects I work on](projects.html), [experiments I play with](experiments.html),
 [an overview of the talks I give](speaking.html) and [some of the writing](writing.html) I do outside of my blog.
 
-<img src="images/sketched_me.png" width="80%" alt="Martin Naumann aka Geekonaut">
+<img src="images/sketched_me.png" width="80%" alt="Martin Splitt aka Geekonaut">
 
     -----BEGIN GEEK CODE BLOCK-----
     Version: 3.1
