@@ -1,6 +1,12 @@
 <!-- ::Speaksheet -->
 # Speaksheet
 
+## TL;DR
+
+* I'm happy to give a unique talk that fits your event and the audience - but in return I must ask for covering my costs for getting to your event and staying there as long as needed.
+* So give me a flight and a place to crash at (your sofa is probably fine, hotel is also fine - whatever your budget allows) and we're likely going to have a match here!
+
+
 ## Want me as a speaker on your conference?
 
 Thanks, that's nice!
