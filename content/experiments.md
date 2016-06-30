@@ -3,6 +3,14 @@
 
 A List of small experiments can be found on [my exposition site](http://avgp.github.io/exposition).
 
+## Tango WebVR 6DoF
+
+Using [Google Tango](https://get.google.com/tango/) and [WebVR](https://webvr.info/) with WebGL to get six degrees of freedom in a demo.
+This means, that moving around in the real world also moves the user around in the virtual world. This is also known as "roomscale VR".
+
+[Video of the demo](https://www.youtube.com/watch?v=UHj1RLYb_4U)
+[Code on Github](https://github.com/archilogic-com/tango-web-demo-cubes)
+
 ## Zurich 3D
 
 Using the digital surface model (Open Data by GIS Zentrum ZH) to create a 3D representation in the browser.
