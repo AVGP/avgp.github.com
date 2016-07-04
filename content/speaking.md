@@ -7,7 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 02.07 - 03.07.16 | Odessa | OdessaJS | WebGL, basic computer graphics for frontend devs |
 | 21.07.16 | Amsterdam | NLHTML5 | WebVR in the wild |
 | 30.07.16 | Vinnytsia | Vinnytsia JS | JavaScript: The awesome parts |
 | 30.07.16 | Vinnytsia | Vinnytsia JS | WTF: WebGL: The fundamentals |
@@ -20,6 +19,12 @@
 <!-- | 21. - 23.10.16 | Birmingham | Hackference | Building interactive 3D worlds in the browser with WebGL | -->
 
 # 2016
+
+
+## WebGL - basic computer graphics for frontend devs
+[OdessaJS](http://odessajs.org/), Odessa
+
+[Slides](https://bit.ly/odessajs-webgl)
 
 ## Web Components - das unbekannte Wesen aus dem Browser
 [enterJS](https://www.enterjs.de/), Darmstadt
