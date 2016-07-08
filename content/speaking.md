@@ -15,7 +15,7 @@
 | 01. - 02.09.16 | Zurich | Frontend Conf | Life of a pixel or how I learned to love rendering performance |
 | 30.09. - 01.10.16 | Dublin | Codemotion Dublin | The next frontier: WebGL and WebVR |
 | 06. - 07.10.16 | Amsterdam | Fronteers | WebVR in the wild |
-| 21. - 23.10.16 | Birmingham | Hackference | TBA |
+| 21. - 23.10.16 | Birmingham | Hackference | Building interactive 3D worlds in the browser with WebGL |
 | 28. - 29.11.16 | Munich | jsKongress | Making games with JavaScript and Phaser.io |
 
 # 2016
