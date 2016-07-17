@@ -26,6 +26,7 @@
 [OdessaJS](http://odessajs.org/), Odessa
 
 [Slides](https://bit.ly/odessajs-webgl)
+[Video](https://www.youtube.com/watch?v=9VvMFz0-DKE)
 
 ## Web Components - das unbekannte Wesen aus dem Browser
 [enterJS](https://www.enterjs.de/), Darmstadt
