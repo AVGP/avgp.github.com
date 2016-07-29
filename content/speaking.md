@@ -7,7 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 21.07.16 | Amsterdam | NLHTML5 | WebVR in the wild |
 | 30.07.16 | Vinnytsia | Vinnytsia JS | JavaScript: The awesome parts |
 | 30.07.16 | Vinnytsia | Vinnytsia JS | WTF: WebGL: The fundamentals |
 | 27.08.16 | Vilnius | Frontend Union | Building interactive 3D worlds in the browser with WebGL |
@@ -23,6 +22,7 @@
 ## WebVR in the wild
 [NLHTML5](https://www.meetup.com/NLHTML5/), Amsterdam
 
+[Video](https://www.youtube.com/watch?v=8lXFCIbOgmQ)
 [Slides](https://bit.ly/nlhtml5-webvr-usecase)
 
 ## WebGL - basic computer graphics for frontend devs
