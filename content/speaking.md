@@ -7,8 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 30.07.16 | Vinnytsia | Vinnytsia JS | JavaScript: The awesome parts |
-| 30.07.16 | Vinnytsia | Vinnytsia JS | WTF: WebGL: The fundamentals |
 | 27.08.16 | Vilnius | Frontend Union | Building interactive 3D worlds in the browser with WebGL |
 | 01. - 02.09.16 | Zurich | Frontend Conf | Life of a pixel or how I learned to love rendering performance |
 | 16.09.16 | McLean, VA | NationJS | Demystifying WebGL |
