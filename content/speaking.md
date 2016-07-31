@@ -19,6 +19,16 @@
 
 # 2016
 
+## JavaScript: The awesome parts
+[VinnytsiaJS](http://vinnytsiajs.org/), Vinnytsia
+
+[Slides](bit.ly/js-awesome-parts)
+
+## WTF - WebGL: The fundamentals
+[VinnytsiaJS](http://vinnytsiajs.org/), Vinnytsia
+
+[Slides](http://bit.ly/webgl-the-fundamentals)
+
 ## WebVR in the wild
 [NLHTML5](https://www.meetup.com/NLHTML5/), Amsterdam
 
