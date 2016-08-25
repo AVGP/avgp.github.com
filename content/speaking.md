@@ -10,7 +10,7 @@
 | 27.08.16 | Vilnius | Frontend Union | Building interactive 3D worlds in the browser with WebGL |
 | 01. - 02.09.16 | Zurich | Frontend Conf | Life of a pixel or how I learned to love rendering performance |
 | 07.09.16 | Zürich | ICT Skills | What we do at Archilogic |
-| 09. / 10.09.16 | Lviv | GDG Devfest | TBA |
+| 09. / 10.09.16 | Lviv | GDG Devfest | Progressive Web Apps with Polymer (Workshop) |
 | 16.09.16 | Washington DC | NationJS | Demystifying WebGL |
 | 06. - 07.10.16 | Amsterdam | Fronteers | WebVR in the wild |
 | 21. - 23.10.16 | Birmingham | Hackference | Building interactive 3D worlds in the browser with WebGL |
