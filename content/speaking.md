@@ -7,8 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 27.08.16 | Vilnius | Frontend Union | Building interactive 3D worlds in the browser with WebGL |
-| 01. - 02.09.16 | Zurich | Frontend Conf | Life of a pixel or how I learned to love rendering performance |
 | 07.09.16 | Zürich | ICT Skills | What we do at Archilogic |
 | 09. / 10.09.16 | Lviv | GDG Devfest | Progressive Web Apps with Polymer (Workshop) |
 | 16.09.16 | Washington DC | NationJS | Demystifying WebGL |
@@ -19,6 +17,16 @@
 
 
 # 2016
+
+## Life of a pixel
+[Frontend Conference Zürich](http://frontendconf.ch)
+
+[Slides](http://bit.ly/fec16-rendering)
+
+## Building interactive 3D worlds in the browser with WebGL
+[Frontend Union Conf](http://frontend-union.co/)
+
+[Slides](http://bit.ly/frontendunion-browser3d)
 
 ## JavaScript: The awesome parts
 [VinnytsiaJS](http://vinnytsiajs.org/), Vinnytsia
