@@ -22,6 +22,7 @@
 [Frontend Conference Zürich](http://frontendconf.ch)
 
 [Slides](http://bit.ly/fec16-rendering)
+[Video](https://vimeo.com/181110922)
 
 ## Building interactive 3D worlds in the browser with WebGL
 [Frontend Union Conf](http://frontend-union.co/)
