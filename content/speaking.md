@@ -227,6 +227,7 @@
 ## Exploring the third dimension with WebGL
 [JSDay 2015](http://2015.jsday.it), Verona (Italy)
 
+[Video](https://vimeo.com/136813516)
 [Slides](http://bit.ly/jsday15-3dweb)
 
 ## Taking the web to the next dimension
