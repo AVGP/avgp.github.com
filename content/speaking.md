@@ -7,25 +7,28 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 07.09.16 | Zürich | ICT Skills | What we do at Archilogic |
-| 09. / 10.09.16 | Lviv | GDG Devfest | Progressive Web Apps with Polymer (Workshop) |
 | 16.09.16 | Washington DC | NationJS | Demystifying WebGL |
 | 06. - 07.10.16 | Amsterdam | Fronteers | WebVR in the wild |
 | 21. - 23.10.16 | Birmingham | Hackference | Building interactive 3D worlds in the browser with WebGL |
 | 25. - 26.10.16 | Munich | WebTechCon | WebGL workshop |
 | 28. - 29.11.16 | Munich | jsKongress | Making games with JavaScript and Phaser.io |
-
+| 01. - 02.03.17 | Linz | Topconf | Designing the next generation: UI/UX for VR |
 
 # 2016
 
+## Practical WebGL with Three.js
+[GDG Devfest Ukraine](https://devfest.gdg.org.ua), Lviv
+
+[Slides](http://bit.ly/dfua-webgl)
+
 ## Life of a pixel
-[Frontend Conference Zürich](http://frontendconf.ch)
+[Frontend Conference](http://frontendconf.ch), Zürich
 
 [Slides](http://bit.ly/fec16-rendering)
 [Video](https://vimeo.com/181110922)
 
 ## Building interactive 3D worlds in the browser with WebGL
-[Frontend Union Conf](http://frontend-union.co/)
+[Frontend Union Conf](http://frontend-union.co/), Vilnius
 
 [Slides](http://bit.ly/frontendunion-browser3d)
 
