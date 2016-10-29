@@ -7,13 +7,22 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 21. - 23.10.16 | Birmingham | Hackference | Building interactive 3D worlds in the browser with WebGL |
-| 25. - 26.10.16 | Munich | WebTechCon | WebGL workshop |
 | 28. - 29.11.16 | Munich | jsKongress | Making games with JavaScript and Phaser.io |
 | 11.12.16 | Moscow | HolyJS | WebVR is the next frontier |
 | 01. - 02.03.17 | Linz | Topconf | Designing the next generation: UI/UX for VR |
 
 # 2016
+
+
+## Web components and Polymer
+[Web Tech Con](https://webtechcon.de/), Munich
+
+[Slides](https://bit.ly/wtc-polymer)
+
+## Building interactive 3D worlds in the browser with WebGL
+[Hackference](http://2016.hackference.co.uk/), Birmingham
+
+[Slides](http://bit.ly/hackference-webgl)
 
 ## Multi-user WebVR
 [Fronteers](fronteers.nl/congres/2016), Amsterdam
