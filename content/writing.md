@@ -3,6 +3,8 @@
 # Writing
 Besides [blogging](http://50linesofco.de) I write articles for various publications from time to time and I am currently in the early stages of writing [an ebook on web components](http://www.leanpub.com/webcomponents).
 
+I am in the process of writing [a book on Polymer](https://www.dpunkt.de/buecher/12286/9783864903861-web-components-mit-polymer.html) for d.punkt publishing.
+
 Here is a list of articles I wrote so far:
 
 ## Life of a pixel
