@@ -7,12 +7,20 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 28. - 29.11.16 | Munich | jsKongress | Making games with JavaScript and Phaser.io |
 | 11.12.16 | Moscow | HolyJS | WebVR is the next frontier |
 | 01. - 02.03.17 | Linz | Topconf | Designing the next generation: UI/UX for VR |
 
 # 2016
 
+## Practical WebGL with Three.js (Talk)
+[GDG Devfest Istanbul](http://devfest.istanbul), Istanbul
+
+[Slides](https://bit.ly/dfist-webgl)
+
+## Making games with JavaScript and Phaser.io
+[jsKongress](https://js-kongress.de/), Munich
+
+[Slides](http://bit.ly/jskongress-gamedev)
 
 ## Web components and Polymer
 [Web Tech Con](https://webtechcon.de/), Munich
@@ -38,6 +46,7 @@
 [GDG Devfest Ukraine](https://devfest.gdg.org.ua), Lviv
 
 [Slides](http://bit.ly/dfua-webgl)
+[Video](https://www.youtube.com/watch?v=wRXLs-Ccj2o)
 
 ## Life of a pixel
 [Frontend Conference](http://frontendconf.ch), Zürich
