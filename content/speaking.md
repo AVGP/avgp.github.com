@@ -9,6 +9,8 @@
 | --- | --- | --- | --- |
 | 11.12.16 | Moscow | HolyJS | WebVR is the next frontier |
 | 01. - 02.03.17 | Linz | Topconf | Designing the next generation: UI/UX for VR |
+| 08. - 10.03.17 | Montreal | Confoo | Life of a pixel: Understanding rendering performance |
+| 08. - 10.03.17 | Montreal | Confoo | Demystifying WebGL |
 
 # 2016
 
