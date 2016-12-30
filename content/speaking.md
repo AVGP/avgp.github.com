@@ -7,12 +7,19 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 11.12.16 | Moscow | HolyJS | WebVR is the next frontier |
-| 01. - 02.03.17 | Linz | Topconf | Designing the next generation: UI/UX for VR |
-| 08. - 10.03.17 | Montreal | Confoo | Life of a pixel: Understanding rendering performance |
-| 08. - 10.03.17 | Montreal | Confoo | Demystifying WebGL |
+| 26.01.17 | Barcelona | Cinema JS | TBA |
+| 18. - 19.02.17 | Minsk | Rolling Scopes | TBA |
+| 01. - 02.03.17 | Linz | Topconf | New interactions for the web |
+| 08.03.17 | Montreal | Confoo | Life of a pixel: Understanding rendering performance |
+| 09.03.17 | Montreal | Confoo | Demystifying WebGL |
+| 20. - 22.03.17 | Tel-Aviv | boostJS | TBA |
 
 # 2016
+
+# WebVR is the next frontier
+[HolyJS](http://holyjs.ru/), Moscow
+
+[Slides](http://bit.ly/holyjs-webvr)
 
 ## Practical WebGL with Three.js (Talk)
 [GDG Devfest Istanbul](http://devfest.istanbul), Istanbul
