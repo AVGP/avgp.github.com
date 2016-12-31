@@ -7,6 +7,7 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
+| 25.01.17 | Online | Safari Live | Web Components 101 |
 | 26.01.17 | Barcelona | Cinema JS | TBA |
 | 18. - 19.02.17 | Minsk | Rolling Scopes | TBA |
 | 01. - 02.03.17 | Linz | Topconf | New interactions for the web |
