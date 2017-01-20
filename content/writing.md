@@ -39,3 +39,7 @@ Here is a list of articles I wrote so far:
 
 ## ownCloud
     Screenguide #15, 09/2012
+
+Unrelated sidenote:
+
+Check out the great [Marketing Workshop] from a friend of mine!
