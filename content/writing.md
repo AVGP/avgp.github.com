@@ -42,4 +42,4 @@ Here is a list of articles I wrote so far:
 
 Unrelated sidenote:
 
-Check out the great [Marketing Workshop] from a friend of mine!
+Check out the great [Marketing Workshop](http://www.mktwork.shop/workshops-seo/formation-redaction-seo.html) from a friend of mine!
