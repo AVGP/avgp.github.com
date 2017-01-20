@@ -7,6 +7,11 @@ I am in the process of writing [a book on Polymer](https://www.dpunkt.de/buecher
 
 Here is a list of articles I wrote so far:
 
+## TypedArray or DataView: Understanding byte order
+    Mozilla Hacks, 01/2017
+
+[Article](https://hacks.mozilla.org/2017/01/typedarray-or-dataview-understanding-byte-order/)
+
 ## Life of a pixel
     Archilogic Blog, 5/2016
 

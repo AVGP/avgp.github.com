@@ -30,6 +30,7 @@
 ## Making games with JavaScript and Phaser.io
 [jsKongress](https://js-kongress.de/), Munich
 
+[Video](https://www.youtube.com/watch?v=U24QgbjoVkY&t=1s)
 [Slides](http://bit.ly/jskongress-gamedev)
 
 ## Web components and Polymer
