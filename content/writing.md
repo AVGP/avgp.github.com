@@ -40,6 +40,6 @@ Here is a list of articles I wrote so far:
 ## ownCloud
     Screenguide #15, 09/2012
 
-Unrelated sidenote:
+Unrelated side note:
 
-Check out the great [Marketing Workshop](http://www.mktwork.shop/workshops-seo/formation-redaction-seo.html) from a friend of mine!
+Check out the great [Marketing Workshop](http://www.mktwork.shop/workshops-seo/formation-redaction-seo.html) from a friend of mine.
