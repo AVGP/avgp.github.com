@@ -14,6 +14,9 @@
 | 08.03.17 | Montreal | Confoo | Life of a pixel: Understanding rendering performance |
 | 09.03.17 | Montreal | Confoo | Demystifying WebGL |
 | 20. - 22.03.17 | Tel-Aviv | boostJS | TBA |
+| 01. - 02.04.17 | Novosibirsk | Codefest | TBA |
+| 02. - 03.06.17 | St. Petersburg | HolyJS | TBA |
+| 08. - 09.06.17 | Cluj | JS Heroes | TBA |
 
 # 2016
 
