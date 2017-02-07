@@ -7,8 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 25.01.17 | Online | Safari Live | Web Components 101 |
-| 26.01.17 | Barcelona | Cinema JS | TBA |
 | 18. - 19.02.17 | Minsk | Rolling Scopes | TBA |
 | 01. - 02.03.17 | Linz | Topconf | New interactions for the web |
 | 08.03.17 | Montreal | Confoo | Life of a pixel: Understanding rendering performance |
@@ -19,6 +17,11 @@
 | 08. - 09.06.17 | Cluj | JS Heroes | TBA |
 
 # 2016
+
+# Multiplayer games with JavaScript
+[CinemaJS](http://cinemajs.tech), Barcelona
+
+[Slides](http://bit.ly/cjs-multiplayer)
 
 # WebVR is the next frontier
 [HolyJS](http://holyjs.ru/), Moscow
