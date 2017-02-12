@@ -11,10 +11,13 @@
 | 01. - 02.03.17 | Linz | Topconf | New interactions for the web |
 | 08.03.17 | Montreal | Confoo | Life of a pixel: Understanding rendering performance |
 | 09.03.17 | Montreal | Confoo | Demystifying WebGL |
-| 20. - 22.03.17 | Tel-Aviv | boostJS | TBA |
+| 20.03.17 | Tel-Aviv | boostJS | Life of a pixel: Frontend performance demystified |
+| 21.03.17 | Tel-Aviv | boostJS | WORKSHOP: Progressive web apps with Polymer |
 | 01. - 02.04.17 | Novosibirsk | Codefest | TBA |
-| 02. - 03.06.17 | St. Petersburg | HolyJS | TBA |
+| 22.04.17 | Kyiv | JS Frameworks Day | Progressive web apps with Polymer |
+| 02. - 03.06.17 | St. Petersburg | HolyJS | Rendering performance from the ground up |
 | 08. - 09.06.17 | Cluj | JS Heroes | TBA |
+| 20. - 22.06.17 | Darmstadt | enterJS | TBA |
 
 # 2016
 
