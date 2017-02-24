@@ -7,26 +7,41 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 18. - 19.02.17 | Minsk | Rolling Scopes | TBA |
 | 01. - 02.03.17 | Linz | Topconf | New interactions for the web |
 | 08.03.17 | Montreal | Confoo | Life of a pixel: Understanding rendering performance |
 | 09.03.17 | Montreal | Confoo | Demystifying WebGL |
 | 20.03.17 | Tel-Aviv | boostJS | Life of a pixel: Frontend performance demystified |
 | 21.03.17 | Tel-Aviv | boostJS | WORKSHOP: Progressive web apps with Polymer |
 | 01. - 02.04.17 | Novosibirsk | Codefest | TBA |
+| 08.04.17 | Cluj | Codecamp | Building interactive 3D worlds in the browser |
 | 22.04.17 | Kyiv | JS Frameworks Day | Progressive web apps with Polymer |
+| 17.05.17 | Cluj | DevTalks | Practical web components |
 | 02. - 03.06.17 | St. Petersburg | HolyJS | Rendering performance from the ground up |
 | 08. - 09.06.17 | Cluj | JS Heroes | TBA |
-| 20. - 22.06.17 | Darmstadt | enterJS | TBA |
+| 20. - 22.06.17 | Darmstadt | enterJS | [de] Browser-Rendering-Performance verstehen |
 
-# 2016
+## 2017
 
-# Multiplayer games with JavaScript
+## Progressive Webapps with Polymer
+[Rolling Scopes Conf](https://2017.conf.rollingscopes.com/), Minsk
+
+[Slides](http://bit.ly/rs17-pwa)
+[Video](https://www.youtube.com/watch?v=PPnmdIaP4jA)
+
+## Warpspeed: Tricks for high performance JavaScript
+[Rolling Scopes Conf](https://2017.conf.rollingscopes.com/), Minsk
+
+[Slides](http://bit.ly/rs17-warpspeed)
+[Video](https://www.youtube.com/watch?v=1_lX28QWCdg&t=2169s)
+
+## Multiplayer games with JavaScript
 [CinemaJS](http://cinemajs.tech), Barcelona
 
 [Slides](http://bit.ly/cjs-multiplayer)
 
-# WebVR is the next frontier
+# 2016
+
+## WebVR is the next frontier
 [HolyJS](http://holyjs.ru/), Moscow
 
 [Slides](http://bit.ly/holyjs-webvr)
