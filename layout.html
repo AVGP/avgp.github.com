@@ -18,6 +18,26 @@
     box-sizing: border-box;
   }
 
+  @media (max-device-width: 30em) {
+    body {
+      padding: 1em;
+    }
+
+    nav {
+        position: relative;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    nav ul li {
+        display: block;
+        padding: 1.5em;
+    }
+  }
+
   h1, h2, h3 {
     font-family: 'Press Start 2P', monospace;
   }
@@ -36,7 +56,6 @@
   </style>
 </head>
 <body>
-  {{CONTENT}}
 
   <nav>
     <ul>
@@ -46,6 +65,8 @@
       <li><a href="/writing.html">Writing</a></li>
     </ul>
   </nav>
+
+  {{CONTENT}}
 
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
