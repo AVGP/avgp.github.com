@@ -66,9 +66,38 @@
     box-sizing: border-box;
   }
 
+  @media (max-device-width: 30em) {
+    body {
+      padding: 1em;
+    }
+
+    nav {
+        position: relative;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    nav ul li {
+        display: block;
+        padding: 1.5em;
+    }
+  }
+
   </style>
 </head>
 <body>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#experimenting">Experimenting</a></li>
+      <li><a href="#speaking">Speaking</a></li>
+      <li><a href="#writing">Writing</a></li>
+    </ul>
+  </nav>
+
   <section>
     <div id="room">
       <div id="home">
@@ -120,15 +149,6 @@
       </div>
     </div>
   </section>
-
-  <nav>
-    <ul>
-      <li><a href="#home">Home</a></li>
-      <li><a href="#experimenting">Experimenting</a></li>
-      <li><a href="#speaking">Speaking</a></li>
-      <li><a href="#writing">Writing</a></li>
-    </ul>
-  </nav>
 
   <script>
   var room = document.getElementById('room')
