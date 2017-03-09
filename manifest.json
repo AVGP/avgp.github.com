@@ -1,0 +1,9 @@
+{
+  "name": "Geekonaut",
+  "short_name": "Geekonaut",
+  "theme_color": "#00ff00",
+  "background_color": "#000000",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
