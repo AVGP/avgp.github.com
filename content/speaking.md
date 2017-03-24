@@ -13,7 +13,6 @@
 | 22.04.17 | Kyiv | JS Frameworks Day | Progressive web apps with Polymer |
 | 11.05.17 | Vienna | WeAreDevelopers | TBA |
 | 17.05.17 | Cluj | DevTalks | Practical web components |
-
 | 02. - 03.06.17 | St. Petersburg | HolyJS | Rendering performance from the ground up |
 | 08. - 09.06.17 | Cluj | JS Heroes | TBA |
 | 17.06.17 | Zürich | Informatik Tage | [de] 3D im Web |
