@@ -3,6 +3,7 @@
 <head>
   <title>The Geekonaut::Speaksheet</title>
   <meta charset="utf-8">
+  <meta name="theme-color" content="#00ff00">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css?family=Play|Press+Start+2P" rel="stylesheet">
   <link rel="manifest" href="/manifest.json">
@@ -123,6 +124,11 @@
 
     ga('create', 'UA-37093471-1', 'geekonaut.de');
     ga('send', 'pageview');
+
+    if('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').then(() => console.log('installed service worker'))
+    }
+
   </script>
 </body>
 </html>

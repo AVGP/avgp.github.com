@@ -3,6 +3,7 @@
 <head>
   <title>The Geekonaut::Speaking</title>
   <meta charset="utf-8">
+  <meta name="theme-color" content="#00ff00">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css?family=Play|Press+Start+2P" rel="stylesheet">
   <link rel="manifest" href="/manifest.json">
@@ -97,40 +98,16 @@
 </thead>
 <tbody>
 <tr>
-<td>01. - 02.03.17</td>
-<td>Linz</td>
-<td>Topconf</td>
-<td>New interactions for the web</td>
-</tr>
-<tr>
-<td>08.03.17</td>
-<td>Montreal</td>
-<td>Confoo</td>
-<td>Life of a pixel: Understanding rendering performance</td>
-</tr>
-<tr>
-<td>09.03.17</td>
-<td>Montreal</td>
-<td>Confoo</td>
-<td>Demystifying WebGL</td>
-</tr>
-<tr>
-<td>20.03.17</td>
-<td>Tel-Aviv</td>
-<td>boostJS</td>
-<td>Life of a pixel: Frontend performance demystified</td>
-</tr>
-<tr>
-<td>21.03.17</td>
-<td>Tel-Aviv</td>
-<td>boostJS</td>
-<td>WORKSHOP: Progressive web apps with Polymer</td>
-</tr>
-<tr>
 <td>01. - 02.04.17</td>
 <td>Novosibirsk</td>
 <td>Codefest</td>
-<td>TBA</td>
+<td>Multiplayer WebVR</td>
+</tr>
+<tr>
+<td>05.04.17</td>
+<td>Milano</td>
+<td>Khronos Design Week</td>
+<td>Introduction to glTF</td>
 </tr>
 <tr>
 <td>08.04.17</td>
@@ -145,32 +122,38 @@
 <td>Progressive web apps with Polymer</td>
 </tr>
 <tr>
+<td>11.05.17</td>
+<td>Vienna</td>
+<td>WeAreDevelopers</td>
+<td>TBA</td>
+</tr>
+<tr>
 <td>17.05.17</td>
 <td>Cluj</td>
 <td>DevTalks</td>
 <td>Practical web components</td>
 </tr>
-<tr>
-<td>02. - 03.06.17</td>
-<td>St. Petersburg</td>
-<td>HolyJS</td>
-<td>Rendering performance from the ground up</td>
-</tr>
-<tr>
-<td>08. - 09.06.17</td>
-<td>Cluj</td>
-<td>JS Heroes</td>
-<td>TBA</td>
-</tr>
-<tr>
-<td>20. - 22.06.17</td>
-<td>Darmstadt</td>
-<td>enterJS</td>
-<td>[de] Browser-Rendering-Performance verstehen</td>
-</tr>
 </tbody>
 </table>
+<p>| 02. - 03.06.17 | St. Petersburg | HolyJS | Rendering performance from the ground up |<br>| 08. - 09.06.17 | Cluj | JS Heroes | TBA |<br>| 17.06.17 | Zürich | Informatik Tage | [de] 3D im Web |<br>| 20. - 22.06.17 | Darmstadt | enterJS | [de] Browser-Rendering-Performance verstehen |</p>
+<!-- | 23. - 25.05.17 | Wroclaw / Warsaw | Code Europe | TBA | -->
+
 <h2 id="2017">2017</h2>
+<h2 id="progressive-webapps-with-polymer">Progressive Webapps with Polymer</h2>
+<p><a href="http://boostjs.io">BoostJS</a>, Tel Aviv</p>
+<p>Workshop</p>
+<h2 id="life-of-a-pixel-frontend-performance-demystified">Life of a pixel: Frontend performance demystified</h2>
+<p><a href="http://boostjs.io">BoostJS</a>, Tel Aviv</p>
+<p><a href="http://bit.ly/boostjs-renderperf">Slides</a></p>
+<h2 id="demystifying-webgl">Demystifying WebGL</h2>
+<p><a href="https://confoo.ca/en/yul2017">Confoo</a>, Montreal</p>
+<p><a href="http://bit.ly/confoo-webgl">Slides</a></p>
+<h2 id="life-of-a-pixel-understanding-rendering-performance">Life of a pixel: Understanding rendering performance</h2>
+<p><a href="https://confoo.ca/en/yul2017">Confoo</a>, Montreal</p>
+<p><a href="http://bit.ly/confoo-renderperf">Slides</a></p>
+<h2 id="new-interactions-for-the-web">New interactions for the web</h2>
+<p><a href="https://www.topconf.com/conference/linz-2017/">Topconf Linz</a>, Linz</p>
+<p><a href="http://bit.ly/web-devices17">Slides</a></p>
 <h2 id="progressive-webapps-with-polymer">Progressive Webapps with Polymer</h2>
 <p><a href="https://2017.conf.rollingscopes.com/">Rolling Scopes Conf</a>, Minsk</p>
 <p><a href="http://bit.ly/rs17-pwa">Slides</a><br><a href="https://www.youtube.com/watch?v=PPnmdIaP4jA">Video</a></p>
@@ -426,6 +409,11 @@
 
     ga('create', 'UA-37093471-1', 'geekonaut.de');
     ga('send', 'pageview');
+
+    if('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').then(() => console.log('installed service worker'))
+    }
+
   </script>
 </body>
 </html>
