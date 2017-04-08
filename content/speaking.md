@@ -11,14 +11,14 @@
 | 05.04.17 | Milano | Khronos Design Week | Introduction to glTF |
 | 08.04.17 | Cluj | Codecamp | Building interactive 3D worlds in the browser |
 | 22.04.17 | Kyiv | JS Frameworks Day | Progressive web apps with Polymer |
-| 11.05.17 | Vienna | WeAreDevelopers | TBA |
+| 11.05.17 | Vienna | WeAreDevelopers | WebVR: A whirlwind tour of VR on the web |
 | 17.05.17 | Cluj | DevTalks | Practical web components |
+| 23. - 25.05.17 | Wroclaw / Warsaw | Code Europe | Exploring WebVR |
 | 02. - 03.06.17 | St. Petersburg | HolyJS | Rendering performance from the ground up |
 | 08. - 09.06.17 | Cluj | JS Heroes | TBA |
 | 17.06.17 | Zürich | Informatik Tage | [de] 3D im Web |
 | 20. - 22.06.17 | Darmstadt | enterJS | [de] Browser-Rendering-Performance verstehen |
-
-<!-- | 23. - 25.05.17 | Wroclaw / Warsaw | Code Europe | TBA | -->
+| 23. - 24.09.17 | Novosibirsk | Devfest | TBA |
 
 ## 2017
 
