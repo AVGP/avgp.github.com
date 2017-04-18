@@ -7,9 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 01. - 02.04.17 | Novosibirsk | Codefest | Multiplayer WebVR |
-| 05.04.17 | Milano | Khronos Design Week | Introduction to glTF |
-| 08.04.17 | Cluj | Codecamp | Building interactive 3D worlds in the browser |
 | 22.04.17 | Kyiv | JS Frameworks Day | Progressive web apps with Polymer |
 | 06.05.17 | Lugano | Voxxed Days Ticino | Web Components |
 | 11.05.17 | Vienna | WeAreDevelopers | WebVR: A whirlwind tour of VR on the web |
@@ -22,6 +19,21 @@
 | 23. - 24.09.17 | Novosibirsk | Devfest | TBA |
 
 ## 2017
+
+## Building interactive 3D worlds in the browser
+[Codecamp](http://cluj.codecamp.ro/), Cluj
+
+[Slides](http://bit.ly/codecamp-3dworlds)
+
+## Archilogic - interior design on the web
+Khronos Milano
+
+Ad-hoc Demo session
+
+## Multiplayer WebVR
+[Codefest](http://codefest.ru), Novosibirsk
+
+[Slides](http://bit.ly/codefest-webvr)
 
 ## Progressive Webapps with Polymer
 [BoostJS](http://boostjs.io), Tel Aviv
