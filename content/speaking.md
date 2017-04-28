@@ -16,6 +16,8 @@
 | 17.06.17 | Zürich | Informatik Tage | [de] 3D im Web |
 | 20. - 22.06.17 | Darmstadt | enterJS | [de] Browser-Rendering-Performance verstehen |
 | 23. - 24.09.17 | Novosibirsk | Devfest | TBA |
+| 13. - 14.10.17 | Lviv | Devfest Ukraine | Rendering performance |
+| 14.10.17 | Bochum | Rendering performance |
 
 ## 2017
 
