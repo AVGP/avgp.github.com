@@ -7,7 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 22.04.17 | Kyiv | JS Frameworks Day | Progressive web apps with Polymer |
 | 06.05.17 | Lugano | Voxxed Days Ticino | Web Components |
 | 11.05.17 | Vienna | WeAreDevelopers | WebVR: A whirlwind tour of VR on the web |
 | 17.05.17 | Cluj | DevTalks | Practical web components |
@@ -19,6 +18,17 @@
 | 23. - 24.09.17 | Novosibirsk | Devfest | TBA |
 
 ## 2017
+
+## WebVR - why, what, how
+[VR/AR Switzerland](https://bit.ly/vrara-ch-event)
+
+[Slides](https://bit.ly/vr-ar-ch)
+
+## Progressive Webapps
+[JS Frameworks Days](https://frameworksdays.com/event/js-frameworks-day-2017), Kyiv
+
+[Slides](http://bit.ly/polymer-pwa-jsfwd17)
+[Video](https://www.youtube.com/watch?v=Jg36lCMDwiM&t=2030s)
 
 ## Building interactive 3D worlds in the browser
 [Codecamp](http://cluj.codecamp.ro/), Cluj
