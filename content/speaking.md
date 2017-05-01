@@ -11,6 +11,7 @@
 | 11.05.17 | Vienna | WeAreDevelopers | WebVR: A whirlwind tour of VR on the web |
 | 17.05.17 | Cluj | DevTalks | Practical web components |
 | 23. - 25.05.17 | Wroclaw / Warsaw | Code Europe | Exploring WebVR |
+| 26.05.17 | Warsaw | Front-Trends | Rendering performance inside out |
 | 02. - 03.06.17 | St. Petersburg | HolyJS | Rendering performance from the ground up |
 | 08. - 09.06.17 | Cluj | JS Heroes | TBA |
 | 17.06.17 | Zürich | Informatik Tage | [de] 3D im Web |
