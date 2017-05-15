@@ -7,8 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 06.05.17 | Lugano | Voxxed Days Ticino | Web Components |
-| 11.05.17 | Vienna | WeAreDevelopers | WebVR: A whirlwind tour of VR on the web |
 | 17.05.17 | Cluj | DevTalks | Practical web components |
 | 23. - 25.05.17 | Wroclaw / Warsaw | Code Europe | Exploring WebVR |
 | 26.05.17 | Warsaw | Front-Trends | Rendering performance inside out |
@@ -22,8 +20,14 @@
 
 ## 2017
 
+## Practical Web Components
+[Voxxed Days Ticino](https://voxxeddays.com/ticino17), Lugano
+
+[Slides](http://bit.ly/vdt17-webcomp)
+[Video](https://www.youtube.com/watch?v=0FstJG9t5v0)
+
 ## WebVR - why, what, how
-[VR/AR Switzerland](https://bit.ly/vrara-ch-event)
+[VR/AR Switzerland](https://bit.ly/vrara-ch-event), Basel
 
 [Slides](https://bit.ly/vr-ar-ch)
 
