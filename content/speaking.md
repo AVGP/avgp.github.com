@@ -7,18 +7,33 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 17.05.17 | Cluj | DevTalks | Practical web components |
-| 23. - 25.05.17 | Wroclaw / Warsaw | Code Europe | Exploring WebVR |
-| 26.05.17 | Warsaw | Front-Trends | Rendering performance inside out |
 | 02. - 03.06.17 | St. Petersburg | HolyJS | Rendering performance from the ground up |
 | 08. - 09.06.17 | Cluj | JS Heroes | TBA |
 | 17.06.17 | Zürich | Informatik Tage | [de] 3D im Web |
 | 20. - 22.06.17 | Darmstadt | enterJS | [de] Browser-Rendering-Performance verstehen |
+| 06. - 08.07.17 | Barcelona | Angular Camp | TBA |
+| 11. - 13.07.17 | London | Fullstack | Life of a pixel: Rendering performance demystified |
+| 06. - 08.09.17 | Barcelona | Fullstack Fest | Rendering performance from the ground up |
 | 23. - 24.09.17 | Novosibirsk | Devfest | TBA |
 | 13. - 14.10.17 | Lviv | Devfest Ukraine | Rendering performance |
 | 14.10.17 | Bochum | Rendering performance |
 
 ## 2017
+
+## Rendering performance inside out
+[Front-Trends](http://2017.front-trends.com), Warsaw
+
+[Slides](http://bit.ly/ft17-rendering)
+
+## Exploring WebVR
+[Code Europe](https://www.codeeurope.pl/en), Warsaw
+
+[Slides](http://bit.ly/codeeurope-webvr101)
+
+## Practical Web Components
+[Devtalks](http://www.devtalks.ro/cluj/), Cluj
+
+[Slides](http://bit.ly/devtalks-webcomp)
 
 ## Practical Web Components
 [Voxxed Days Ticino](https://voxxeddays.com/ticino17), Lugano
