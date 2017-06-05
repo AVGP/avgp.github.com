@@ -23,7 +23,7 @@
 ## Rendering performance inside out
 [Front-Trends](http://2017.front-trends.com), Warsaw
 
-[Slides](http://bit.ly/ft17-rendering)
+[Slides](http://bit.ly/ft17-renderperf)
 
 ## Exploring WebVR
 [Code Europe](https://www.codeeurope.pl/en), Warsaw
