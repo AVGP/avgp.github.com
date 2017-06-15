@@ -58,6 +58,10 @@ header, section#main_content {
   display: inline-block;
 }
 
+section {
+  overflow-x: hidden;
+}
+
 @media screen and (min-width: 45.1em) {
   header {
     width: 25%;
