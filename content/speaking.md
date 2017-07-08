@@ -7,18 +7,29 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 17.06.17 | Zürich | Informatik Tage | [de] 3D im Web |
-| 20. - 22.06.17 | Darmstadt | enterJS | [de] Browser-Rendering-Performance verstehen |
-| 06. - 08.07.17 | Barcelona | Angular Camp | TBA |
 | 11. - 13.07.17 | London | Fullstack | Life of a pixel: Rendering performance demystified |
 | 28.07.17 | Utrecht | Fronteers | Workshop: Practical WebGL with three.js |
+| 26.08.17 | Lviv | LvivJS | WebVR: The next frontier |
 | 06. - 08.09.17 | Barcelona | Fullstack Fest | Rendering performance from the ground up |
 | 23. - 24.09.17 | Novosibirsk | Devfest | TBA |
 | 13. - 14.10.17 | Lviv | Devfest Ukraine | Rendering performance |
 | 14.10.17 | Bochum | RuhrJS | Rendering performance |
+| 20.10.17 | Birmingham | Hackference | JS: The exotic parts |
 | 28. - 29.10.17 | Fribourg | Devfest Switzerland | TBA |
+| 06. - 10.11.17 | Malmö | Oredev | WebVR: What, why and how? |
+
 
 ## 2017
+
+## WebVR with A-Frame
+[Angular Camp](https://angularcamp.org), Barcelona
+
+[Slides](http://bit.ly/ac17-webvr101)
+
+## Browser Rendering Performance verstehen
+[enterJS](https://enterjs.de), Darmstadt
+
+[Slides](http://bit.ly/ejs17-renderperf)
 
 ## Rendering performance from the ground up
 [HolyJS](https://holyjs-piter.ru/en/), St. Petersburg
