@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width">
 
     <style>
-      @media screen {
         body {
           margin: 0;
           padding: 0;
@@ -276,8 +275,6 @@
           text-align: right;
         }
 
-      }
-
       .col {
         float: left;
         box-sizing: border-box;
@@ -323,11 +320,12 @@
       }
 
       @media print {
-        nav { display: none; }
 
-        .timeline {
-          list-style: none;
+        body {
+            color: black;
         }
+
+        nav { display: none; }
 
         a, a:visited, a:hover {
           color: black;
@@ -432,9 +430,19 @@
         </article>
 
         <article id="projects">
-          <h2>My favourite side projects</h2>
+          <h2>My favourite things outside of work</h2>
           <p>The following list is a list of things I did for the fun of it:</p>
           <hr>
+
+          <p>
+              Wrote a book on <a href="https://www.dpunkt.de/buecher/12286/9783864903861-web-components-mit-polymer.html">Polymer and Web Components</a> to give people a handy guide of both the basics and advanced concepts and topics of working with Polymer and vanilla Web Components.
+          </p>
+
+          <p>
+              <a href="http://50linesofco.de">Blogging</a> is my way to share my experience and knowledge with anyone interested in reading.
+              I share technical explanations as well as personal experiences with technology or methodologies. Many of these posts originate in offline discussions or conversations,
+              leading to sharing the outcome with the world at large.
+          </p>
 
           <p>
             <a href="http://avgp.github.io/kein-stress-mit-pollen">Pollenkarte Zurich</a> is a web and mobile app (<a href="https://play.google.com/store/apps/details?id=de.geekonaut.pollenkarte">available on the Android Play Store</a>)
@@ -442,30 +450,11 @@
             It also got some media coverage: <a href="blog.tagesanzeiger.ch/datenblog/index.php/1418/zuerich-durch-die-datenbrille-2">Datenblog (Tagesanzeiger)</a>, <a href="http://www.tagblattzuerich.ch/aktuell/news/news-detail/article/wo-die-pollen-die-zuercher-plagen.html">Tagblatt</a> and <a href="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAFCbV-LCGigV9x&w=470&h=470&url=https%3A%2F%2Ffbcdn-sphotos-h-a.akamaihd.net%2Fhphotos-ak-frc3%2Ft31.0-8%2F1412621_10203676674019288_4279462087824641170_o.jpg&cfs=1">Blick am Abend</a>
           </p>
           <hr>
-          <p>
-            <a href="http://avgp.github.io/FeedBeat">FeedBeat</a> is a hybrid mobile RSS feed reader (<a href="https://play.google.com/store/apps/details?id=de.geekonaut.feedbeat">available on the Android Play Store</a>.
-          </p>
           <hr>
           <p>
             <a href="https://github.com/AVGP/cloud9hub">Cloud9Hub</a> is a free and open source dashboard for Cloud9 (a browser-based <abbrev title="Integrated Development Environment">IDE)</abbrev>.
           </p>
           <hr>
-          <p>
-            <a href="https://leanpub.com/webcomponents">Building modern web apps with web components</a> is a free ebook I am currently writing
-            to familiarize web developers with state of the art techniques and latest technologies for build web applications. I also <a href="http://components.geekonaut.de">curate a list of web components I created</a>.
-          </p>
-          <hr>
-          <p>
-            <a href="https://github.com/AVGP/Montagsmaler">Montagsmaler</a> is a websocket-based web clone of Draw Something.
-          </p>
-          <hr>
-          <p>
-            <a href="https://github.com/AVGP/flipAhead.js">FlipAhead.js</a> allows to use 2-finger swipe to navigate a webpage.
-          </p>
-          <hr>
-          <p>
-            <a href="https://github.com/AVGP/eternity">Eternity</a> lets you deploy node.js app with a git push.
-          </p>
         </article>
 
         <article id="career">
@@ -473,9 +462,15 @@
           <p>Where I come from, what I have learnt and done</p>
           <ul class="timeline">
             <li class="vcard">
-              <h3 class="role">Bit wizard</h3>
+              <h3 class="role">Head of engineering</h3>
               <div><span class="org">Archilogic</span>, <span class="locality">Zurich</span></div>
-              <div class="timespan">10/2014 - today</div>
+              <div class="timespan">05/2017 - today</div>
+            </li>
+
+            <li class="vcard">
+              <h3 class="role">Fullstack Engineer</h3>
+              <div><span class="org">Archilogic</span>, <span class="locality">Zurich</span></div>
+              <div class="timespan">10/2014 - 05/2017</div>
             </li>
 
             <li class="vcard">
@@ -531,12 +526,12 @@
             <ul>
               <li>Javascript</li>
               <li>Ruby</li>
-              <li>C/C++/C#</li>
-              <li>Java</li>
-              <li>Scala</li>
-              <li>PHP</li>
               <li>Python</li>
               <li>Go</li>
+              <li>Scala</li>
+              <li>C/C++/C#</li>
+              <li>Java</li>
+              <li>PHP</li>
               <li>Groovy</li>
               <li>ActionScript 2/3</li>
             </ul>
@@ -545,7 +540,7 @@
           <div class="col">
             <h3>Cloud platforms</h3>
             <ul>
-              <li>AWS (EC2, ELB, S3)</li>
+              <li>AWS (EC2, ELB, S3, Lambda, ...)</li>
               <li>CloudStack</li>
               <li>OpenStack</li>
               <li>CloudFoundry</li>
@@ -569,14 +564,14 @@
           <div class="col">
             <h3>Frameworks</h3>
             <ul>
+              <li>Vue.js</li>
+              <li>Polymer</li>
               <li>Symfony</li>
               <li>Ruby on rails</li>
               <li>Express.js / Connect.js</li>
               <li>Meteor.js</li>
               <li>Sinatra</li>
               <li>Angular.js</li>
-              <li>Vue.js</li>
-              <li>Polymer</li>
               <li>Kendo</li>
             </ul>
           </div>
@@ -584,8 +579,8 @@
           <div class="col">
             <h3>Test Frameworks</h3>
             <ul>
-              <li>JUnit</li>
               <li>Jasmine</li>
+              <li>JUnit</li>
               <li>QUnit</li>
               <li>RSpec</li>
               <li>Cucumber</li>
@@ -601,6 +596,7 @@
             <ul>
               <li>Jenkins</li>
               <li>Travis</li>
+              <li>CodeShip</li>
               <li>Circle</li>
               <li>Drone.io</li>
             </ul>
@@ -637,8 +633,8 @@
           <div class="col">
             <h3>Databases</h3>
             <ul>
-              <li>MySQL</li>
               <li>Postgres</li>
+              <li>MySQL</li>
               <li>Oracle</li>
               <li>MSSQL</li>
               <li>Mongo</li>
@@ -660,10 +656,10 @@
             <h3>Build tools</h3>
             <ul>
               <li>Make</li>
+              <li>grunt / gulp</li>
               <li>Ant</li>
               <li>Maven</li>
               <li>sbt</li>
-              <li>grunt / gulp</li>
             </ul>
           </div>
 
