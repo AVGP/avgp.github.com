@@ -7,19 +7,25 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 11. - 13.07.17 | London | Fullstack | Life of a pixel: Rendering performance demystified |
-| 28.07.17 | Utrecht | Fronteers | Workshop: Practical WebGL with three.js |
+| 22. - 23.08. | Copenhagen | Polymer Summit |
 | 26.08.17 | Lviv | LvivJS | WebVR: The next frontier |
 | 06. - 08.09.17 | Barcelona | Fullstack Fest | Rendering performance from the ground up |
-| 23. - 24.09.17 | Novosibirsk | Devfest | TBA |
+| 16.09.17 | Ekaterinburg | Front Talks | Rendering performance inside out |
+| 23. - 24.09.17 | Novosibirsk | Devfest | Life of a pixel or: A story of browser rendering performance |
 | 13. - 14.10.17 | Lviv | Devfest Ukraine | Rendering performance |
 | 14.10.17 | Bochum | RuhrJS | Rendering performance |
 | 20.10.17 | Birmingham | Hackference | JS: The exotic parts |
 | 28. - 29.10.17 | Fribourg | Devfest Switzerland | TBA |
 | 06. - 10.11.17 | Malmö | Oredev | WebVR: What, why and how? |
-
+| 10. - 11.12.17 | Moscow | HolyJS | TBA |
 
 ## 2017
+
+## Rendering performance demystified
+[Fullstack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things), London
+
+[Slides](http://bit.ly/fsc17-renderperf)
+[Video](https://skillsmatter.com/skillscasts/10274-life-of-a-pixel-rendering-performance-demystified)
 
 ## WebVR with A-Frame
 [Angular Camp](https://angularcamp.org), Barcelona
