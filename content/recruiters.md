@@ -14,7 +14,7 @@ from recruiters who are really interested in me.
 ## Proceeding to round 2
 
 Now you probably asked me to send you my CV or otherwise get back in touch with you regarding the opportunity - and that's cool!
-But as I said: I need to see you *really* mean it, so I am charging a handling fee of <span style="text-decoration:strikethrough">500 CHF (approx. 500 EUR / $520 / £400)</span>.
+But as I said: I need to see you *really* mean it, so I am charging a handling fee of <span style="text-decoration:line-through">500 CHF</span>.
 **Now only <span style="font-weight: bold; color: red;">250 CHF!</span>** (220€, $260, £200)
 
 You can pay quickly and comfortably using this convenient link:
