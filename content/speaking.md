@@ -7,19 +7,28 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 22. - 23.08. | Copenhagen | Polymer Summit |
 | 26.08.17 | Lviv | LvivJS | WebVR: The next frontier |
 | 06. - 08.09.17 | Barcelona | Fullstack Fest | Rendering performance from the ground up |
+| 10.09.17 | Minsk | CSS-Minsk-JS | WebVR - the next frontier |
 | 16.09.17 | Ekaterinburg | Front Talks | Rendering performance inside out |
 | 23. - 24.09.17 | Novosibirsk | Devfest | Life of a pixel or: A story of browser rendering performance |
+| 03.10.17 | Amsterdam | NLHTML5 | TBA |
 | 13. - 14.10.17 | Lviv | Devfest Ukraine | Rendering performance |
 | 14.10.17 | Bochum | RuhrJS | Rendering performance |
 | 20.10.17 | Birmingham | Hackference | JS: The exotic parts |
-| 28. - 29.10.17 | Fribourg | Devfest Switzerland | TBA |
+| 28. - 29.10.17 | Fribourg | Devfest Switzerland | WebVR ftw! |
 | 06. - 10.11.17 | Malmö | Oredev | WebVR: What, why and how? |
+| 13. - 14.11.17 | Munich | JS Kongress | A visual guide of rendering performance |
+| 18.11.17 | Moscow | Frontfest | Rendering performance inside out |
 | 10. - 11.12.17 | Moscow | HolyJS | TBA |
 
 ## 2017
+
+## Polymer for VR
+[Polymer Summit](https://summit.polymer-project.org/), Kopenhagen
+
+[Video](https://www.youtube.com/watch?v=8GmTu2JF4-0&t=2s)
+[Slides](http://bit.ly/poly-vr)
 
 ## Rendering performance demystified
 [Fullstack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things), London
