@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+<head>
+  <title>The Geekonaut</title>
+  <meta charset="utf-8">
+  <meta name="theme-color" content="#00ff00">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Play|Press+Start+2P" rel="stylesheet">
+  <link rel="manifest" href="/manifest.json">
+  <style>
+  body {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background: black;
+    color: white;
+    font-family: Play, sans-serif, monospace;
+    margin: 0;
+    padding: 1em 15em 1em 2em;
+    box-sizing: border-box;
+  }
+
+  .room {
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+  }
+
+  @media (max-device-width: 30em) {
+    body {
+      padding: 1em;
+    }
+
+    nav {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    nav ul li {
+        display: block;
+        padding: 0.5em;
+    }
+
+    #home, #writing, #speaking, #experimenting {
+      padding: 7em 1em 1em 2em;
+    }
+  }
+
+  h1, h2, h3 {
+    font-family: 'Press Start 2P', monospace;
+  }
+
+  a {
+    color: #0f0;
+  }
+
+  nav {
+    position: fixed;
+    right: 0;
+    top: 10vh;
+    margin-right: 2em;
+  }
+
+  * {
+      max-width: 100vw;
+  }
+
+  </style>
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/experiments.html">Experimenting</a></li>
+      <li><a href="/speaking.html">Speaking</a></li>
+      <li><a href="/writing.html">Writing</a></li>
+    </ul>
+  </nav>
+
+  <h1 id="conference-pre-screening-amp-rating-list">Conference pre-screening &amp; rating list</h1>
+<h1 id="must">MUST</h1>
+<ul>
+<li>[ ] [PRE] be transparent about expense policy for travel &amp; accomodation</li>
+<li>[ ] [PRE] have a code of conduct prominently positioned (and it must contain enforcement policies)</li>
+<li>[ ] [PRE] ensure both speaker and attendee diversity (e.g. blind reviews, diversity tickets, ...)</li>
+<li>[ ] disclose a point of contact for speakers in case of unforseen circumstances</li>
+<li>[ ] have a stable stage setup &amp; prepare for A/V tests for the speakers</li>
+<li>[ ] schedule breaks in order to accomodate talks that run over or technical difficulties</li>
+<li>[ ] send out clear, condensed speaker information in a well-timed manner (e.g. 1-2 weeks before the event)</li>
+</ul>
+<h1 id="should">SHOULD</h1>
+<ul>
+<li>[ ] [PRE] cover speaker expenses</li>
+<li>[ ] [PRE] offer food for speakers and attendees (included in ticket price), including options for different dietary requirements</li>
+<li>[ ] have volunteer &amp; A/V technician on site at all times</li>
+<li>[ ] still water available at the stage</li>
+<li>[ ] [PRE] promote new speakers and offer help with slides, talk training, tips, etc.</li>
+<li>[ ] pick speakers up and guide them to the hotel</li>
+<li>[ ] have working WiFi</li>
+<li>[ ] give out common information (voltage, plug type, sightseeing, map, ...)</li>
+</ul>
+<h1 id="may">MAY</h1>
+<ul>
+<li>[ ] hand out public transport tickets</li>
+<li>[ ] hand out SIM cards with a data plan</li>
+<li>[ ] have a speakers room or area</li>
+<li>[ ] serve food for speakers in the speakers area, so queues can be minimised</li>
+<li>[ ] offer rehearsals</li>
+</ul>
+
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-37093471-1', 'geekonaut.de');
+    ga('send', 'pageview');
+
+    if('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').then(() => console.log('installed service worker'))
+    }
+
+  </script>
+</body>
+</html>

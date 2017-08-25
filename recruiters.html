@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+<head>
+  <title>The Geekonaut::Recruiters</title>
+  <meta charset="utf-8">
+  <meta name="theme-color" content="#00ff00">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Play|Press+Start+2P" rel="stylesheet">
+  <link rel="manifest" href="/manifest.json">
+  <style>
+  body {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background: black;
+    color: white;
+    font-family: Play, sans-serif, monospace;
+    margin: 0;
+    padding: 1em 15em 1em 2em;
+    box-sizing: border-box;
+  }
+
+  .room {
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+  }
+
+  @media (max-device-width: 30em) {
+    body {
+      padding: 1em;
+    }
+
+    nav {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    nav ul li {
+        display: block;
+        padding: 0.5em;
+    }
+
+    #home, #writing, #speaking, #experimenting {
+      padding: 7em 1em 1em 2em;
+    }
+  }
+
+  h1, h2, h3 {
+    font-family: 'Press Start 2P', monospace;
+  }
+
+  a {
+    color: #0f0;
+  }
+
+  nav {
+    position: fixed;
+    right: 0;
+    top: 10vh;
+    margin-right: 2em;
+  }
+
+  * {
+      max-width: 100vw;
+  }
+
+  </style>
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/experiments.html">Experimenting</a></li>
+      <li><a href="/speaking.html">Speaking</a></li>
+      <li><a href="/writing.html">Writing</a></li>
+    </ul>
+  </nav>
+
+  <h1 id="recruiters">Recruiters</h1>
+<p>Hey $firstname,</p>
+<p>first things first: Thanks for sending me that email! I feel valued and appreciated - it&#39;s an honour to be considered for $opportunity...</p>
+<p>Right, without further ado: If you clicked this link, only the first stage of your recruiting is automated<br>or you have the unfortunate talent to come across like an automated email when you&#39;re crafting yours.</p>
+<p>Nonetheless, I&#39;m super excited to be in touch with you, it&#39;s just that there&#39;s so much traffic that I gotta make sure I only get quality offers<br>from recruiters who are really interested in me.</p>
+<h2 id="proceeding-to-round-2">Proceeding to round 2</h2>
+<p>Now you probably asked me to send you my CV or otherwise get back in touch with you regarding the opportunity - and that&#39;s cool!<br>But as I said: I need to see you <em>really</em> mean it, so I am charging a handling fee of <span style="text-decoration:line-through">500 CHF</span>.<br><strong>Now only <span style="font-weight: bold; color: red;">250 CHF!</span></strong> (220€, $260, £200)</p>
+<p>You can pay quickly and comfortably using this convenient link:</p>
+<div style="font-size: 2em; text-align: center;"><br>  <a href="https://paypal.me/webzuerich">paypal.me/webzuerich</a><br></div>
+
+<p>Once that has happened, I&#39;m happy to talk :-)</p>
+<p>Cheers,<br>Martin</p>
+
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-37093471-1', 'geekonaut.de');
+    ga('send', 'pageview');
+
+    if('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').then(() => console.log('installed service worker'))
+    }
+
+  </script>
+</body>
+</html>
