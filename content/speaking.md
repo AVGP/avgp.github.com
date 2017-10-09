@@ -7,22 +7,47 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 26.08.17 | Lviv | LvivJS | WebVR: The next frontier |
-| 06. - 08.09.17 | Barcelona | Fullstack Fest | Rendering performance from the ground up |
-| 10.09.17 | Minsk | CSS-Minsk-JS | WebVR - the next frontier |
-| 16.09.17 | Ekaterinburg | Front Talks | Rendering performance inside out |
-| 23. - 24.09.17 | Novosibirsk | Devfest | Life of a pixel or: A story of browser rendering performance |
-| 03.10.17 | Amsterdam | NLHTML5 | TBA |
 | 13. - 14.10.17 | Lviv | Devfest Ukraine | Rendering performance |
 | 14.10.17 | Bochum | RuhrJS | Rendering performance |
+| 19.10.17 | Paris | WebXR | TBA |
 | 20.10.17 | Birmingham | Hackference | JS: The exotic parts |
+| 23. - 24.10.17 | San Francisco | Chrome Dev Summit | WebVR Demos |
 | 28. - 29.10.17 | Fribourg | Devfest Switzerland | WebVR ftw! |
+| 30. - 31.10.17 | Tel-Aviv | You Gotta Love Frontend | WebVR live coding session |
 | 06. - 10.11.17 | Malmö | Oredev | WebVR: What, why and how? |
+| 11.11.17 | Lisbon | Devfest Lisbon | WebVR |
 | 13. - 14.11.17 | Munich | JS Kongress | A visual guide of rendering performance |
-| 18.11.17 | Moscow | Frontfest | Rendering performance inside out |
+| 24. - 25.11.17 | Madrid | CodeMotion | TBA |
 | 10. - 11.12.17 | Moscow | HolyJS | TBA |
 
 ## 2017
+
+## WebVR Whirlwind tour
+[NLHTML5](https://www.meetup.com/NLHTML5/events/242558139/)
+
+[Slides](http://bit.ly/nlhtml5-webvr17)
+
+## Life of a pixel: A story of browser rendering performance
+[Devfest Novosibirsk](http://gdg-siberia.com)
+
+[Slides](http://bit.ly/gdgnsk-renderperf)
+
+## Rendering performance inside out
+[Front Talks](http://fronttalks.ru), Ekaterinburg
+
+[Slides](http://bit.ly/fronttalks17-renderperf)
+
+## Rendering performanxe from the ground up
+[Fullstack Fest](https://2017.fullstackfest.com/), Barcelona
+
+[Slides](http://bit.ly/fsf17-renderperf)
+
+## WebVR: The next frontier
+
+[LvivJS](http://lvivjs.org.ua/), Lviv
+
+[Video](https://www.youtube.com/watch?v=_BVovrTqwPM)
+[Slides](http://bit.ly/lvivjs17-webvr101)
 
 ## Polymer for VR
 [Polymer Summit](https://summit.polymer-project.org/), Kopenhagen
