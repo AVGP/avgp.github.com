@@ -7,28 +7,70 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 13. - 14.10.17 | Lviv | Devfest Ukraine | Rendering performance |
-| 14.10.17 | Bochum | RuhrJS | Rendering performance |
-| 19.10.17 | Paris | WebXR | TBA |
-| 20.10.17 | Birmingham | Hackference | JS: The exotic parts |
-| 23. - 24.10.17 | San Francisco | Chrome Dev Summit | WebVR Demos |
-| 28. - 29.10.17 | Fribourg | Devfest Switzerland | WebVR ftw! |
-| 30. - 31.10.17 | Tel-Aviv | You Gotta Love Frontend | WebVR live coding session |
-| 06. - 10.11.17 | Malmö | Oredev | WebVR: What, why and how? |
-| 11.11.17 | Lisbon | Devfest Lisbon | WebVR |
-| 13. - 14.11.17 | Munich | JS Kongress | A visual guide of rendering performance |
-| 24. - 25.11.17 | Madrid | CodeMotion | TBA |
-| 10. - 11.12.17 | Moscow | HolyJS | TBA |
+| 24.11.17 | Minsk | Devfest Belarus | WebVR |
+| 05. - 07.12.17 | Brussels | W3C WebVR Authoring Workshop | Unconf |
+| 10. - 11.12.17 | Moscow | HolyJS | Streams, WebASM, Web workers |
+| 25. - 27.01.18 | Singapore | JSConf Asia | The web with depth |
+| 01. - 02.03.18 | Helsinki | ngVikings | WebVR |
+| 17.05.18 | Toulouse | Devfest Toulouse | WebVR |
 
 ## 2017
 
+# Let's try WebVR
+[Devfest Belarus](http://devfest.by), Minsk
+
+[Slides](http://bit.ly/devfestby17-webvr)
+
+## A visual guide of rendering performance
+[JSKongress](https://js-kongress.de), München
+
+[Video](https://www.youtube.com/watch?v=pCIe8gMv5oY)
+[Slides](http://bit.ly/jsk17-renderperf)
+
+## WebVR - a short intro
+[Devfest Lisbon](https://devfest.gdglisbon.xyz), Lisbon
+
+[Slides](http://bit.ly/devfestlx-webvr)
+
+## WebVR: What, why and how?
+[Oredev](http://oredev.org/), Malmö
+
+[Slides](http://bit.ly/oredev-webvr)
+
+## Building interactive 3D worlds in the browser
+[You Gotta Love Frontend](https://yougottalovefrontend.com), Tel-Aviv
+
+[Slides](http://bit.ly/yglf17-3dworlds)
+
+## WebVR FTW!
+[Devfest Switzerland](https://devfest.ch), Fribourg
+
+[Slides](http://bit.ly/dfch17-webvr)
+
+## JS, the exotic parts
+[Hackference](https://2017.hackference.co.uk/), Birmingham
+
+[Slides](http://bit.ly/hf17-js)
+
+## Life of a pixel - A visual explanation of rendering performance
+[RuhrJS](https://ruhrjs.de), Bochum
+
+[Video](https://www.youtube.com/watch?v=WSo2r7LBFLA)
+[Slides](http://bit.ly/ruhrjs17-renderperf)
+
+## A look at the guts of Polymer 2.0
+[Devfest Ukraine](https://devfest.gdg.org.ua), Lviv
+
+[Video](https://www.youtube.com/watch?v=tRdx6Q5x3Fw)
+[Slides](http://bit.ly/dfua17-polymer)
+
 ## WebVR Whirlwind tour
-[NLHTML5](https://www.meetup.com/NLHTML5/events/242558139/)
+[NLHTML5](https://www.meetup.com/NLHTML5/events/242558139/), Amsterdam
 
 [Slides](http://bit.ly/nlhtml5-webvr17)
 
 ## Life of a pixel: A story of browser rendering performance
-[Devfest Novosibirsk](http://gdg-siberia.com)
+[Devfest Novosibirsk](http://gdg-siberia.com), Novosibirsk
 
 [Slides](http://bit.ly/gdgnsk-renderperf)
 
