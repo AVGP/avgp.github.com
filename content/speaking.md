@@ -11,6 +11,7 @@
 | 05. - 07.12.17 | Brussels | W3C WebVR Authoring Workshop | Unconf |
 | 10. - 11.12.17 | Moscow | HolyJS | Streams, WebASM, Web workers |
 | 25. - 27.01.18 | Singapore | JSConf Asia | The web with depth |
+| 10. - 11.02.18 | Minsk | Rolling Scopes | WebVR |
 | 01. - 02.03.18 | Helsinki | ngVikings | WebVR |
 | 17.05.18 | Toulouse | Devfest Toulouse | WebVR |
 
