@@ -13,6 +13,7 @@
 | 25. - 27.01.18 | Singapore | JSConf Asia | The web with depth |
 | 10. - 11.02.18 | Minsk | Rolling Scopes | WebVR |
 | 01. - 02.03.18 | Helsinki | ngVikings | WebVR |
+| 18.03.18 | Kiev | JS Frameworks Days | WebVR |
 | 17.05.18 | Toulouse | Devfest Toulouse | WebVR |
 
 ## 2017
