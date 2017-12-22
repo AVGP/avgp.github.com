@@ -7,9 +7,6 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 24.11.17 | Minsk | Devfest Belarus | WebVR |
-| 05. - 07.12.17 | Brussels | W3C WebVR Authoring Workshop | Unconf |
-| 10. - 11.12.17 | Moscow | HolyJS | Streams, WebASM, Web workers |
 | 25. - 27.01.18 | Singapore | JSConf Asia | The web with depth |
 | 10. - 11.02.18 | Minsk | Rolling Scopes | WebVR |
 | 01. - 02.03.18 | Helsinki | ngVikings | WebVR |
@@ -18,9 +15,16 @@
 
 ## 2017
 
+# WebVR - UX challenges
+[W3C WebVR Workshop on Authoring](https://w3c.github.io/webvr-content-workshop/), Brussels
+
+[Video](https://www.youtube.com/watch?v=iPQDQPk9vvU&t=9031s)
+[Slides](http://bit.ly/webvr-ux-cliffs)
+
 # Let's try WebVR
 [Devfest Belarus](http://devfest.by), Minsk
 
+[Video](https://www.youtube.com/watch?v=3DwD9qowM9g)
 [Slides](http://bit.ly/devfestby17-webvr)
 
 ## A visual guide of rendering performance
@@ -42,6 +46,7 @@
 ## Building interactive 3D worlds in the browser
 [You Gotta Love Frontend](https://yougottalovefrontend.com), Tel-Aviv
 
+[Video](https://www.youtube.com/watch?v=2WaBESMWZ7g)
 [Slides](http://bit.ly/yglf17-3dworlds)
 
 ## WebVR FTW!
