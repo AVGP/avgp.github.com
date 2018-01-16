@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Google Search Console Experiment: Template</title>
+    </head>
+    <body>
+        <main></main>
+        <template>
+            This page should be very simple and Google should be able to index it without a problem.<br />
+            See <a href="search-console-details2.html">Search Console Details</a> for more information on this experiment.
+        </template>
+        <script>
+          var tpl = document.querySelector('template).content
+          var target = document.querySelector('main')
+
+          target.appendChild(document.importNode(tpl, true))
+        </script>
+    </body>
+</html>
