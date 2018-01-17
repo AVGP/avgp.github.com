@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Google Search Console Experiment: Web Component polyfill</title>
+        <script src="https://rawgit.com/webcomponents/custom-elements/v1.0.7/custom-elements.min.js"></script>
+    </head>
+    <body>
+        <main>
+            <my-content></my-content>
+        </main>
+
+        <template>
+            This page should be very simple and Google should be able to index it without a problem.<br />
+            See <a href="search-console-details3.html">Search Console Details</a> for more information on this experiment.
+        </template>
+
+        <script>
+        var tpl = document.querySelector('template').content
+
+        class MyContent extends HTMLElement {
+            constructor() {
+                super()
+            }
+            connectedCallback() {
+                this.appendChild(document.importNode(tpl, true))
+            }
+        }
+
+        window.customElements.define('my-content', MyContent)
+        </script>
+    </body>
+</html>
