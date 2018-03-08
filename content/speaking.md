@@ -7,21 +7,48 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 25. - 27.01.18 | Singapore | JSConf Asia | The web with depth |
-| 10. - 11.02.18 | Minsk | Rolling Scopes | WebVR |
-| 01. - 02.03.18 | Helsinki | ngVikings | WebVR |
+| 16.03.18 | Bergen | Booster Conference | Workshop: Building virtual worlds in the browser |
 | 18.03.18 | Kiev | JS Frameworks Days | WebVR |
-| 17.05.18 | Toulouse | Devfest Toulouse | WebVR |
+| 12.04.18 | San Francisco | Image Con | A Whirlwind Tour of the Immersive Web: Today and Tomorrow |
+| 21. / 22.04 | Hamburg | JS Unconf | TBA |
+| 17.05.18 | Vienna | We Are Developers | TBA |
 
-## 2017
+# 2018
 
-# WebVR - UX challenges
+## Rendering performance from the ground up
+[ngVikings](http://ngvikings.org), Helsinki
+
+[Slides](https://docs.google.com/presentation/d/1n3R9GMbpbCtBv_595vOMsvCyxkeFf7sfzKGCyNkkSUw/edit?usp=sharing)
+
+## Virtual Reality in the browser
+[ngVikings](http://ngvikings.org), Helsinki
+
+[Slides](https://docs.google.com/presentation/d/1Lb8zf_vuNC6SADLH6wGMHmlV5tfR8Ao9E9E5pbbuY0k/edit?usp=sharing)
+
+## THE JOY OF OPTIMIZING IMAGES (with Una Kravets)
+[Smashing Conf](https://smashingconf.com/london-2018), London
+
+[Video](https://vimeo.com/254736788)
+[Slides](https://avgp.github.io/beyond-the-basics-of-image-optimization/)
+
+## Virtual Reality in your browser
+[JSConf Asia](https://2018.jsconf.asia/#speakers), Singapore
+
+[Video](https://www.youtube.com/watch?v=QYnJUrvzlLk&t=868s)
+[Slides](http://bit.ly/jsconfasia-webxr)
+
+## Augmented Reality on the web
+[World Web Forum](https://worldwebforum.com/speakers/martin-splitt/), Zurich
+
+# 2017
+
+## WebVR - UX challenges
 [W3C WebVR Workshop on Authoring](https://w3c.github.io/webvr-content-workshop/), Brussels
 
 [Video](https://www.youtube.com/watch?v=iPQDQPk9vvU&t=9031s)
 [Slides](http://bit.ly/webvr-ux-cliffs)
 
-# Let's try WebVR
+## Let's try WebVR
 [Devfest Belarus](http://devfest.by), Minsk
 
 [Video](https://www.youtube.com/watch?v=3DwD9qowM9g)
