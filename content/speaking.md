@@ -7,22 +7,48 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 16.03.18 | Bergen | Booster Conference | Workshop: Building virtual worlds in the browser |
-| 18.03.18 | Kiev | JS Frameworks Days | WebVR |
-| 12.04.18 | San Francisco | Image Con | A Whirlwind Tour of the Immersive Web: Today and Tomorrow |
-| 21. / 22.04 | Hamburg | JS Unconf | TBA |
-| 17.05.18 | Vienna | We Are Developers | TBA |
+| 14.06.18 | Nuernberg | Franken JS | Rendering performance inside out |
+| 21.06.18 | Tel-Aviv | Angular Up | Semantic, searchable webapps with Angular |
+| 13./14.10.18 | Bochum | RuhrJS | Creative experiments with WebGL |
+| 17.10.18 | Belgrade | HeapCon | TBA |
 
 # 2018
+
+## JavaScript in parallel
+[Webrebels](http://webrebels.org), Oslo
+
+[Slides](https://bit.ly/wr18-js-in-parallel)
+
+## WebVR for everyone
+[We Are Developers](http://wearedevelopers.com), Vienna
+
+## WebXR
+[JS Unconf](http://2018.jsunconf.eu), Hamburg
+
+## A whirlwind tour of the immersive web
+[Image Con](http://www.imagecon.com/events/imagecon-2018/event-summary-1a9b0d3d0cbf4d979d663a202586ed1e.aspx), San Francisco
+
+[Video](https://www.youtube.com/watch?v=gMq1MAJQ3c0)
+
+## Creating virtual worlds in the browser
+[JS Frameworks Days](https://fwdays.com/en/event/js-fwdays-2018), Kyiv
+
+[Video](https://youtu.be/0y2jXEUHvuk)
+[Slides](http://bit.ly/jsfwd18-webvr)
+
+## [Workshop] Building virtual worlds in the browser
+[Booster Conf](http://boosterconf.no), Bergen
 
 ## Rendering performance from the ground up
 [ngVikings](http://ngvikings.org), Helsinki
 
+[Video](https://www.youtube.com/watch?v=lEH6FTNx8KY)
 [Slides](https://docs.google.com/presentation/d/1n3R9GMbpbCtBv_595vOMsvCyxkeFf7sfzKGCyNkkSUw/edit?usp=sharing)
 
 ## Virtual Reality in the browser
 [ngVikings](http://ngvikings.org), Helsinki
 
+[Video](https://www.youtube.com/watch?v=ZuHFqE6ljVk)
 [Slides](https://docs.google.com/presentation/d/1Lb8zf_vuNC6SADLH6wGMHmlV5tfR8Ao9E9E5pbbuY0k/edit?usp=sharing)
 
 ## THE JOY OF OPTIMIZING IMAGES (with Una Kravets)
