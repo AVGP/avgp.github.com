@@ -56,9 +56,8 @@ Long:
 Martin is open source contributor and web evangelist by heart from Zurich
 with a decade experience from the trenches of software engineering in multiple fields.
 
-He works as a software engineer at <a href="http://about.archilogic.com">Archilogic</a> in front- and backend.
-He devotes his time to moving the web forward, fixing problems, building applications and systems
-and breaking things for fun &amp; profit.
+He works as a Webmasters Trends Analyst / Developer Advocate at <a href="https://google.com">Google</a> for Search &amp; web ecosystem.
+He helps people building applications or publishing content on the web to be successful, productive and visible.
 
 Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.
 </blockquote>
