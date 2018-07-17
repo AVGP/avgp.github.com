@@ -7,12 +7,17 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 14.06.18 | Nuernberg | Franken JS | Rendering performance inside out |
-| 21.06.18 | Tel-Aviv | Angular Up | Semantic, searchable webapps with Angular |
+| 20.07.18 | Barcelona | JS Camp | Semantic, searchable webapps with Angular |
 | 13./14.10.18 | Bochum | RuhrJS | Creative experiments with WebGL |
 | 17.10.18 | Belgrade | HeapCon | TBA |
 
 # 2018
+
+## Semantic, searchable webapps with Angular
+[Angular Up](https://angular-up.com), Tel-Aviv
+
+## Rendering performance inside out
+[Franken JS](https://www.meetup.com/de-DE/FrankenJS/), Nuernberg
 
 ## JavaScript in parallel
 [Webrebels](http://webrebels.org), Oslo
