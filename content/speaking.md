@@ -7,11 +7,15 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 20.07.18 | Barcelona | JS Camp | Semantic, searchable webapps with Angular |
-| 13./14.10.18 | Bochum | RuhrJS | Creative experiments with WebGL |
+| 28.09.18 | Brighton | BrightonSEO | Building search-friendly web apps with JavaScript |
+| 12.10.18 | Lviv | Devfest Ukraine | TBA |
+| 14.10.18 | Bochum | RuhrJS | Creative experiments with WebGL |
 | 17.10.18 | Belgrade | HeapCon | TBA |
 
 # 2018
+
+## Semantic, searchable webapps with Angular
+[JS Camp](https://jscamp.tech), Barcelona
 
 ## Semantic, searchable webapps with Angular
 [Angular Up](https://angular-up.com), Tel-Aviv
@@ -22,6 +26,7 @@
 ## JavaScript in parallel
 [Webrebels](http://webrebels.org), Oslo
 
+[Video](https://www.youtube.com/watch?v=8DIx6qioQKg)
 [Slides](https://bit.ly/wr18-js-in-parallel)
 
 ## WebVR for everyone
