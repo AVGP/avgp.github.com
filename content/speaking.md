@@ -7,15 +7,20 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
+| 19.09.18 | Bochum | Facebook Developer Circle Ruhr | The why and how of WebXR |
 | 28.09.18 | Brighton | BrightonSEO | Building search-friendly web apps with JavaScript |
 | 12.10.18 | Lviv | Devfest Ukraine | TBA |
 | 14.10.18 | Bochum | RuhrJS | Creative experiments with WebGL |
 | 17.10.18 | Belgrade | HeapCon | TBA |
+| 12. - 14.11.18 | San Francisco | Chrome Dev Summit | TBA |
+| 04. - 05.12.18 | Warsaw | Frontend Con | TBA |
 
 # 2018
 
 ## Semantic, searchable webapps with Angular
 [JS Camp](https://jscamp.tech), Barcelona
+
+[Video](https://www.youtube.com/watch?v=E2lJoVD0Wec)
 
 ## Semantic, searchable webapps with Angular
 [Angular Up](https://angular-up.com), Tel-Aviv
