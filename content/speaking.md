@@ -7,13 +7,13 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 19.09.18 | Bochum | Facebook Developer Circle Ruhr | The why and how of WebXR |
 | 28.09.18 | Brighton | BrightonSEO | Building search-friendly web apps with JavaScript |
-| 12.10.18 | Lviv | Devfest Ukraine | TBA |
+| 12.10.18 | Lviv | Devfest Ukraine | Dazzingly discoverable, furiously fast web apps with Angular |
 | 14.10.18 | Bochum | RuhrJS | Creative experiments with WebGL |
-| 17.10.18 | Belgrade | HeapCon | TBA |
+| 17.10.18 | Belgrade | HeapCon | Making great, discoverable web apps / WebXR |
 | 12. - 14.11.18 | San Francisco | Chrome Dev Summit | TBA |
-| 04. - 05.12.18 | Warsaw | Frontend Con | TBA |
+| 23.11.18 | Salzburg | SEOkomm | Dynamic Rendering |
+| 04. - 05.12.18 | Warsaw | Frontend Con | Demystifying discoverable web apps |
 
 # 2018
 
