@@ -7,15 +7,25 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 28.09.18 | Brighton | BrightonSEO | Building search-friendly web apps with JavaScript |
-| 12.10.18 | Lviv | Devfest Ukraine | Dazzingly discoverable, furiously fast web apps with Angular |
-| 14.10.18 | Bochum | RuhrJS | Creative experiments with WebGL |
 | 17.10.18 | Belgrade | HeapCon | Making great, discoverable web apps / WebXR |
-| 12. - 14.11.18 | San Francisco | Chrome Dev Summit | TBA |
+| 08.11.18 | San Francisco | Angular SF | 5 1/2 tips for making your Angular app findable in Search |
+| 12. - 13.11.18 | San Francisco | Chrome Dev Summit | Making Modern Web Content Discoverable for Search |
 | 23.11.18 | Salzburg | SEOkomm | Dynamic Rendering |
+| 24.11.18 | Vienna | Devfest Vienna | Technical SEO 101 for web developers |
 | 04. - 05.12.18 | Warsaw | Frontend Con | Demystifying discoverable web apps |
 
 # 2018
+
+## Creative experiments with WebGL
+[RuhrJS](https://ruhrjs.de), Bochum
+
+[Slides](http://bit.ly/ruhrjs18-shaders)
+
+## Dazzingly discoverable, furiously fast web apps with Angular
+[Devfest Ukraine](https://devfest.gdg.org.ua), Lviv
+
+## Building search-friendly web apps with JavaScript
+[BrightonSEO](https://brightonseo.com), Brighton
 
 ## Semantic, searchable webapps with Angular
 [JS Camp](https://jscamp.tech), Barcelona
