@@ -19,6 +19,7 @@
 ## Creative experiments with WebGL
 [RuhrJS](https://ruhrjs.de), Bochum
 
+[Video](https://www.youtube.com/watch?v=t4BnyWfK9FA)
 [Slides](http://bit.ly/ruhrjs18-shaders)
 
 ## Dazzingly discoverable, furiously fast web apps with Angular
@@ -34,6 +35,8 @@
 
 ## Semantic, searchable webapps with Angular
 [Angular Up](https://angular-up.com), Tel-Aviv
+
+[Video](https://www.youtube.com/watch?v=Z9mHopLeE40)
 
 ## Rendering performance inside out
 [Franken JS](https://www.meetup.com/de-DE/FrankenJS/), Nuernberg
