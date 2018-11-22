@@ -9,8 +9,10 @@
 | --- | --- | --- | --- |
 | 23.11.18 | Salzburg | SEOkomm | Dynamic Rendering |
 | 24.11.18 | Vienna | Devfest Vienna | Technical SEO 101 for web developers |
-| 01.12.18 | Zagreb | Devfest Croatia | Technical SEO 101 for web developers |
+| 01.12.18 | Zagreb | Devfest Croatia | Tips & tricks for great web apps |
 | 04. - 05.12.18 | Warsaw | Frontend Con | Demystifying discoverable web apps |
+| | | | |
+| 11. - 12.03.19 | Munich | SMX Munich | Sprich mit mir! Wie SEOs und Entwickler besser zusammenarbeiten können |
 
 # 2018
 
