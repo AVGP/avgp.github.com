@@ -7,14 +7,28 @@
 
 | Date | Location | Conference | Topic |
 | --- | --- | --- | --- |
-| 17.10.18 | Belgrade | HeapCon | Making great, discoverable web apps / WebXR |
-| 08.11.18 | San Francisco | Angular SF | 5 1/2 tips for making your Angular app findable in Search |
-| 12. - 13.11.18 | San Francisco | Chrome Dev Summit | Making Modern Web Content Discoverable for Search |
 | 23.11.18 | Salzburg | SEOkomm | Dynamic Rendering |
 | 24.11.18 | Vienna | Devfest Vienna | Technical SEO 101 for web developers |
+| 01.12.18 | Zagreb | Devfest Croatia | Technical SEO 101 for web developers |
 | 04. - 05.12.18 | Warsaw | Frontend Con | Demystifying discoverable web apps |
 
 # 2018
+
+## Making Modern Web Content Discoverable for Search
+[Chrome Dev Summit](https://developer.chrome.com/devsummit/schedule), San Francisco
+
+[Video](https://www.youtube.com/watch?v=YP2tMBhyU0I)
+
+## 5 1/2 tips for making your Angular app findable
+[Angular SF](https://www.meetup.com/Angular-SF/events/255253396/), San Francisco
+
+## Technical SEO 101 for JS developers
+[BelgradeJS](https://www.meetup.com/JS-Belgrade-Meetup/events/255386818/), Belgrade
+
+## Making great, discoverable web apps
+[HeapCon](https://heapcon.io), Belgrade
+
+[Video](https://www.youtube.com/watch?v=d1-lkSiYVJ8)
 
 ## Creative experiments with WebGL
 [RuhrJS](https://ruhrjs.de), Bochum
