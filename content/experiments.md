@@ -3,6 +3,10 @@
 
 A List of small experiments can be found on [my exposition site](http://avgp.github.io/exposition).
 
+## Search Experiments
+
+I also do some [search experiments](https://experiments.geekonaut.de) at another subdomain. :)
+
 ## Tango WebVR 6DoF
 
 Using [Google Tango](https://get.google.com/tango/) and [WebVR](https://webvr.info/) with WebGL to get six degrees of freedom in a demo.
