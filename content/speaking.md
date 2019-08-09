@@ -8,7 +8,7 @@
 | Date | Location | Conference | 
 | --- | --- | --- | --- |
 | 10.08.19 | Minsk | Rolling Scopes Conf |
-| 29. - 30.08.19 | Zurich | 
+| 29. - 30.08.19 | Zurich | Front Conference |
 | 30. - 31.08.19 | Berlin | ng-de |
 | 10.09.19 | Melbourne | Components Conf |
 | 13. - 14.08.19 | Toronto | Web Unleashed |
