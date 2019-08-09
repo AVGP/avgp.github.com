@@ -5,13 +5,47 @@
 
 ## Upcoming talks
 
-| Date | Location | Conference | Topic |
+| Date | Location | Conference | 
 | --- | --- | --- | --- |
-| 01.12.18 | Zagreb | Devfest Croatia | Tips & tricks for great web apps |
-| 04. - 05.12.18 | Warsaw | Frontend Con | Demystifying discoverable web apps |
-| --- | --- | --- | --- |
-| 06. - 07.02.19 | Cologne | c't webdev | A brief history of the web |
-| 11. - 12.03.19 | Munich | SMX Munich | Sprich mit mir! Wie SEOs und Entwickler besser zusammenarbeiten können |
+| 10.08.19 | Minsk | Rolling Scopes Conf |
+| 29. - 30.08.19 | Zurich | 
+| 30. - 31.08.19 | Berlin | ng-de |
+| 10.09.19 | Melbourne | Components Conf |
+| 13. - 14.08.19 | Toronto | Web Unleashed |
+| 21.09.19 | Prague | Web Expo |
+| 10.10.19 | Malmö | Search Stars |
+| 13.11.19 | New York | SMX East | 
+| 22.11.19 | Salzburg | SEOKomm |
+| 04. - 05.12.19 | Boston | TechSEO Boost |
+
+# 2019 so far
+- August
+  - Webmaster Conference, Bangalore
+  - Webmaster Conference, Hyderabad
+- July
+  - SEO United Meetup, Hannover
+  - New Devs On The Block, Nuremberg
+  - FrankenJS, Nuremberg
+- June
+  - Voxxed Days, Athens
+  - React Next, Tel Aviv
+  - Angular Up, Tel Aviv
+  - enterJS, Darmstadt
+- May
+  - Next10x, Boston
+  - Google I/O, Mountain View
+  - HolyJS, St. Petersburg
+  - DaFED, Novi Sad
+- April
+  - SMX Munich, Munich
+  - ForwardJS, Ottawa
+  - GDG DevFest, Pisa
+- March
+  - JS Frameworks Days, Kyiv
+- February
+  - Friends of Search, Amsterdam
+  - c't webdev, Cologne
+  - AgentConf, Dornbirn
 
 # 2018
 
